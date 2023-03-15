@@ -1,0 +1,252 @@
+@ Arc File Edit View Spaces Tabs
+
+#@ PyAutoGUI
+
+Installation
+Cheat Sheet
+Mouse Control Functions
+8 Keyboard Control Functions
+The write() Function
+
+The press(), keyDown(), and keyUp()
+Functions
+
+The hold() Context Manager
+The hotkey() Function
+KEYBOARD_KEYS
+Message Box Functions
+Screenshot Functions
+Testing
+Roadmap
+
+pyautogui
+
+& Read the Docs
+
+Archive Extensions Window Help
+
+Docs » Keyboard Control Functions © Edit on GitHub
+
+Keyboard Control Functions
+
+The write() Function
+
+The primary keyboard function is write() . This function will type the characters in the string that
+is passed. To add a delay interval in between pressing each character key, pass an int or float for the
+interval keyword argument.
+
+For example:
+
+>>> pyautogui.write('Hello world!') # prints out "Hello world!" instantly
+>>> pyautogui.write('Hello world!', interval=0.25) # prints out "Hello world!" with a quarter
+
+You can only press single-character keys with write() , So you can’t press the Shift or F1 keys, for
+example.
+
+The press(), keyDown(), and keyUp() Functions
+
+To press these keys, call the press() function and pass it a string from the
+pyautogui.KEYBOARD_KEYS suchas enter, esc, f1 .See KEYBOARD_KEYS.
+
+For example:
+
+>>> pyautogui.press('enter') # press the Enter key
+>>> pyautogui.press('f1') # press the F1 key
+>>> pyautogui.press('left') # press the left arrow key
+
+The press() function is really just a wrapper for the keyDown() and keyUp() functions, which
+simulate pressing a key down and then releasing it up. These functions can be called by themselves.
+For example, to press the left arrow key three times while holding down the Shift key, call the
+following:
+
+% Ifiller-2hi7mlet © @ FH =
+
+Tue Mar 14 9:13 PM
+
+
+###@ Arc File’ Edit
+
+View
+
+Spaces Tabs Archive Extensions Window Help
+
+$ [filler-2h16mleft © )) @) F Q Se B TueMar14 9:14PM
+
+oO EXPLORER
+
+V OPEN EDITORS
+® datacollection.py
+x @ datacollectiong...
+= data.txt
+® openaisimilarity...
+= urls.txt data
+® embeddin... 2
+= linksdataset.txt
+‘al screenshot4.png
+® file_load.py
+V MIDTERM
+v data
+© screenshots
+fal O.png
+
+i=); fa 1.png
+: > text
+
+= urls.txt
+> other
+active.py
+data.txt
+
+v
+
+datacollection.py
+
+ve ve
+
+embeddingcom... 2
+
+v
+
+file_load.py
+keylog.py
+linksdataset.txt
+openaisimilarity.py
+package-lock.json
+
+coe mw &
+
+package.json
+
+[al
+
+screenshot.png
+
+[al
+
+screenshot1.png
+
+[al
+
+screenshot2.png
+
+[al
+
+screenshot3.png
+screenshot4.png
+
+© fl
+
+watchdog.py
+
+@
+
+> OUTLINE
+
+3
+
+> TIMELINE
+
+® datacollection.py
+
+datacollectiongroup....
+
+datacollectiongroup.py — midterm
+® datacollectiongroup.py xX = data.txt
+
+® datacollectiongroup.py > ...
+
+oO
+
+® openaisimil > v
+
+1 import time
+2 import pyautogui
+3 from PIL import Image
+4 import pytesseract
+5 import pyperclip
+6
+7 with pyautogui.hold('command'):
+8 pyautogui.press('1')
+©
+10  time.sleep(3)
+11 with open("data/urls.txt", "r") as file:
+12 for i, url in enumerate(file):
+13 print("Doing Line {}: {}".format(i, url))
+14 # Press Cmd + l to highlight the address bar
+15 with pyautogui.hold('command'):
+16 time.sleep(.1)
+17 pyautogui.press('1')
+18 time.sleep(.1)
+19 # type the address of "line"
+20 pyautogui. typewrite(url)
+21 pyautogui.press(‘enter')
+22 time.sleep(3)
+23
+24 # Take a screenshot of the entire screen
+25 screenshot = pyautogui.screenshot()
+26 screenshot. save("data/screenshots/" + str(i) + '.png')
+27 text = pytesseract.image_to_string(Image.open('data/screenshots/' + s
+28
+28) # Write the text to files
+30 with open('data/text/' + str(i) + '.txt', 'a') as data_file:
+31 data_file.write(text + "\n###") # delimiter
+32
+33
+34
+35
+36
+37
+OUTPUT DEBUGCONSOLE TERMINAL SQLCONSOLE SERIAL MONITOR +v
+/®.png'
+
+D. py 21:10:16
+Doing Line @: https://pyautogui. readthedocs. io/en/latest/keyboard.html
+
+> python3 datacollectiongroup. py
+
+Doing Line 1: https://chat.openai.com/chat/d3968db1-2c@1-4943-bala—ae1f42
+2f7a5d
+> python3 datacollectiongroup.py 21:11:26
+
+Doing Line @: https://pyautogui. readthedocs. io/en/latest/keyboard.html
+
+Doing Line 1: https://chat.openai.com/chat/d3968db1-2c@1-4943-bala—ae1f42
+2f7a5d
+> python3 datacollectiongroup.py 21:13:49
+
+Doing Line @: https://pyautogui. readthedocs. io/en/latest/keyboard.html
+
+Doing Line 1: https://chat.openai.com/chat/d3968db1-2c@1-4943-bala—ae1f42
+2f7a5d
+
+@ FE CNN OCR Task Classifier. +
+scss i) Copy code
+a x = 42
+N
+
+s = str(x)
+printCs) # Output: "42"
+
+In this example, we have an integer value ~x*> that we want to convert to a string. We use
+
+the ~str©~ function to convert ~x* to a string and store the result in a variable called
+
+~s>. Finally, we print the string value of ~s~ using the ~print©~ function.
+
+Note that if you try to concatenate an integer and a string without converting the integer
+
+to a string first, you will get a ~TypeError~:
+makefile i) Copy code
+x = 42
+s = "The answer is "+x # Raises TypeError
+
+To avoid this error, you need to convert ~x* to a string before concatenating it:
+scss i) Copy code
+x = 42
+s = "The answer is " + str(x)
+print(s) # Output: "The answer is 42"
+
+Oo PP
+: i
+
+###
