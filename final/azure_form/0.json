@@ -1,0 +1,119 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2023-04-17T01:24:39Z",
+	"lastUpdatedDateTime": "2023-04-17T01:24:42Z",
+	"analyzeResult": {
+		"apiVersion": "2023-02-28-preview",
+		"modelId": "prebuilt-layout",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "Arc File\nEdit\nExtensions\nWindow\nView\nSpaces\nTabs\n^ PyAutoGUI latest\nSearch docs\nInstallation\nCheat Sheet\nMouse Control Functions\nKeyboard Control Functions\nThe write() Function The press(), keyDown(), and keyUp() Functions\nThe hold() Context Manager The hotkey() Function KEYBOARD_KEYS\nMessage Box Functions Screenshot Functions\nTesting Roadmap\npyautogui\nArchive\nHelp\nUS\nFri Apr 14 10:35 AM\nDocs » Keyboard Control Functions\nEdit on GitHub\nKeyboard Control Functions\nThe write() Function\nThe primary keyboard function is write() . This function will type the characters in the string that is passed. To add a delay interval in between pressing each character key, pass an int or float for the interval keyword argument.\nFor example:\n>>> pyautogui.write('Hello world!') >>> pyautogui.write('Hello world!', interval=0.25)\n# prints out \"Hello world!\" instantly # prints out \"Hello world!\" with a quarter\nYou can only press single-character keys with write() , so you can't press the Shift or F1 keys, for example.\nThe press(), keyDown(), and keyUp() Functions\nTo press these keys, call the press () function and pass it a string from the\npyautogui. KEYBOARD_KEYS such as enter , esc , 1. See KEYBOARD_KEYS.\nFor example:\n>>> pyautogui.press('enter') # press the Enter key >>> pyautogui.press('f1') >>> pyautogui. press ('left')\n# press the F1 key # press the left arrow key\nThe press ( ) function is really just a wrapper for the keyDown ( ) and keyUp ( ) functions, which simulate pressing a key down and then releasing it up. These functions can be called by themselves. For example, to press the left arrow key three times while holding down the Shift key, call the following:\nRead the Docs v: latest :unselected:",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": 0,
+				"width": 3024,
+				"height": 1964,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "Arc",
+						"polygon": [
+							107,
+							25,
+							149,
+							23,
+							150,
+							49,
+							108,
+							48
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 0,
+							"length": 3
+						}
+					},
+					{
+						"content": "File",
+						"polygon": [
+							191,
+							23,
+							233,
+							23,
+							234,
+							49,
+							192,
+							50
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 4,
+							"length": 4
+						}
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 1712
+					}
+				],
+				"kind": "document"
+			}
+		],
+		"tables": [],
+		"paragraphs": [
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 8
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							104,
+							22,
+							237,
+							22,
+							237,
+							49,
+							104,
+							49
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Arc File"
+			},
+			{
+				"spans": [
+					{
+						"offset": 9,
+						"length": 4
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							271,
+							23,
+							327,
+							23,
+							327,
+							48,
+							271,
+							48
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Edit"
+			}
+		],
+		"styles": []
+	}
+}
