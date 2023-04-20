@@ -1,0 +1,6553 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2023-04-17T04:48:34Z",
+	"lastUpdatedDateTime": "2023-04-17T04:48:36Z",
+	"analyzeResult": {
+		"apiVersion": "2023-02-28-preview",
+		"modelId": "prebuilt-layout",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "Arc File\nEdit\nView\nSpaces\nTabs Archive\nExtensions Window\nHelp\nFri Apr 14 10:35 AM\nHome\n#\nExplore\nHome\nFor you\nWhat's happening?\nNotifications\ni GIF\nFollowing\nTweet\nUS\nQ\nSearch Twitter\nWhat's happening\nNHL · Last night\nBruins at Canadiens\nC\nTechnology · Trending\n...\nElon Musk @elonmusk . 3h\nMessages\n...\nGPT-5\n3,703 Tweets\nBusiness and finance . Trending\n...\nBookmarks\nYou might respect the penis, but do you\nTwitter Blue\nBoeing\n14.6K Tweets\nTrending in Massachusetts ...\nHonoré de Balzac French novelist\n..\nProfile\nMore\nOverview\nBooks\nMovies\nTweet\n8,441\n17 22.7K\n238.3K\n@ gone_awol_now\n16.6M\nBoston Marathon\n2,941 Tweets\nShow more\nWho to follow\njamessinka.eth @jamessinka\nElijah Kofke @ProteinMasseuse\nJane Chuprin @janechuprin\n1\nShow more\nTrung Phan @TrungTPhan . 17h\n...\nFollow\nFollow\nFollow\nTerms of Service Privacy Policy Cookie Policy\nAnhPhu Nguyen\n...\nAmazon released \"Bedrock\", a generative Al toolkit for chat, text and image.\nAcce @ 20 Messages\nE+\n@AnhPhuNguyen1\ntwitter.com/explore/tabs/for-you :selected: :selected: :selected: :selected: :selected: :selected: :unselected: :selected:",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": 0,
+				"width": 3024,
+				"height": 1964,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "Arc",
+						"polygon": [
+							108,
+							23,
+							150,
+							23,
+							150,
+							49,
+							108,
+							49
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 0,
+							"length": 3
+						}
+					},
+					{
+						"content": "File",
+						"polygon": [
+							191,
+							23,
+							233,
+							23,
+							234,
+							49,
+							192,
+							50
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 4,
+							"length": 4
+						}
+					},
+					{
+						"content": "Edit",
+						"polygon": [
+							276,
+							23,
+							326,
+							23,
+							326,
+							48,
+							276,
+							48
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 9,
+							"length": 4
+						}
+					},
+					{
+						"content": "View",
+						"polygon": [
+							364,
+							24,
+							415,
+							24,
+							415,
+							48,
+							364,
+							48
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 14,
+							"length": 4
+						}
+					},
+					{
+						"content": "Spaces",
+						"polygon": [
+							464,
+							24,
+							553,
+							24,
+							554,
+							52,
+							464,
+							51
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 19,
+							"length": 6
+						}
+					},
+					{
+						"content": "Tabs",
+						"polygon": [
+							597,
+							24,
+							651,
+							24,
+							651,
+							48,
+							597,
+							48
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 26,
+							"length": 4
+						}
+					},
+					{
+						"content": "Archive",
+						"polygon": [
+							692,
+							23,
+							781,
+							23,
+							781,
+							50,
+							692,
+							49
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 31,
+							"length": 7
+						}
+					},
+					{
+						"content": "Extensions",
+						"polygon": [
+							823,
+							23,
+							955,
+							23,
+							956,
+							50,
+							823,
+							49
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 39,
+							"length": 10
+						}
+					},
+					{
+						"content": "Window",
+						"polygon": [
+							995,
+							23,
+							1087,
+							23,
+							1088,
+							50,
+							995,
+							49
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 50,
+							"length": 6
+						}
+					},
+					{
+						"content": "Help",
+						"polygon": [
+							1131,
+							15,
+							1191,
+							15,
+							1191,
+							58,
+							1131,
+							58
+						],
+						"confidence": 0.972,
+						"span": {
+							"offset": 57,
+							"length": 4
+						}
+					},
+					{
+						"content": "Fri",
+						"polygon": [
+							2734,
+							20,
+							2766,
+							21,
+							2767,
+							51,
+							2735,
+							52
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 62,
+							"length": 3
+						}
+					},
+					{
+						"content": "Apr",
+						"polygon": [
+							2772,
+							22,
+							2818,
+							22,
+							2819,
+							50,
+							2773,
+							51
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 66,
+							"length": 3
+						}
+					},
+					{
+						"content": "14",
+						"polygon": [
+							2826,
+							22,
+							2854,
+							22,
+							2855,
+							50,
+							2826,
+							50
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 70,
+							"length": 2
+						}
+					},
+					{
+						"content": "10:35",
+						"polygon": [
+							2874,
+							22,
+							2941,
+							22,
+							2941,
+							50,
+							2874,
+							50
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 73,
+							"length": 5
+						}
+					},
+					{
+						"content": "AM",
+						"polygon": [
+							2950,
+							21,
+							2981,
+							20,
+							2981,
+							51,
+							2951,
+							51
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 79,
+							"length": 2
+						}
+					},
+					{
+						"content": "Home",
+						"polygon": [
+							365,
+							251,
+							476,
+							252,
+							476,
+							289,
+							365,
+							288
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 82,
+							"length": 4
+						}
+					},
+					{
+						"content": "#",
+						"polygon": [
+							278,
+							364,
+							309,
+							364,
+							308,
+							410,
+							277,
+							409
+						],
+						"confidence": 0.964,
+						"span": {
+							"offset": 87,
+							"length": 1
+						}
+					},
+					{
+						"content": "Explore",
+						"polygon": [
+							363,
+							365,
+							499,
+							367,
+							500,
+							411,
+							363,
+							409
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 89,
+							"length": 7
+						}
+					},
+					{
+						"content": "Home",
+						"polygon": [
+							813,
+							127,
+							931,
+							128,
+							930,
+							171,
+							813,
+							169
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 97,
+							"length": 4
+						}
+					},
+					{
+						"content": "For",
+						"polygon": [
+							1020,
+							240,
+							1069,
+							240,
+							1070,
+							273,
+							1021,
+							273
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 102,
+							"length": 3
+						}
+					},
+					{
+						"content": "you",
+						"polygon": [
+							1076,
+							240,
+							1127,
+							241,
+							1128,
+							274,
+							1076,
+							273
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 106,
+							"length": 3
+						}
+					},
+					{
+						"content": "What's",
+						"polygon": [
+							939,
+							359,
+							1061,
+							361,
+							1061,
+							408,
+							938,
+							407
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 110,
+							"length": 6
+						}
+					},
+					{
+						"content": "happening?",
+						"polygon": [
+							1071,
+							361,
+							1292,
+							359,
+							1293,
+							409,
+							1070,
+							408
+						],
+						"confidence": 0.976,
+						"span": {
+							"offset": 117,
+							"length": 10
+						}
+					},
+					{
+						"content": "Notifications",
+						"polygon": [
+							363,
+							484,
+							602,
+							483,
+							602,
+							522,
+							363,
+							522
+						],
+						"confidence": 0.981,
+						"span": {
+							"offset": 128,
+							"length": 13
+						}
+					},
+					{
+						"content": "i",
+						"polygon": [
+							948,
+							488,
+							963,
+							488,
+							963,
+							510,
+							948,
+							510
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 142,
+							"length": 1
+						}
+					},
+					{
+						"content": "GIF",
+						"polygon": [
+							1022,
+							490,
+							1041,
+							490,
+							1041,
+							505,
+							1022,
+							505
+						],
+						"confidence": 0.908,
+						"span": {
+							"offset": 144,
+							"length": 3
+						}
+					},
+					{
+						"content": "Following",
+						"polygon": [
+							1606,
+							240,
+							1742,
+							240,
+							1742,
+							275,
+							1606,
+							272
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 148,
+							"length": 9
+						}
+					},
+					{
+						"content": "Tweet",
+						"polygon": [
+							1823,
+							485,
+							1911,
+							484,
+							1911,
+							512,
+							1823,
+							512
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 158,
+							"length": 5
+						}
+					},
+					{
+						"content": "US",
+						"polygon": [
+							2312,
+							25,
+							2341,
+							25,
+							2341,
+							46,
+							2312,
+							46
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 164,
+							"length": 2
+						}
+					},
+					{
+						"content": "Q",
+						"polygon": [
+							2082,
+							129,
+							2099,
+							129,
+							2099,
+							162,
+							2082,
+							162
+						],
+						"confidence": 0.85,
+						"span": {
+							"offset": 167,
+							"length": 1
+						}
+					},
+					{
+						"content": "Search",
+						"polygon": [
+							2155,
+							135,
+							2247,
+							134,
+							2247,
+							163,
+							2156,
+							163
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 169,
+							"length": 6
+						}
+					},
+					{
+						"content": "Twitter",
+						"polygon": [
+							2262,
+							134,
+							2356,
+							134,
+							2356,
+							163,
+							2262,
+							163
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 176,
+							"length": 7
+						}
+					},
+					{
+						"content": "What's",
+						"polygon": [
+							2075,
+							255,
+							2211,
+							256,
+							2211,
+							301,
+							2076,
+							299
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 184,
+							"length": 6
+						}
+					},
+					{
+						"content": "happening",
+						"polygon": [
+							2220,
+							256,
+							2434,
+							255,
+							2434,
+							302,
+							2220,
+							301
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 191,
+							"length": 9
+						}
+					},
+					{
+						"content": "NHL",
+						"polygon": [
+							2075,
+							354,
+							2126,
+							354,
+							2127,
+							382,
+							2076,
+							382
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 201,
+							"length": 3
+						}
+					},
+					{
+						"content": "·",
+						"polygon": [
+							2134,
+							354,
+							2145,
+							354,
+							2145,
+							383,
+							2134,
+							382
+						],
+						"confidence": 0.627,
+						"span": {
+							"offset": 205,
+							"length": 1
+						}
+					},
+					{
+						"content": "Last",
+						"polygon": [
+							2150,
+							354,
+							2202,
+							355,
+							2202,
+							383,
+							2150,
+							383
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 207,
+							"length": 4
+						}
+					},
+					{
+						"content": "night",
+						"polygon": [
+							2207,
+							355,
+							2271,
+							355,
+							2270,
+							383,
+							2207,
+							383
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 212,
+							"length": 5
+						}
+					},
+					{
+						"content": "Bruins",
+						"polygon": [
+							2075,
+							396,
+							2169,
+							397,
+							2169,
+							427,
+							2075,
+							429
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 218,
+							"length": 6
+						}
+					},
+					{
+						"content": "at",
+						"polygon": [
+							2175,
+							397,
+							2206,
+							397,
+							2206,
+							427,
+							2175,
+							427
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 225,
+							"length": 2
+						}
+					},
+					{
+						"content": "Canadiens",
+						"polygon": [
+							2212,
+							397,
+							2367,
+							396,
+							2367,
+							429,
+							2212,
+							427
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 228,
+							"length": 9
+						}
+					},
+					{
+						"content": "C",
+						"polygon": [
+							2506,
+							28,
+							2506,
+							41,
+							2481,
+							41,
+							2481,
+							28
+						],
+						"confidence": 0.548,
+						"span": {
+							"offset": 238,
+							"length": 1
+						}
+					},
+					{
+						"content": "Technology",
+						"polygon": [
+							2076,
+							533,
+							2209,
+							534,
+							2209,
+							564,
+							2077,
+							563
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 240,
+							"length": 10
+						}
+					},
+					{
+						"content": "·",
+						"polygon": [
+							2215,
+							534,
+							2226,
+							534,
+							2227,
+							564,
+							2215,
+							564
+						],
+						"confidence": 0.626,
+						"span": {
+							"offset": 251,
+							"length": 1
+						}
+					},
+					{
+						"content": "Trending",
+						"polygon": [
+							2232,
+							534,
+							2336,
+							534,
+							2336,
+							565,
+							2233,
+							564
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 253,
+							"length": 8
+						}
+					},
+					{
+						"content": "...",
+						"polygon": [
+							2675,
+							550,
+							2701,
+							550,
+							2702,
+							557,
+							2675,
+							557
+						],
+						"confidence": 0.789,
+						"span": {
+							"offset": 262,
+							"length": 3
+						}
+					},
+					{
+						"content": "Elon",
+						"polygon": [
+							935,
+							581,
+							995,
+							581,
+							995,
+							611,
+							935,
+							611
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 266,
+							"length": 4
+						}
+					},
+					{
+						"content": "Musk",
+						"polygon": [
+							1003,
+							581,
+							1082,
+							581,
+							1082,
+							611,
+							1003,
+							611
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 271,
+							"length": 4
+						}
+					},
+					{
+						"content": "@elonmusk",
+						"polygon": [
+							1176,
+							581,
+							1338,
+							579,
+							1338,
+							612,
+							1176,
+							611
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 276,
+							"length": 9
+						}
+					},
+					{
+						"content": ".",
+						"polygon": [
+							1344,
+							579,
+							1359,
+							579,
+							1359,
+							612,
+							1344,
+							612
+						],
+						"confidence": 0.581,
+						"span": {
+							"offset": 286,
+							"length": 1
+						}
+					},
+					{
+						"content": "3h",
+						"polygon": [
+							1365,
+							579,
+							1396,
+							579,
+							1397,
+							613,
+							1365,
+							612
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 288,
+							"length": 2
+						}
+					},
+					{
+						"content": "Messages",
+						"polygon": [
+							362,
+							602,
+							549,
+							602,
+							549,
+							645,
+							362,
+							641
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 291,
+							"length": 8
+						}
+					},
+					{
+						"content": "...",
+						"polygon": [
+							1914,
+							592,
+							1943,
+							590,
+							1943,
+							603,
+							1915,
+							603
+						],
+						"confidence": 0.923,
+						"span": {
+							"offset": 300,
+							"length": 3
+						}
+					},
+					{
+						"content": "GPT-5",
+						"polygon": [
+							2075,
+							574,
+							2162,
+							575,
+							2163,
+							601,
+							2076,
+							602
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 304,
+							"length": 5
+						}
+					},
+					{
+						"content": "3,703",
+						"polygon": [
+							2075,
+							619,
+							2144,
+							618,
+							2144,
+							646,
+							2075,
+							646
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 310,
+							"length": 5
+						}
+					},
+					{
+						"content": "Tweets",
+						"polygon": [
+							2151,
+							618,
+							2237,
+							619,
+							2237,
+							647,
+							2151,
+							646
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 316,
+							"length": 6
+						}
+					},
+					{
+						"content": "Business",
+						"polygon": [
+							2075,
+							699,
+							2183,
+							697,
+							2182,
+							727,
+							2075,
+							726
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 323,
+							"length": 8
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							2189,
+							697,
+							2234,
+							697,
+							2234,
+							727,
+							2188,
+							727
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 332,
+							"length": 3
+						}
+					},
+					{
+						"content": "finance",
+						"polygon": [
+							2240,
+							697,
+							2328,
+							697,
+							2328,
+							728,
+							2240,
+							727
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 336,
+							"length": 7
+						}
+					},
+					{
+						"content": ".",
+						"polygon": [
+							2334,
+							697,
+							2346,
+							697,
+							2345,
+							729,
+							2333,
+							728
+						],
+						"confidence": 0.591,
+						"span": {
+							"offset": 344,
+							"length": 1
+						}
+					},
+					{
+						"content": "Trending",
+						"polygon": [
+							2352,
+							697,
+							2458,
+							697,
+							2457,
+							730,
+							2351,
+							729
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 346,
+							"length": 8
+						}
+					},
+					{
+						"content": "...",
+						"polygon": [
+							2675,
+							713,
+							2702,
+							713,
+							2702,
+							723,
+							2675,
+							723
+						],
+						"confidence": 0.918,
+						"span": {
+							"offset": 355,
+							"length": 3
+						}
+					},
+					{
+						"content": "Bookmarks",
+						"polygon": [
+							365,
+							717,
+							573,
+							715,
+							574,
+							756,
+							366,
+							755
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 359,
+							"length": 9
+						}
+					},
+					{
+						"content": "You",
+						"polygon": [
+							988,
+							743,
+							1082,
+							742,
+							1080,
+							801,
+							986,
+							800
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 369,
+							"length": 3
+						}
+					},
+					{
+						"content": "might",
+						"polygon": [
+							1094,
+							742,
+							1243,
+							742,
+							1241,
+							802,
+							1092,
+							801
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 373,
+							"length": 5
+						}
+					},
+					{
+						"content": "respect",
+						"polygon": [
+							1255,
+							742,
+							1443,
+							742,
+							1442,
+							802,
+							1253,
+							802
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 379,
+							"length": 7
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							1455,
+							742,
+							1542,
+							742,
+							1540,
+							802,
+							1454,
+							802
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 387,
+							"length": 3
+						}
+					},
+					{
+						"content": "penis,",
+						"polygon": [
+							1553,
+							742,
+							1699,
+							742,
+							1698,
+							802,
+							1552,
+							802
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 391,
+							"length": 6
+						}
+					},
+					{
+						"content": "but",
+						"polygon": [
+							988,
+							810,
+							1077,
+							810,
+							1077,
+							865,
+							987,
+							866
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 398,
+							"length": 3
+						}
+					},
+					{
+						"content": "do",
+						"polygon": [
+							1088,
+							810,
+							1149,
+							810,
+							1149,
+							864,
+							1087,
+							865
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 402,
+							"length": 2
+						}
+					},
+					{
+						"content": "you",
+						"polygon": [
+							1164,
+							810,
+							1257,
+							810,
+							1258,
+							865,
+							1164,
+							864
+						],
+						"confidence": 0.98,
+						"span": {
+							"offset": 405,
+							"length": 3
+						}
+					},
+					{
+						"content": "Twitter",
+						"polygon": [
+							368,
+							833,
+							493,
+							834,
+							493,
+							871,
+							368,
+							871
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 409,
+							"length": 7
+						}
+					},
+					{
+						"content": "Blue",
+						"polygon": [
+							501,
+							834,
+							581,
+							832,
+							581,
+							873,
+							501,
+							871
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 417,
+							"length": 4
+						}
+					},
+					{
+						"content": "Boeing",
+						"polygon": [
+							2075,
+							737,
+							2176,
+							738,
+							2176,
+							771,
+							2075,
+							769
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 422,
+							"length": 6
+						}
+					},
+					{
+						"content": "14.6K",
+						"polygon": [
+							2077,
+							782,
+							2138,
+							783,
+							2138,
+							809,
+							2077,
+							809
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 429,
+							"length": 5
+						}
+					},
+					{
+						"content": "Tweets",
+						"polygon": [
+							2150,
+							783,
+							2235,
+							784,
+							2235,
+							809,
+							2150,
+							809
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 435,
+							"length": 6
+						}
+					},
+					{
+						"content": "Trending",
+						"polygon": [
+							2077,
+							862,
+							2177,
+							863,
+							2177,
+							890,
+							2078,
+							890
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 442,
+							"length": 8
+						}
+					},
+					{
+						"content": "in",
+						"polygon": [
+							2182,
+							863,
+							2204,
+							863,
+							2205,
+							890,
+							2183,
+							890
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 451,
+							"length": 2
+						}
+					},
+					{
+						"content": "Massachusetts",
+						"polygon": [
+							2211,
+							863,
+							2397,
+							862,
+							2397,
+							891,
+							2212,
+							890
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 454,
+							"length": 13
+						}
+					},
+					{
+						"content": "...",
+						"polygon": [
+							2674,
+							877,
+							2702,
+							876,
+							2703,
+							888,
+							2675,
+							887
+						],
+						"confidence": 0.887,
+						"span": {
+							"offset": 468,
+							"length": 3
+						}
+					},
+					{
+						"content": "Honoré",
+						"polygon": [
+							997,
+							907,
+							1171,
+							908,
+							1170,
+							959,
+							996,
+							958
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 472,
+							"length": 6
+						}
+					},
+					{
+						"content": "de",
+						"polygon": [
+							1184,
+							908,
+							1245,
+							908,
+							1244,
+							959,
+							1184,
+							959
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 479,
+							"length": 2
+						}
+					},
+					{
+						"content": "Balzac",
+						"polygon": [
+							1258,
+							908,
+							1412,
+							908,
+							1412,
+							959,
+							1258,
+							959
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 482,
+							"length": 6
+						}
+					},
+					{
+						"content": "French",
+						"polygon": [
+							996,
+							975,
+							1105,
+							977,
+							1106,
+							1013,
+							997,
+							1014
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 489,
+							"length": 6
+						}
+					},
+					{
+						"content": "novelist",
+						"polygon": [
+							1118,
+							977,
+							1255,
+							976,
+							1256,
+							1013,
+							1118,
+							1013
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 496,
+							"length": 8
+						}
+					},
+					{
+						"content": "..",
+						"polygon": [
+							1660,
+							925,
+							1660,
+							941,
+							1648,
+							941,
+							1648,
+							925
+						],
+						"confidence": 0.841,
+						"span": {
+							"offset": 505,
+							"length": 2
+						}
+					},
+					{
+						"content": "Profile",
+						"polygon": [
+							363,
+							950,
+							478,
+							950,
+							478,
+							987,
+							364,
+							987
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 508,
+							"length": 7
+						}
+					},
+					{
+						"content": "More",
+						"polygon": [
+							362,
+							1067,
+							457,
+							1067,
+							457,
+							1103,
+							362,
+							1103
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 516,
+							"length": 4
+						}
+					},
+					{
+						"content": "Overview",
+						"polygon": [
+							1030,
+							1059,
+							1191,
+							1060,
+							1192,
+							1095,
+							1031,
+							1095
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 521,
+							"length": 8
+						}
+					},
+					{
+						"content": "Books",
+						"polygon": [
+							1287,
+							1060,
+							1396,
+							1061,
+							1396,
+							1094,
+							1287,
+							1094
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 530,
+							"length": 5
+						}
+					},
+					{
+						"content": "Movies",
+						"polygon": [
+							1476,
+							1056,
+							1610,
+							1057,
+							1610,
+							1101,
+							1476,
+							1100
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 536,
+							"length": 6
+						}
+					},
+					{
+						"content": "Tweet",
+						"polygon": [
+							434,
+							1221,
+							532,
+							1219,
+							533,
+							1253,
+							435,
+							1251
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 543,
+							"length": 5
+						}
+					},
+					{
+						"content": "8,441",
+						"polygon": [
+							997,
+							1703,
+							1066,
+							1703,
+							1066,
+							1730,
+							997,
+							1730
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 549,
+							"length": 5
+						}
+					},
+					{
+						"content": "17",
+						"polygon": [
+							1134,
+							1700,
+							1169,
+							1701,
+							1170,
+							1729,
+							1135,
+							1729
+						],
+						"confidence": 0.507,
+						"span": {
+							"offset": 555,
+							"length": 2
+						}
+					},
+					{
+						"content": "22.7K",
+						"polygon": [
+							1195,
+							1702,
+							1256,
+							1702,
+							1257,
+							1731,
+							1196,
+							1730
+						],
+						"confidence": 0.98,
+						"span": {
+							"offset": 558,
+							"length": 5
+						}
+					},
+					{
+						"content": "238.3K",
+						"polygon": [
+							1393,
+							1705,
+							1472,
+							1705,
+							1473,
+							1731,
+							1393,
+							1729
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 564,
+							"length": 6
+						}
+					},
+					{
+						"content": "@",
+						"polygon": [
+							1530,
+							1130,
+							1543,
+							1130,
+							1543,
+							1150,
+							1530,
+							1151
+						],
+						"confidence": 0.945,
+						"span": {
+							"offset": 571,
+							"length": 1
+						}
+					},
+					{
+						"content": "gone_awol_now",
+						"polygon": [
+							1551,
+							1129,
+							1667,
+							1128,
+							1667,
+							1151,
+							1551,
+							1150
+						],
+						"confidence": 0.873,
+						"span": {
+							"offset": 573,
+							"length": 13
+						}
+					},
+					{
+						"content": "16.6M",
+						"polygon": [
+							1608,
+							1703,
+							1669,
+							1702,
+							1669,
+							1730,
+							1608,
+							1730
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 587,
+							"length": 5
+						}
+					},
+					{
+						"content": "Boston",
+						"polygon": [
+							2076,
+							902,
+							2175,
+							902,
+							2175,
+							931,
+							2076,
+							931
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 593,
+							"length": 6
+						}
+					},
+					{
+						"content": "Marathon",
+						"polygon": [
+							2183,
+							902,
+							2322,
+							901,
+							2322,
+							932,
+							2183,
+							931
+						],
+						"confidence": 0.975,
+						"span": {
+							"offset": 600,
+							"length": 8
+						}
+					},
+					{
+						"content": "2,941",
+						"polygon": [
+							2076,
+							948,
+							2143,
+							947,
+							2144,
+							973,
+							2077,
+							974
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 609,
+							"length": 5
+						}
+					},
+					{
+						"content": "Tweets",
+						"polygon": [
+							2148,
+							947,
+							2234,
+							948,
+							2235,
+							974,
+							2149,
+							973
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 615,
+							"length": 6
+						}
+					},
+					{
+						"content": "Show",
+						"polygon": [
+							2075,
+							1037,
+							2145,
+							1037,
+							2144,
+							1066,
+							2075,
+							1066
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 622,
+							"length": 4
+						}
+					},
+					{
+						"content": "more",
+						"polygon": [
+							2159,
+							1037,
+							2230,
+							1038,
+							2230,
+							1065,
+							2159,
+							1066
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 627,
+							"length": 4
+						}
+					},
+					{
+						"content": "Who",
+						"polygon": [
+							2075,
+							1168,
+							2160,
+							1168,
+							2161,
+							1206,
+							2076,
+							1208
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 632,
+							"length": 3
+						}
+					},
+					{
+						"content": "to",
+						"polygon": [
+							2173,
+							1168,
+							2211,
+							1168,
+							2211,
+							1206,
+							2173,
+							1206
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 636,
+							"length": 2
+						}
+					},
+					{
+						"content": "follow",
+						"polygon": [
+							2224,
+							1168,
+							2335,
+							1168,
+							2335,
+							1208,
+							2224,
+							1206
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 639,
+							"length": 6
+						}
+					},
+					{
+						"content": "jamessinka.eth",
+						"polygon": [
+							2194,
+							1271,
+							2412,
+							1269,
+							2412,
+							1303,
+							2195,
+							1304
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 646,
+							"length": 14
+						}
+					},
+					{
+						"content": "@jamessinka",
+						"polygon": [
+							2196,
+							1316,
+							2378,
+							1314,
+							2378,
+							1348,
+							2196,
+							1349
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 661,
+							"length": 11
+						}
+					},
+					{
+						"content": "Elijah",
+						"polygon": [
+							2193,
+							1414,
+							2272,
+							1415,
+							2272,
+							1448,
+							2195,
+							1448
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 673,
+							"length": 6
+						}
+					},
+					{
+						"content": "Kofke",
+						"polygon": [
+							2278,
+							1415,
+							2366,
+							1414,
+							2365,
+							1448,
+							2279,
+							1448
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 680,
+							"length": 5
+						}
+					},
+					{
+						"content": "@ProteinMasseuse",
+						"polygon": [
+							2195,
+							1459,
+							2459,
+							1459,
+							2458,
+							1490,
+							2195,
+							1489
+						],
+						"confidence": 0.961,
+						"span": {
+							"offset": 686,
+							"length": 16
+						}
+					},
+					{
+						"content": "Jane",
+						"polygon": [
+							2194,
+							1559,
+							2260,
+							1559,
+							2260,
+							1592,
+							2194,
+							1591
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 703,
+							"length": 4
+						}
+					},
+					{
+						"content": "Chuprin",
+						"polygon": [
+							2269,
+							1559,
+							2381,
+							1559,
+							2381,
+							1593,
+							2269,
+							1593
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 708,
+							"length": 7
+						}
+					},
+					{
+						"content": "@janechuprin",
+						"polygon": [
+							2195,
+							1603,
+							2383,
+							1602,
+							2383,
+							1637,
+							2195,
+							1638
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 716,
+							"length": 12
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							1758,
+							1699,
+							1775,
+							1699,
+							1775,
+							1732,
+							1758,
+							1732
+						],
+						"confidence": 0.522,
+						"span": {
+							"offset": 729,
+							"length": 1
+						}
+					},
+					{
+						"content": "Show",
+						"polygon": [
+							2076,
+							1705,
+							2145,
+							1705,
+							2145,
+							1735,
+							2076,
+							1734
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 731,
+							"length": 4
+						}
+					},
+					{
+						"content": "more",
+						"polygon": [
+							2158,
+							1705,
+							2229,
+							1705,
+							2229,
+							1734,
+							2158,
+							1735
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 736,
+							"length": 4
+						}
+					},
+					{
+						"content": "Trung",
+						"polygon": [
+							937,
+							1792,
+							1016,
+							1792,
+							1018,
+							1825,
+							938,
+							1824
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 741,
+							"length": 5
+						}
+					},
+					{
+						"content": "Phan",
+						"polygon": [
+							1023,
+							1792,
+							1094,
+							1792,
+							1095,
+							1822,
+							1024,
+							1825
+						],
+						"confidence": 0.945,
+						"span": {
+							"offset": 747,
+							"length": 4
+						}
+					},
+					{
+						"content": "@TrungTPhan",
+						"polygon": [
+							1191,
+							1790,
+							1382,
+							1790,
+							1382,
+							1824,
+							1190,
+							1823
+						],
+						"confidence": 0.961,
+						"span": {
+							"offset": 752,
+							"length": 11
+						}
+					},
+					{
+						"content": ".",
+						"polygon": [
+							1388,
+							1790,
+							1402,
+							1790,
+							1401,
+							1824,
+							1388,
+							1824
+						],
+						"confidence": 0.574,
+						"span": {
+							"offset": 764,
+							"length": 1
+						}
+					},
+					{
+						"content": "17h",
+						"polygon": [
+							1408,
+							1790,
+							1452,
+							1789,
+							1452,
+							1825,
+							1408,
+							1825
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 766,
+							"length": 3
+						}
+					},
+					{
+						"content": "...",
+						"polygon": [
+							2491,
+							1287,
+							2512,
+							1287,
+							2512,
+							1301,
+							2491,
+							1301
+						],
+						"confidence": 0.878,
+						"span": {
+							"offset": 770,
+							"length": 3
+						}
+					},
+					{
+						"content": "Follow",
+						"polygon": [
+							2586,
+							1294,
+							2665,
+							1293,
+							2666,
+							1321,
+							2586,
+							1320
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 774,
+							"length": 6
+						}
+					},
+					{
+						"content": "Follow",
+						"polygon": [
+							2586,
+							1439,
+							2664,
+							1437,
+							2663,
+							1466,
+							2586,
+							1464
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 781,
+							"length": 6
+						}
+					},
+					{
+						"content": "Follow",
+						"polygon": [
+							2584,
+							1583,
+							2664,
+							1581,
+							2664,
+							1610,
+							2585,
+							1609
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 788,
+							"length": 6
+						}
+					},
+					{
+						"content": "Terms",
+						"polygon": [
+							2074,
+							1812,
+							2144,
+							1811,
+							2146,
+							1839,
+							2075,
+							1838
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 795,
+							"length": 5
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							2150,
+							1811,
+							2177,
+							1811,
+							2178,
+							1839,
+							2152,
+							1839
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 801,
+							"length": 2
+						}
+					},
+					{
+						"content": "Service",
+						"polygon": [
+							2183,
+							1811,
+							2270,
+							1811,
+							2271,
+							1840,
+							2184,
+							1839
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 804,
+							"length": 7
+						}
+					},
+					{
+						"content": "Privacy",
+						"polygon": [
+							2293,
+							1811,
+							2379,
+							1810,
+							2380,
+							1840,
+							2294,
+							1840
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 812,
+							"length": 7
+						}
+					},
+					{
+						"content": "Policy",
+						"polygon": [
+							2385,
+							1810,
+							2459,
+							1810,
+							2460,
+							1841,
+							2386,
+							1840
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 820,
+							"length": 6
+						}
+					},
+					{
+						"content": "Cookie",
+						"polygon": [
+							2482,
+							1810,
+							2566,
+							1811,
+							2566,
+							1841,
+							2483,
+							1841
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 827,
+							"length": 6
+						}
+					},
+					{
+						"content": "Policy",
+						"polygon": [
+							2572,
+							1811,
+							2644,
+							1811,
+							2644,
+							1840,
+							2572,
+							1840
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 834,
+							"length": 6
+						}
+					},
+					{
+						"content": "AnhPhu",
+						"polygon": [
+							375,
+							1817,
+							489,
+							1818,
+							488,
+							1852,
+							375,
+							1851
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 841,
+							"length": 6
+						}
+					},
+					{
+						"content": "Nguyen",
+						"polygon": [
+							495,
+							1818,
+							606,
+							1819,
+							605,
+							1853,
+							495,
+							1853
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 848,
+							"length": 6
+						}
+					},
+					{
+						"content": "...",
+						"polygon": [
+							709,
+							1849,
+							737,
+							1848,
+							737,
+							1860,
+							709,
+							1861
+						],
+						"confidence": 0.819,
+						"span": {
+							"offset": 855,
+							"length": 3
+						}
+					},
+					{
+						"content": "Amazon",
+						"polygon": [
+							935,
+							1839,
+							1044,
+							1839,
+							1045,
+							1871,
+							936,
+							1870
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 859,
+							"length": 6
+						}
+					},
+					{
+						"content": "released",
+						"polygon": [
+							1051,
+							1838,
+							1169,
+							1838,
+							1170,
+							1872,
+							1052,
+							1871
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 866,
+							"length": 8
+						}
+					},
+					{
+						"content": "\"Bedrock\",",
+						"polygon": [
+							1176,
+							1838,
+							1327,
+							1838,
+							1328,
+							1873,
+							1176,
+							1872
+						],
+						"confidence": 0.92,
+						"span": {
+							"offset": 875,
+							"length": 10
+						}
+					},
+					{
+						"content": "a",
+						"polygon": [
+							1334,
+							1837,
+							1350,
+							1837,
+							1350,
+							1873,
+							1335,
+							1873
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 886,
+							"length": 1
+						}
+					},
+					{
+						"content": "generative",
+						"polygon": [
+							1356,
+							1837,
+							1501,
+							1837,
+							1502,
+							1873,
+							1357,
+							1873
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 888,
+							"length": 10
+						}
+					},
+					{
+						"content": "Al",
+						"polygon": [
+							1508,
+							1837,
+							1535,
+							1837,
+							1535,
+							1873,
+							1509,
+							1873
+						],
+						"confidence": 0.79,
+						"span": {
+							"offset": 899,
+							"length": 2
+						}
+					},
+					{
+						"content": "toolkit",
+						"polygon": [
+							1541,
+							1837,
+							1631,
+							1837,
+							1631,
+							1873,
+							1542,
+							1873
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 902,
+							"length": 7
+						}
+					},
+					{
+						"content": "for",
+						"polygon": [
+							1637,
+							1837,
+							1677,
+							1838,
+							1678,
+							1873,
+							1638,
+							1873
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 910,
+							"length": 3
+						}
+					},
+					{
+						"content": "chat,",
+						"polygon": [
+							1684,
+							1838,
+							1751,
+							1838,
+							1752,
+							1872,
+							1685,
+							1873
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 914,
+							"length": 5
+						}
+					},
+					{
+						"content": "text",
+						"polygon": [
+							1758,
+							1838,
+							1813,
+							1838,
+							1814,
+							1872,
+							1758,
+							1872
+						],
+						"confidence": 0.98,
+						"span": {
+							"offset": 920,
+							"length": 4
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							1820,
+							1838,
+							1874,
+							1838,
+							1874,
+							1871,
+							1821,
+							1872
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 925,
+							"length": 3
+						}
+					},
+					{
+						"content": "image.",
+						"polygon": [
+							933,
+							1880,
+							1029,
+							1880,
+							1029,
+							1914,
+							933,
+							1911
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 929,
+							"length": 6
+						}
+					},
+					{
+						"content": "Acce",
+						"polygon": [
+							2075,
+							1853,
+							2131,
+							1853,
+							2132,
+							1878,
+							2075,
+							1878
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 936,
+							"length": 4
+						}
+					},
+					{
+						"content": "@",
+						"polygon": [
+							2075,
+							1891,
+							2090,
+							1891,
+							2090,
+							1919,
+							2075,
+							1919
+						],
+						"confidence": 0.606,
+						"span": {
+							"offset": 941,
+							"length": 1
+						}
+					},
+					{
+						"content": "20",
+						"polygon": [
+							2103,
+							1891,
+							2133,
+							1891,
+							2133,
+							1918,
+							2103,
+							1919
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 943,
+							"length": 2
+						}
+					},
+					{
+						"content": "Messages",
+						"polygon": [
+							2162,
+							1871,
+							2359,
+							1871,
+							2360,
+							1916,
+							2162,
+							1916
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 946,
+							"length": 8
+						}
+					},
+					{
+						"content": "E+",
+						"polygon": [
+							2778,
+							1877,
+							2816,
+							1881,
+							2814,
+							1911,
+							2775,
+							1909
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 955,
+							"length": 2
+						}
+					},
+					{
+						"content": "@AnhPhuNguyen1",
+						"polygon": [
+							377,
+							1857,
+							626,
+							1861,
+							625,
+							1897,
+							377,
+							1886
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 958,
+							"length": 14
+						}
+					},
+					{
+						"content": "twitter.com/explore/tabs/for-you",
+						"polygon": [
+							56,
+							1887,
+							431,
+							1887,
+							432,
+							1918,
+							57,
+							1915
+						],
+						"confidence": 0.948,
+						"span": {
+							"offset": 973,
+							"length": 32
+						}
+					}
+				],
+				"selectionMarks": [
+					{
+						"state": "selected",
+						"polygon": [
+							269,
+							128,
+							331,
+							128,
+							331,
+							178,
+							269,
+							178
+						],
+						"confidence": 0.448,
+						"span": {
+							"offset": 1006,
+							"length": 10
+						}
+					},
+					{
+						"state": "selected",
+						"polygon": [
+							274,
+							601,
+							320,
+							601,
+							320,
+							639,
+							274,
+							639
+						],
+						"confidence": 0.688,
+						"span": {
+							"offset": 1017,
+							"length": 10
+						}
+					},
+					{
+						"state": "selected",
+						"polygon": [
+							1090,
+							580,
+							1122,
+							580,
+							1122,
+							611,
+							1090,
+							611
+						],
+						"confidence": 0.448,
+						"span": {
+							"offset": 1028,
+							"length": 10
+						}
+					},
+					{
+						"state": "selected",
+						"polygon": [
+							1130,
+							578,
+							1166,
+							578,
+							1166,
+							612,
+							1130,
+							612
+						],
+						"confidence": 0.823,
+						"span": {
+							"offset": 1039,
+							"length": 10
+						}
+					},
+					{
+						"state": "selected",
+						"polygon": [
+							279,
+							712,
+							317,
+							712,
+							317,
+							756,
+							279,
+							756
+						],
+						"confidence": 0.448,
+						"span": {
+							"offset": 1050,
+							"length": 10
+						}
+					},
+					{
+						"state": "selected",
+						"polygon": [
+							275,
+							831,
+							319,
+							831,
+							319,
+							874,
+							275,
+							874
+						],
+						"confidence": 0.344,
+						"span": {
+							"offset": 1061,
+							"length": 10
+						}
+					},
+					{
+						"state": "unselected",
+						"polygon": [
+							273,
+							1060,
+							325,
+							1060,
+							325,
+							1113,
+							273,
+							1113
+						],
+						"confidence": 0.448,
+						"span": {
+							"offset": 1072,
+							"length": 12
+						}
+					},
+					{
+						"state": "selected",
+						"polygon": [
+							1106,
+							1790,
+							1137,
+							1790,
+							1137,
+							1821,
+							1106,
+							1821
+						],
+						"confidence": 0.574,
+						"span": {
+							"offset": 1085,
+							"length": 10
+						}
+					}
+				],
+				"lines": [
+					{
+						"content": "Arc",
+						"polygon": [
+							105,
+							23,
+							156,
+							23,
+							157,
+							49,
+							106,
+							49
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "File",
+						"polygon": [
+							149,
+							22,
+							237,
+							22,
+							237,
+							49,
+							149,
+							50
+						],
+						"spans": [
+							{
+								"offset": 4,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "Edit",
+						"polygon": [
+							265,
+							23,
+							326,
+							23,
+							327,
+							48,
+							265,
+							47
+						],
+						"spans": [
+							{
+								"offset": 9,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "View",
+						"polygon": [
+							361,
+							24,
+							428,
+							24,
+							428,
+							48,
+							362,
+							48
+						],
+						"spans": [
+							{
+								"offset": 14,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "Spaces",
+						"polygon": [
+							462,
+							23,
+							557,
+							24,
+							557,
+							51,
+							462,
+							50
+						],
+						"spans": [
+							{
+								"offset": 19,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Tabs",
+						"polygon": [
+							594,
+							24,
+							653,
+							24,
+							653,
+							48,
+							594,
+							48
+						],
+						"spans": [
+							{
+								"offset": 26,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "Archive",
+						"polygon": [
+							683,
+							22,
+							786,
+							23,
+							785,
+							49,
+							683,
+							48
+						],
+						"spans": [
+							{
+								"offset": 31,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Extensions",
+						"polygon": [
+							821,
+							23,
+							964,
+							23,
+							964,
+							49,
+							821,
+							48
+						],
+						"spans": [
+							{
+								"offset": 39,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "Window",
+						"polygon": [
+							986,
+							22,
+							1102,
+							22,
+							1102,
+							50,
+							986,
+							49
+						],
+						"spans": [
+							{
+								"offset": 50,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Help",
+						"polygon": [
+							1131,
+							15,
+							1192,
+							15,
+							1193,
+							58,
+							1131,
+							58
+						],
+						"spans": [
+							{
+								"offset": 57,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "Fri Apr 14 10:35 AM",
+						"polygon": [
+							2732,
+							20,
+							2993,
+							20,
+							2993,
+							51,
+							2732,
+							51
+						],
+						"spans": [
+							{
+								"offset": 62,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "Home",
+						"polygon": [
+							364,
+							251,
+							481,
+							252,
+							481,
+							288,
+							364,
+							287
+						],
+						"spans": [
+							{
+								"offset": 82,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "#",
+						"polygon": [
+							276,
+							364,
+							324,
+							364,
+							323,
+							410,
+							277,
+							408
+						],
+						"spans": [
+							{
+								"offset": 87,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "Explore",
+						"polygon": [
+							328,
+							364,
+							501,
+							366,
+							500,
+							411,
+							328,
+							408
+						],
+						"spans": [
+							{
+								"offset": 89,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Home",
+						"polygon": [
+							812,
+							127,
+							932,
+							128,
+							930,
+							171,
+							811,
+							169
+						],
+						"spans": [
+							{
+								"offset": 97,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "For you",
+						"polygon": [
+							1020,
+							240,
+							1132,
+							240,
+							1132,
+							273,
+							1020,
+							272
+						],
+						"spans": [
+							{
+								"offset": 102,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "What's happening?",
+						"polygon": [
+							938,
+							359,
+							1293,
+							359,
+							1293,
+							408,
+							938,
+							407
+						],
+						"spans": [
+							{
+								"offset": 110,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "Notifications",
+						"polygon": [
+							363,
+							483,
+							604,
+							483,
+							604,
+							521,
+							363,
+							522
+						],
+						"spans": [
+							{
+								"offset": 128,
+								"length": 13
+							}
+						]
+					},
+					{
+						"content": "i",
+						"polygon": [
+							946,
+							488,
+							971,
+							488,
+							971,
+							510,
+							946,
+							510
+						],
+						"spans": [
+							{
+								"offset": 142,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "GIF",
+						"polygon": [
+							1021,
+							490,
+							1041,
+							490,
+							1040,
+							505,
+							1020,
+							505
+						],
+						"spans": [
+							{
+								"offset": 144,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "Following",
+						"polygon": [
+							1606,
+							240,
+							1744,
+							240,
+							1743,
+							274,
+							1606,
+							272
+						],
+						"spans": [
+							{
+								"offset": 148,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "Tweet",
+						"polygon": [
+							1822,
+							483,
+							1914,
+							483,
+							1914,
+							512,
+							1822,
+							512
+						],
+						"spans": [
+							{
+								"offset": 158,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "US",
+						"polygon": [
+							2308,
+							26,
+							2347,
+							25,
+							2347,
+							46,
+							2309,
+							45
+						],
+						"spans": [
+							{
+								"offset": 164,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "Q",
+						"polygon": [
+							2082,
+							129,
+							2115,
+							129,
+							2116,
+							162,
+							2082,
+							162
+						],
+						"spans": [
+							{
+								"offset": 167,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "Search Twitter",
+						"polygon": [
+							2151,
+							133,
+							2355,
+							133,
+							2355,
+							162,
+							2151,
+							162
+						],
+						"spans": [
+							{
+								"offset": 169,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "What's happening",
+						"polygon": [
+							2074,
+							255,
+							2435,
+							255,
+							2434,
+							301,
+							2074,
+							299
+						],
+						"spans": [
+							{
+								"offset": 184,
+								"length": 16
+							}
+						]
+					},
+					{
+						"content": "NHL · Last night",
+						"polygon": [
+							2074,
+							354,
+							2270,
+							354,
+							2270,
+							382,
+							2074,
+							381
+						],
+						"spans": [
+							{
+								"offset": 201,
+								"length": 16
+							}
+						]
+					},
+					{
+						"content": "Bruins at Canadiens",
+						"polygon": [
+							2075,
+							396,
+							2368,
+							396,
+							2368,
+							428,
+							2075,
+							428
+						],
+						"spans": [
+							{
+								"offset": 218,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "C",
+						"polygon": [
+							2506,
+							23,
+							2506,
+							46,
+							2481,
+							46,
+							2481,
+							23
+						],
+						"spans": [
+							{
+								"offset": 238,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "Technology · Trending",
+						"polygon": [
+							2074,
+							533,
+							2337,
+							533,
+							2336,
+							564,
+							2074,
+							562
+						],
+						"spans": [
+							{
+								"offset": 240,
+								"length": 21
+							}
+						]
+					},
+					{
+						"content": "...",
+						"polygon": [
+							2674,
+							549,
+							2703,
+							549,
+							2703,
+							557,
+							2674,
+							557
+						],
+						"spans": [
+							{
+								"offset": 262,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "Elon Musk",
+						"polygon": [
+							935,
+							580,
+							1086,
+							580,
+							1086,
+							610,
+							935,
+							610
+						],
+						"spans": [
+							{
+								"offset": 266,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "@elonmusk . 3h",
+						"polygon": [
+							1174,
+							578,
+							1401,
+							578,
+							1401,
+							612,
+							1174,
+							612
+						],
+						"spans": [
+							{
+								"offset": 276,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "Messages",
+						"polygon": [
+							362,
+							601,
+							550,
+							602,
+							549,
+							644,
+							362,
+							642
+						],
+						"spans": [
+							{
+								"offset": 291,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "...",
+						"polygon": [
+							1912,
+							590,
+							1947,
+							590,
+							1947,
+							602,
+							1912,
+							603
+						],
+						"spans": [
+							{
+								"offset": 300,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "GPT-5",
+						"polygon": [
+							2075,
+							574,
+							2169,
+							574,
+							2169,
+							601,
+							2075,
+							601
+						],
+						"spans": [
+							{
+								"offset": 304,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "3,703 Tweets",
+						"polygon": [
+							2073,
+							618,
+							2236,
+							618,
+							2236,
+							646,
+							2073,
+							645
+						],
+						"spans": [
+							{
+								"offset": 310,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "Business and finance . Trending",
+						"polygon": [
+							2075,
+							696,
+							2457,
+							696,
+							2457,
+							729,
+							2075,
+							728
+						],
+						"spans": [
+							{
+								"offset": 323,
+								"length": 31
+							}
+						]
+					},
+					{
+						"content": "...",
+						"polygon": [
+							2673,
+							712,
+							2706,
+							712,
+							2706,
+							723,
+							2673,
+							722
+						],
+						"spans": [
+							{
+								"offset": 355,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "Bookmarks",
+						"polygon": [
+							364,
+							715,
+							575,
+							715,
+							575,
+							755,
+							364,
+							755
+						],
+						"spans": [
+							{
+								"offset": 359,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "You might respect the penis,",
+						"polygon": [
+							982,
+							741,
+							1700,
+							741,
+							1700,
+							802,
+							982,
+							801
+						],
+						"spans": [
+							{
+								"offset": 369,
+								"length": 28
+							}
+						]
+					},
+					{
+						"content": "but do you",
+						"polygon": [
+							986,
+							810,
+							1264,
+							810,
+							1265,
+							864,
+							986,
+							865
+						],
+						"spans": [
+							{
+								"offset": 398,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "Twitter Blue",
+						"polygon": [
+							363,
+							832,
+							586,
+							832,
+							586,
+							872,
+							363,
+							872
+						],
+						"spans": [
+							{
+								"offset": 409,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "Boeing",
+						"polygon": [
+							2075,
+							737,
+							2178,
+							737,
+							2177,
+							770,
+							2075,
+							769
+						],
+						"spans": [
+							{
+								"offset": 422,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "14.6K Tweets",
+						"polygon": [
+							2075,
+							782,
+							2235,
+							783,
+							2235,
+							809,
+							2075,
+							808
+						],
+						"spans": [
+							{
+								"offset": 429,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "Trending in Massachusetts",
+						"polygon": [
+							2075,
+							861,
+							2398,
+							861,
+							2398,
+							890,
+							2075,
+							890
+						],
+						"spans": [
+							{
+								"offset": 442,
+								"length": 25
+							}
+						]
+					},
+					{
+						"content": "...",
+						"polygon": [
+							2673,
+							876,
+							2704,
+							876,
+							2704,
+							887,
+							2673,
+							887
+						],
+						"spans": [
+							{
+								"offset": 468,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "Honoré de Balzac",
+						"polygon": [
+							996,
+							907,
+							1418,
+							907,
+							1418,
+							958,
+							996,
+							958
+						],
+						"spans": [
+							{
+								"offset": 472,
+								"length": 16
+							}
+						]
+					},
+					{
+						"content": "French novelist",
+						"polygon": [
+							996,
+							975,
+							1256,
+							975,
+							1256,
+							1013,
+							996,
+							1013
+						],
+						"spans": [
+							{
+								"offset": 489,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "..",
+						"polygon": [
+							1659,
+							921,
+							1660,
+							946,
+							1648,
+							945,
+							1648,
+							920
+						],
+						"spans": [
+							{
+								"offset": 505,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "Profile",
+						"polygon": [
+							363,
+							949,
+							482,
+							949,
+							482,
+							986,
+							363,
+							986
+						],
+						"spans": [
+							{
+								"offset": 508,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "More",
+						"polygon": [
+							362,
+							1067,
+							458,
+							1067,
+							458,
+							1103,
+							363,
+							1103
+						],
+						"spans": [
+							{
+								"offset": 516,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "Overview",
+						"polygon": [
+							1029,
+							1058,
+							1206,
+							1059,
+							1206,
+							1096,
+							1029,
+							1094
+						],
+						"spans": [
+							{
+								"offset": 521,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "Books",
+						"polygon": [
+							1285,
+							1060,
+							1399,
+							1060,
+							1399,
+							1093,
+							1285,
+							1093
+						],
+						"spans": [
+							{
+								"offset": 530,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "Movies",
+						"polygon": [
+							1473,
+							1056,
+							1612,
+							1056,
+							1611,
+							1101,
+							1473,
+							1100
+						],
+						"spans": [
+							{
+								"offset": 536,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Tweet",
+						"polygon": [
+							430,
+							1219,
+							534,
+							1219,
+							533,
+							1252,
+							430,
+							1251
+						],
+						"spans": [
+							{
+								"offset": 543,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "8,441",
+						"polygon": [
+							994,
+							1704,
+							1067,
+							1703,
+							1067,
+							1730,
+							994,
+							1729
+						],
+						"spans": [
+							{
+								"offset": 549,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "17 22.7K",
+						"polygon": [
+							1130,
+							1700,
+							1264,
+							1702,
+							1263,
+							1731,
+							1130,
+							1728
+						],
+						"spans": [
+							{
+								"offset": 555,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "238.3K",
+						"polygon": [
+							1390,
+							1704,
+							1479,
+							1704,
+							1478,
+							1730,
+							1390,
+							1729
+						],
+						"spans": [
+							{
+								"offset": 564,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "@ gone_awol_now",
+						"polygon": [
+							1530,
+							1128,
+							1672,
+							1127,
+							1672,
+							1150,
+							1530,
+							1151
+						],
+						"spans": [
+							{
+								"offset": 571,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "16.6M",
+						"polygon": [
+							1599,
+							1702,
+							1682,
+							1702,
+							1682,
+							1729,
+							1599,
+							1729
+						],
+						"spans": [
+							{
+								"offset": 587,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "Boston Marathon",
+						"polygon": [
+							2076,
+							900,
+							2327,
+							900,
+							2327,
+							931,
+							2076,
+							931
+						],
+						"spans": [
+							{
+								"offset": 593,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "2,941 Tweets",
+						"polygon": [
+							2076,
+							947,
+							2235,
+							947,
+							2234,
+							973,
+							2076,
+							973
+						],
+						"spans": [
+							{
+								"offset": 609,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "Show more",
+						"polygon": [
+							2074,
+							1036,
+							2232,
+							1036,
+							2232,
+							1065,
+							2074,
+							1065
+						],
+						"spans": [
+							{
+								"offset": 622,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "Who to follow",
+						"polygon": [
+							2074,
+							1167,
+							2348,
+							1167,
+							2348,
+							1207,
+							2074,
+							1207
+						],
+						"spans": [
+							{
+								"offset": 632,
+								"length": 13
+							}
+						]
+					},
+					{
+						"content": "jamessinka.eth",
+						"polygon": [
+							2194,
+							1270,
+							2418,
+							1269,
+							2418,
+							1302,
+							2194,
+							1303
+						],
+						"spans": [
+							{
+								"offset": 646,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "@jamessinka",
+						"polygon": [
+							2195,
+							1315,
+							2378,
+							1314,
+							2379,
+							1347,
+							2195,
+							1348
+						],
+						"spans": [
+							{
+								"offset": 661,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "Elijah Kofke",
+						"polygon": [
+							2193,
+							1414,
+							2367,
+							1414,
+							2367,
+							1448,
+							2193,
+							1447
+						],
+						"spans": [
+							{
+								"offset": 673,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "@ProteinMasseuse",
+						"polygon": [
+							2194,
+							1458,
+							2462,
+							1458,
+							2462,
+							1489,
+							2194,
+							1489
+						],
+						"spans": [
+							{
+								"offset": 686,
+								"length": 16
+							}
+						]
+					},
+					{
+						"content": "Jane Chuprin",
+						"polygon": [
+							2194,
+							1558,
+							2384,
+							1558,
+							2384,
+							1592,
+							2194,
+							1591
+						],
+						"spans": [
+							{
+								"offset": 703,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "@janechuprin",
+						"polygon": [
+							2194,
+							1602,
+							2385,
+							1602,
+							2385,
+							1636,
+							2194,
+							1637
+						],
+						"spans": [
+							{
+								"offset": 716,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "1",
+						"polygon": [
+							1754,
+							1699,
+							1782,
+							1699,
+							1783,
+							1732,
+							1755,
+							1732
+						],
+						"spans": [
+							{
+								"offset": 729,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "Show more",
+						"polygon": [
+							2074,
+							1704,
+							2232,
+							1704,
+							2232,
+							1733,
+							2074,
+							1734
+						],
+						"spans": [
+							{
+								"offset": 731,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "Trung Phan",
+						"polygon": [
+							933,
+							1792,
+							1138,
+							1791,
+							1138,
+							1823,
+							933,
+							1824
+						],
+						"spans": [
+							{
+								"offset": 741,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "@TrungTPhan . 17h",
+						"polygon": [
+							1186,
+							1788,
+							1454,
+							1788,
+							1454,
+							1824,
+							1186,
+							1823
+						],
+						"spans": [
+							{
+								"offset": 752,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "...",
+						"polygon": [
+							2490,
+							1287,
+							2513,
+							1287,
+							2513,
+							1301,
+							2490,
+							1301
+						],
+						"spans": [
+							{
+								"offset": 770,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "Follow",
+						"polygon": [
+							2582,
+							1293,
+							2675,
+							1293,
+							2675,
+							1320,
+							2582,
+							1320
+						],
+						"spans": [
+							{
+								"offset": 774,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Follow",
+						"polygon": [
+							2585,
+							1436,
+							2675,
+							1436,
+							2675,
+							1465,
+							2585,
+							1466
+						],
+						"spans": [
+							{
+								"offset": 781,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Follow",
+						"polygon": [
+							2582,
+							1581,
+							2677,
+							1581,
+							2677,
+							1609,
+							2582,
+							1609
+						],
+						"spans": [
+							{
+								"offset": 788,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Terms of Service Privacy Policy Cookie Policy",
+						"polygon": [
+							2072,
+							1810,
+							2645,
+							1810,
+							2645,
+							1840,
+							2072,
+							1839
+						],
+						"spans": [
+							{
+								"offset": 795,
+								"length": 45
+							}
+						]
+					},
+					{
+						"content": "AnhPhu Nguyen",
+						"polygon": [
+							369,
+							1816,
+							609,
+							1818,
+							609,
+							1853,
+							369,
+							1850
+						],
+						"spans": [
+							{
+								"offset": 841,
+								"length": 13
+							}
+						]
+					},
+					{
+						"content": "...",
+						"polygon": [
+							706,
+							1849,
+							739,
+							1848,
+							741,
+							1860,
+							708,
+							1861
+						],
+						"spans": [
+							{
+								"offset": 855,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "Amazon released \"Bedrock\", a generative Al toolkit for chat, text and",
+						"polygon": [
+							933,
+							1837,
+							1877,
+							1837,
+							1877,
+							1872,
+							933,
+							1872
+						],
+						"spans": [
+							{
+								"offset": 859,
+								"length": 69
+							}
+						]
+					},
+					{
+						"content": "image.",
+						"polygon": [
+							933,
+							1879,
+							1028,
+							1879,
+							1028,
+							1913,
+							933,
+							1912
+						],
+						"spans": [
+							{
+								"offset": 929,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Acce",
+						"polygon": [
+							2072,
+							1854,
+							2135,
+							1853,
+							2136,
+							1878,
+							2073,
+							1878
+						],
+						"spans": [
+							{
+								"offset": 936,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "@ 20",
+						"polygon": [
+							2074,
+							1894,
+							2135,
+							1891,
+							2136,
+							1919,
+							2074,
+							1917
+						],
+						"spans": [
+							{
+								"offset": 941,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "Messages",
+						"polygon": [
+							2161,
+							1871,
+							2360,
+							1871,
+							2360,
+							1915,
+							2161,
+							1915
+						],
+						"spans": [
+							{
+								"offset": 946,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "E+",
+						"polygon": [
+							2775,
+							1877,
+							2819,
+							1884,
+							2819,
+							1910,
+							2774,
+							1909
+						],
+						"spans": [
+							{
+								"offset": 955,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "@AnhPhuNguyen1",
+						"polygon": [
+							377,
+							1857,
+							626,
+							1860,
+							625,
+							1896,
+							376,
+							1889
+						],
+						"spans": [
+							{
+								"offset": 958,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "twitter.com/explore/tabs/for-you",
+						"polygon": [
+							55,
+							1886,
+							435,
+							1886,
+							435,
+							1917,
+							55,
+							1916
+						],
+						"spans": [
+							{
+								"offset": 973,
+								"length": 32
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 1095
+					}
+				],
+				"kind": "document"
+			}
+		],
+		"tables": [],
+		"paragraphs": [
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 8
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							105,
+							23,
+							237,
+							21,
+							237,
+							49,
+							105,
+							50
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Arc File"
+			},
+			{
+				"spans": [
+					{
+						"offset": 9,
+						"length": 4
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							265,
+							23,
+							327,
+							23,
+							327,
+							48,
+							265,
+							48
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Edit"
+			},
+			{
+				"spans": [
+					{
+						"offset": 14,
+						"length": 4
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							361,
+							24,
+							428,
+							24,
+							428,
+							48,
+							361,
+							48
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "View"
+			},
+			{
+				"spans": [
+					{
+						"offset": 19,
+						"length": 6
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							462,
+							23,
+							557,
+							24,
+							557,
+							51,
+							462,
+							50
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Spaces"
+			},
+			{
+				"spans": [
+					{
+						"offset": 26,
+						"length": 12
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							594,
+							22,
+							786,
+							23,
+							786,
+							49,
+							594,
+							48
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Tabs Archive"
+			},
+			{
+				"spans": [
+					{
+						"offset": 39,
+						"length": 17
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							821,
+							22,
+							1102,
+							22,
+							1102,
+							50,
+							821,
+							50
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Extensions Window"
+			},
+			{
+				"spans": [
+					{
+						"offset": 57,
+						"length": 4
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1131,
+							15,
+							1193,
+							15,
+							1193,
+							58,
+							1131,
+							58
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Help"
+			},
+			{
+				"spans": [
+					{
+						"offset": 62,
+						"length": 19
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2732,
+							20,
+							2993,
+							20,
+							2993,
+							51,
+							2732,
+							51
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Fri Apr 14 10:35 AM"
+			},
+			{
+				"spans": [
+					{
+						"offset": 82,
+						"length": 4
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							364,
+							251,
+							481,
+							252,
+							481,
+							288,
+							364,
+							287
+						]
+					}
+				],
+				"content": "Home"
+			},
+			{
+				"spans": [
+					{
+						"offset": 87,
+						"length": 1
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							276,
+							364,
+							324,
+							364,
+							324,
+							410,
+							276,
+							410
+						]
+					}
+				],
+				"content": "#"
+			},
+			{
+				"spans": [
+					{
+						"offset": 89,
+						"length": 7
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							328,
+							364,
+							501,
+							366,
+							500,
+							411,
+							327,
+							409
+						]
+					}
+				],
+				"content": "Explore"
+			},
+			{
+				"spans": [
+					{
+						"offset": 97,
+						"length": 4
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							812,
+							126,
+							932,
+							128,
+							931,
+							171,
+							811,
+							169
+						]
+					}
+				],
+				"role": "title",
+				"content": "Home"
+			},
+			{
+				"spans": [
+					{
+						"offset": 102,
+						"length": 7
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1020,
+							240,
+							1132,
+							240,
+							1132,
+							273,
+							1020,
+							273
+						]
+					}
+				],
+				"content": "For you"
+			},
+			{
+				"spans": [
+					{
+						"offset": 110,
+						"length": 17
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							938,
+							359,
+							1293,
+							359,
+							1293,
+							408,
+							938,
+							408
+						]
+					}
+				],
+				"content": "What's happening?"
+			},
+			{
+				"spans": [
+					{
+						"offset": 128,
+						"length": 13
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							363,
+							483,
+							604,
+							483,
+							604,
+							522,
+							363,
+							522
+						]
+					}
+				],
+				"content": "Notifications"
+			},
+			{
+				"spans": [
+					{
+						"offset": 142,
+						"length": 5
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							946,
+							488,
+							1041,
+							488,
+							1041,
+							510,
+							946,
+							510
+						]
+					}
+				],
+				"content": "i GIF"
+			},
+			{
+				"spans": [
+					{
+						"offset": 148,
+						"length": 9
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1606,
+							240,
+							1744,
+							240,
+							1744,
+							274,
+							1606,
+							274
+						]
+					}
+				],
+				"role": "sectionHeading",
+				"content": "Following"
+			},
+			{
+				"spans": [
+					{
+						"offset": 158,
+						"length": 5
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1822,
+							483,
+							1914,
+							483,
+							1914,
+							512,
+							1822,
+							512
+						]
+					}
+				],
+				"content": "Tweet"
+			},
+			{
+				"spans": [
+					{
+						"offset": 164,
+						"length": 2
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2308,
+							25,
+							2347,
+							25,
+							2347,
+							46,
+							2308,
+							46
+						]
+					}
+				],
+				"content": "US"
+			},
+			{
+				"spans": [
+					{
+						"offset": 167,
+						"length": 1
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2082,
+							129,
+							2116,
+							129,
+							2116,
+							162,
+							2082,
+							162
+						]
+					}
+				],
+				"content": "Q"
+			},
+			{
+				"spans": [
+					{
+						"offset": 169,
+						"length": 14
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2151,
+							133,
+							2355,
+							133,
+							2355,
+							162,
+							2151,
+							162
+						]
+					}
+				],
+				"content": "Search Twitter"
+			},
+			{
+				"spans": [
+					{
+						"offset": 184,
+						"length": 16
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2074,
+							255,
+							2435,
+							255,
+							2435,
+							301,
+							2074,
+							301
+						]
+					}
+				],
+				"role": "sectionHeading",
+				"content": "What's happening"
+			},
+			{
+				"spans": [
+					{
+						"offset": 201,
+						"length": 16
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2074,
+							354,
+							2270,
+							354,
+							2270,
+							382,
+							2074,
+							382
+						]
+					}
+				],
+				"content": "NHL · Last night"
+			},
+			{
+				"spans": [
+					{
+						"offset": 218,
+						"length": 19
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2075,
+							396,
+							2368,
+							396,
+							2368,
+							428,
+							2075,
+							428
+						]
+					}
+				],
+				"content": "Bruins at Canadiens"
+			},
+			{
+				"spans": [
+					{
+						"offset": 238,
+						"length": 1
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2481,
+							23,
+							2506,
+							23,
+							2506,
+							46,
+							2481,
+							46
+						]
+					}
+				],
+				"content": "C"
+			},
+			{
+				"spans": [
+					{
+						"offset": 240,
+						"length": 21
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2074,
+							533,
+							2337,
+							533,
+							2337,
+							564,
+							2074,
+							564
+						]
+					}
+				],
+				"content": "Technology · Trending"
+			},
+			{
+				"spans": [
+					{
+						"offset": 262,
+						"length": 3
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2674,
+							549,
+							2703,
+							549,
+							2703,
+							557,
+							2674,
+							557
+						]
+					}
+				],
+				"content": "..."
+			},
+			{
+				"spans": [
+					{
+						"offset": 266,
+						"length": 24
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							935,
+							578,
+							1401,
+							578,
+							1401,
+							612,
+							935,
+							612
+						]
+					}
+				],
+				"content": "Elon Musk @elonmusk . 3h"
+			},
+			{
+				"spans": [
+					{
+						"offset": 291,
+						"length": 8
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							362,
+							601,
+							550,
+							602,
+							550,
+							644,
+							362,
+							643
+						]
+					}
+				],
+				"content": "Messages"
+			},
+			{
+				"spans": [
+					{
+						"offset": 300,
+						"length": 3
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1912,
+							590,
+							1947,
+							590,
+							1947,
+							603,
+							1912,
+							603
+						]
+					}
+				],
+				"content": "..."
+			},
+			{
+				"spans": [
+					{
+						"offset": 304,
+						"length": 5
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2075,
+							574,
+							2169,
+							574,
+							2169,
+							601,
+							2075,
+							601
+						]
+					}
+				],
+				"content": "GPT-5"
+			},
+			{
+				"spans": [
+					{
+						"offset": 310,
+						"length": 12
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2073,
+							618,
+							2236,
+							618,
+							2236,
+							646,
+							2073,
+							646
+						]
+					}
+				],
+				"content": "3,703 Tweets"
+			},
+			{
+				"spans": [
+					{
+						"offset": 323,
+						"length": 31
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2075,
+							696,
+							2457,
+							696,
+							2457,
+							729,
+							2075,
+							729
+						]
+					}
+				],
+				"content": "Business and finance . Trending"
+			},
+			{
+				"spans": [
+					{
+						"offset": 355,
+						"length": 3
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2673,
+							712,
+							2706,
+							712,
+							2706,
+							723,
+							2673,
+							723
+						]
+					}
+				],
+				"content": "..."
+			},
+			{
+				"spans": [
+					{
+						"offset": 359,
+						"length": 9
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							364,
+							715,
+							575,
+							715,
+							575,
+							755,
+							364,
+							755
+						]
+					}
+				],
+				"content": "Bookmarks"
+			},
+			{
+				"spans": [
+					{
+						"offset": 369,
+						"length": 39
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							982,
+							741,
+							1700,
+							741,
+							1700,
+							865,
+							982,
+							865
+						]
+					}
+				],
+				"role": "sectionHeading",
+				"content": "You might respect the penis, but do you"
+			},
+			{
+				"spans": [
+					{
+						"offset": 409,
+						"length": 12
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							363,
+							832,
+							586,
+							832,
+							586,
+							872,
+							363,
+							872
+						]
+					}
+				],
+				"content": "Twitter Blue"
+			},
+			{
+				"spans": [
+					{
+						"offset": 422,
+						"length": 6
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2075,
+							737,
+							2178,
+							737,
+							2178,
+							770,
+							2075,
+							770
+						]
+					}
+				],
+				"content": "Boeing"
+			},
+			{
+				"spans": [
+					{
+						"offset": 429,
+						"length": 12
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2075,
+							782,
+							2235,
+							783,
+							2235,
+							809,
+							2075,
+							808
+						]
+					}
+				],
+				"content": "14.6K Tweets"
+			},
+			{
+				"spans": [
+					{
+						"offset": 442,
+						"length": 29
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2075,
+							861,
+							2704,
+							861,
+							2704,
+							890,
+							2075,
+							890
+						]
+					}
+				],
+				"content": "Trending in Massachusetts ..."
+			},
+			{
+				"spans": [
+					{
+						"offset": 472,
+						"length": 32
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							996,
+							907,
+							1418,
+							907,
+							1418,
+							1013,
+							996,
+							1013
+						]
+					}
+				],
+				"content": "Honoré de Balzac French novelist"
+			},
+			{
+				"spans": [
+					{
+						"offset": 505,
+						"length": 2
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1648,
+							920,
+							1660,
+							920,
+							1660,
+							946,
+							1648,
+							946
+						]
+					}
+				],
+				"content": ".."
+			},
+			{
+				"spans": [
+					{
+						"offset": 508,
+						"length": 7
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							363,
+							949,
+							482,
+							949,
+							482,
+							986,
+							363,
+							986
+						]
+					}
+				],
+				"content": "Profile"
+			},
+			{
+				"spans": [
+					{
+						"offset": 516,
+						"length": 4
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							362,
+							1067,
+							458,
+							1067,
+							458,
+							1103,
+							362,
+							1103
+						]
+					}
+				],
+				"content": "More"
+			},
+			{
+				"spans": [
+					{
+						"offset": 521,
+						"length": 8
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1029,
+							1058,
+							1206,
+							1059,
+							1206,
+							1096,
+							1029,
+							1095
+						]
+					}
+				],
+				"content": "Overview"
+			},
+			{
+				"spans": [
+					{
+						"offset": 530,
+						"length": 5
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1285,
+							1060,
+							1399,
+							1060,
+							1399,
+							1093,
+							1285,
+							1093
+						]
+					}
+				],
+				"content": "Books"
+			},
+			{
+				"spans": [
+					{
+						"offset": 536,
+						"length": 6
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1473,
+							1056,
+							1612,
+							1056,
+							1612,
+							1101,
+							1473,
+							1101
+						]
+					}
+				],
+				"content": "Movies"
+			},
+			{
+				"spans": [
+					{
+						"offset": 543,
+						"length": 5
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							430,
+							1219,
+							534,
+							1219,
+							534,
+							1252,
+							430,
+							1252
+						]
+					}
+				],
+				"content": "Tweet"
+			},
+			{
+				"spans": [
+					{
+						"offset": 549,
+						"length": 5
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							994,
+							1703,
+							1067,
+							1703,
+							1067,
+							1730,
+							994,
+							1730
+						]
+					}
+				],
+				"content": "8,441"
+			},
+			{
+				"spans": [
+					{
+						"offset": 555,
+						"length": 8
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1130,
+							1700,
+							1264,
+							1702,
+							1264,
+							1731,
+							1130,
+							1729
+						]
+					}
+				],
+				"content": "17 22.7K"
+			},
+			{
+				"spans": [
+					{
+						"offset": 564,
+						"length": 6
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1390,
+							1704,
+							1479,
+							1704,
+							1479,
+							1730,
+							1390,
+							1730
+						]
+					}
+				],
+				"content": "238.3K"
+			},
+			{
+				"spans": [
+					{
+						"offset": 571,
+						"length": 15
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1530,
+							1128,
+							1672,
+							1127,
+							1672,
+							1150,
+							1530,
+							1151
+						]
+					}
+				],
+				"content": "@ gone_awol_now"
+			},
+			{
+				"spans": [
+					{
+						"offset": 587,
+						"length": 5
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1599,
+							1702,
+							1682,
+							1702,
+							1682,
+							1729,
+							1599,
+							1729
+						]
+					}
+				],
+				"content": "16.6M"
+			},
+			{
+				"spans": [
+					{
+						"offset": 593,
+						"length": 15
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2076,
+							900,
+							2327,
+							900,
+							2327,
+							931,
+							2076,
+							931
+						]
+					}
+				],
+				"content": "Boston Marathon"
+			},
+			{
+				"spans": [
+					{
+						"offset": 609,
+						"length": 12
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2076,
+							947,
+							2235,
+							947,
+							2235,
+							973,
+							2076,
+							973
+						]
+					}
+				],
+				"content": "2,941 Tweets"
+			},
+			{
+				"spans": [
+					{
+						"offset": 622,
+						"length": 9
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2074,
+							1036,
+							2232,
+							1036,
+							2232,
+							1065,
+							2074,
+							1065
+						]
+					}
+				],
+				"content": "Show more"
+			},
+			{
+				"spans": [
+					{
+						"offset": 632,
+						"length": 13
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2074,
+							1167,
+							2348,
+							1167,
+							2348,
+							1207,
+							2074,
+							1207
+						]
+					}
+				],
+				"role": "sectionHeading",
+				"content": "Who to follow"
+			},
+			{
+				"spans": [
+					{
+						"offset": 646,
+						"length": 26
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2194,
+							1270,
+							2418,
+							1269,
+							2418,
+							1347,
+							2194,
+							1348
+						]
+					}
+				],
+				"content": "jamessinka.eth @jamessinka"
+			},
+			{
+				"spans": [
+					{
+						"offset": 673,
+						"length": 29
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2193,
+							1414,
+							2462,
+							1414,
+							2462,
+							1489,
+							2193,
+							1489
+						]
+					}
+				],
+				"content": "Elijah Kofke @ProteinMasseuse"
+			},
+			{
+				"spans": [
+					{
+						"offset": 703,
+						"length": 25
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2194,
+							1558,
+							2385,
+							1558,
+							2385,
+							1637,
+							2194,
+							1637
+						]
+					}
+				],
+				"content": "Jane Chuprin @janechuprin"
+			},
+			{
+				"spans": [
+					{
+						"offset": 729,
+						"length": 1
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1754,
+							1699,
+							1782,
+							1698,
+							1783,
+							1732,
+							1755,
+							1733
+						]
+					}
+				],
+				"content": "1"
+			},
+			{
+				"spans": [
+					{
+						"offset": 731,
+						"length": 9
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2074,
+							1704,
+							2232,
+							1704,
+							2232,
+							1734,
+							2074,
+							1734
+						]
+					}
+				],
+				"content": "Show more"
+			},
+			{
+				"spans": [
+					{
+						"offset": 741,
+						"length": 28
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							933,
+							1788,
+							1454,
+							1788,
+							1454,
+							1824,
+							933,
+							1824
+						]
+					}
+				],
+				"content": "Trung Phan @TrungTPhan . 17h"
+			},
+			{
+				"spans": [
+					{
+						"offset": 770,
+						"length": 3
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2490,
+							1287,
+							2513,
+							1287,
+							2513,
+							1301,
+							2490,
+							1301
+						]
+					}
+				],
+				"content": "..."
+			},
+			{
+				"spans": [
+					{
+						"offset": 774,
+						"length": 6
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2582,
+							1293,
+							2675,
+							1293,
+							2675,
+							1320,
+							2582,
+							1320
+						]
+					}
+				],
+				"content": "Follow"
+			},
+			{
+				"spans": [
+					{
+						"offset": 781,
+						"length": 6
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2585,
+							1436,
+							2675,
+							1436,
+							2675,
+							1466,
+							2585,
+							1466
+						]
+					}
+				],
+				"content": "Follow"
+			},
+			{
+				"spans": [
+					{
+						"offset": 788,
+						"length": 6
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2582,
+							1581,
+							2677,
+							1581,
+							2677,
+							1609,
+							2582,
+							1609
+						]
+					}
+				],
+				"content": "Follow"
+			},
+			{
+				"spans": [
+					{
+						"offset": 795,
+						"length": 45
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2072,
+							1810,
+							2645,
+							1810,
+							2645,
+							1840,
+							2072,
+							1840
+						]
+					}
+				],
+				"content": "Terms of Service Privacy Policy Cookie Policy"
+			},
+			{
+				"spans": [
+					{
+						"offset": 841,
+						"length": 13
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							369,
+							1816,
+							609,
+							1818,
+							609,
+							1853,
+							369,
+							1851
+						]
+					}
+				],
+				"content": "AnhPhu Nguyen"
+			},
+			{
+				"spans": [
+					{
+						"offset": 855,
+						"length": 3
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							706,
+							1849,
+							741,
+							1848,
+							741,
+							1860,
+							706,
+							1861
+						]
+					}
+				],
+				"content": "..."
+			},
+			{
+				"spans": [
+					{
+						"offset": 859,
+						"length": 76
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							933,
+							1837,
+							1877,
+							1837,
+							1877,
+							1913,
+							933,
+							1913
+						]
+					}
+				],
+				"content": "Amazon released \"Bedrock\", a generative Al toolkit for chat, text and image."
+			},
+			{
+				"spans": [
+					{
+						"offset": 936,
+						"length": 18
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2072,
+							1854,
+							2360,
+							1849,
+							2361,
+							1915,
+							2073,
+							1920
+						]
+					}
+				],
+				"content": "Acce @ 20 Messages"
+			},
+			{
+				"spans": [
+					{
+						"offset": 955,
+						"length": 2
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2775,
+							1877,
+							2820,
+							1878,
+							2819,
+							1910,
+							2774,
+							1909
+						]
+					}
+				],
+				"content": "E+"
+			},
+			{
+				"spans": [
+					{
+						"offset": 958,
+						"length": 14
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							377,
+							1853,
+							626,
+							1860,
+							625,
+							1896,
+							376,
+							1889
+						]
+					}
+				],
+				"role": "pageFooter",
+				"content": "@AnhPhuNguyen1"
+			},
+			{
+				"spans": [
+					{
+						"offset": 973,
+						"length": 32
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							55,
+							1886,
+							435,
+							1886,
+							435,
+							1917,
+							55,
+							1917
+						]
+					}
+				],
+				"role": "pageFooter",
+				"content": "twitter.com/explore/tabs/for-you"
+			}
+		],
+		"styles": [
+			{
+				"confidence": 0.8,
+				"spans": [
+					{
+						"offset": 142,
+						"length": 1
+					}
+				],
+				"isHandwritten": true
+			},
+			{
+				"confidence": 0.6,
+				"spans": [
+					{
+						"offset": 955,
+						"length": 2
+					}
+				],
+				"isHandwritten": true
+			}
+		]
+	}
+}

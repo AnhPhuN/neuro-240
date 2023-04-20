@@ -1,0 +1,7188 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2023-04-17T01:24:39Z",
+	"lastUpdatedDateTime": "2023-04-17T01:24:42Z",
+	"analyzeResult": {
+		"apiVersion": "2023-02-28-preview",
+		"modelId": "prebuilt-layout",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "Arc File\nEdit\nExtensions\nWindow\nView\nSpaces\nTabs\n^ PyAutoGUI latest\nSearch docs\nInstallation\nCheat Sheet\nMouse Control Functions\nKeyboard Control Functions\nThe write() Function The press(), keyDown(), and keyUp() Functions\nThe hold() Context Manager The hotkey() Function KEYBOARD_KEYS\nMessage Box Functions Screenshot Functions\nTesting Roadmap\npyautogui\nArchive\nHelp\nUS\nFri Apr 14 10:35 AM\nDocs » Keyboard Control Functions\nEdit on GitHub\nKeyboard Control Functions\nThe write() Function\nThe primary keyboard function is write() . This function will type the characters in the string that is passed. To add a delay interval in between pressing each character key, pass an int or float for the interval keyword argument.\nFor example:\n>>> pyautogui.write('Hello world!') >>> pyautogui.write('Hello world!', interval=0.25)\n# prints out \"Hello world!\" instantly # prints out \"Hello world!\" with a quarter\nYou can only press single-character keys with write() , so you can't press the Shift or F1 keys, for example.\nThe press(), keyDown(), and keyUp() Functions\nTo press these keys, call the press () function and pass it a string from the\npyautogui. KEYBOARD_KEYS such as enter , esc , 1. See KEYBOARD_KEYS.\nFor example:\n>>> pyautogui.press('enter') # press the Enter key >>> pyautogui.press('f1') >>> pyautogui. press ('left')\n# press the F1 key # press the left arrow key\nThe press ( ) function is really just a wrapper for the keyDown ( ) and keyUp ( ) functions, which simulate pressing a key down and then releasing it up. These functions can be called by themselves. For example, to press the left arrow key three times while holding down the Shift key, call the following:\nRead the Docs v: latest :unselected:",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": 0,
+				"width": 3024,
+				"height": 1964,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "Arc",
+						"polygon": [
+							107,
+							25,
+							149,
+							23,
+							150,
+							49,
+							108,
+							48
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 0,
+							"length": 3
+						}
+					},
+					{
+						"content": "File",
+						"polygon": [
+							191,
+							23,
+							233,
+							23,
+							234,
+							49,
+							192,
+							50
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 4,
+							"length": 4
+						}
+					},
+					{
+						"content": "Edit",
+						"polygon": [
+							276,
+							23,
+							326,
+							23,
+							326,
+							48,
+							276,
+							48
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 9,
+							"length": 4
+						}
+					},
+					{
+						"content": "Extensions",
+						"polygon": [
+							822,
+							23,
+							957,
+							23,
+							958,
+							50,
+							822,
+							49
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 14,
+							"length": 10
+						}
+					},
+					{
+						"content": "Window",
+						"polygon": [
+							995,
+							24,
+							1085,
+							23,
+							1085,
+							49,
+							996,
+							49
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 25,
+							"length": 6
+						}
+					},
+					{
+						"content": "View",
+						"polygon": [
+							364,
+							25,
+							415,
+							24,
+							415,
+							49,
+							364,
+							48
+						],
+						"confidence": 0.982,
+						"span": {
+							"offset": 32,
+							"length": 4
+						}
+					},
+					{
+						"content": "Spaces",
+						"polygon": [
+							464,
+							24,
+							554,
+							24,
+							555,
+							52,
+							464,
+							51
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 37,
+							"length": 6
+						}
+					},
+					{
+						"content": "Tabs",
+						"polygon": [
+							596,
+							22,
+							653,
+							23,
+							653,
+							49,
+							596,
+							48
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 44,
+							"length": 4
+						}
+					},
+					{
+						"content": "^",
+						"polygon": [
+							221,
+							131,
+							241,
+							131,
+							242,
+							164,
+							222,
+							164
+						],
+						"confidence": 0.506,
+						"span": {
+							"offset": 49,
+							"length": 1
+						}
+					},
+					{
+						"content": "PyAutoGUI",
+						"polygon": [
+							256,
+							131,
+							421,
+							130,
+							421,
+							164,
+							258,
+							164
+						],
+						"confidence": 0.883,
+						"span": {
+							"offset": 51,
+							"length": 9
+						}
+					},
+					{
+						"content": "latest",
+						"polygon": [
+							279,
+							189,
+							360,
+							189,
+							360,
+							217,
+							279,
+							218
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 61,
+							"length": 6
+						}
+					},
+					{
+						"content": "Search",
+						"polygon": [
+							71,
+							266,
+							144,
+							267,
+							144,
+							291,
+							71,
+							291
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 68,
+							"length": 6
+						}
+					},
+					{
+						"content": "docs",
+						"polygon": [
+							153,
+							267,
+							206,
+							268,
+							205,
+							291,
+							153,
+							291
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 75,
+							"length": 4
+						}
+					},
+					{
+						"content": "Installation",
+						"polygon": [
+							66,
+							375,
+							201,
+							374,
+							202,
+							403,
+							66,
+							402
+						],
+						"confidence": 0.982,
+						"span": {
+							"offset": 80,
+							"length": 12
+						}
+					},
+					{
+						"content": "Cheat",
+						"polygon": [
+							65,
+							435,
+							143,
+							435,
+							144,
+							460,
+							66,
+							460
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 93,
+							"length": 5
+						}
+					},
+					{
+						"content": "Sheet",
+						"polygon": [
+							148,
+							435,
+							222,
+							435,
+							222,
+							462,
+							149,
+							460
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 99,
+							"length": 5
+						}
+					},
+					{
+						"content": "Mouse",
+						"polygon": [
+							66,
+							494,
+							152,
+							494,
+							153,
+							523,
+							66,
+							523
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 105,
+							"length": 5
+						}
+					},
+					{
+						"content": "Control",
+						"polygon": [
+							160,
+							494,
+							255,
+							493,
+							255,
+							524,
+							161,
+							523
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 111,
+							"length": 7
+						}
+					},
+					{
+						"content": "Functions",
+						"polygon": [
+							261,
+							493,
+							388,
+							491,
+							389,
+							525,
+							262,
+							524
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 119,
+							"length": 9
+						}
+					},
+					{
+						"content": "Keyboard",
+						"polygon": [
+							64,
+							554,
+							187,
+							554,
+							187,
+							585,
+							64,
+							584
+						],
+						"confidence": 0.86,
+						"span": {
+							"offset": 129,
+							"length": 8
+						}
+					},
+					{
+						"content": "Control",
+						"polygon": [
+							195,
+							554,
+							291,
+							553,
+							291,
+							585,
+							195,
+							585
+						],
+						"confidence": 0.951,
+						"span": {
+							"offset": 138,
+							"length": 7
+						}
+					},
+					{
+						"content": "Functions",
+						"polygon": [
+							298,
+							553,
+							427,
+							552,
+							427,
+							585,
+							298,
+							585
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 146,
+							"length": 9
+						}
+					},
+					{
+						"content": "The",
+						"polygon": [
+							90,
+							615,
+							136,
+							615,
+							137,
+							644,
+							91,
+							645
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 156,
+							"length": 3
+						}
+					},
+					{
+						"content": "write()",
+						"polygon": [
+							142,
+							615,
+							224,
+							615,
+							225,
+							645,
+							143,
+							644
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 160,
+							"length": 7
+						}
+					},
+					{
+						"content": "Function",
+						"polygon": [
+							230,
+							615,
+							341,
+							614,
+							341,
+							647,
+							231,
+							645
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 168,
+							"length": 8
+						}
+					},
+					{
+						"content": "The",
+						"polygon": [
+							89,
+							674,
+							135,
+							674,
+							137,
+							706,
+							90,
+							706
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 177,
+							"length": 3
+						}
+					},
+					{
+						"content": "press(),",
+						"polygon": [
+							142,
+							674,
+							230,
+							673,
+							231,
+							707,
+							143,
+							706
+						],
+						"confidence": 0.951,
+						"span": {
+							"offset": 181,
+							"length": 8
+						}
+					},
+					{
+						"content": "keyDown(),",
+						"polygon": [
+							237,
+							673,
+							382,
+							673,
+							383,
+							707,
+							238,
+							707
+						],
+						"confidence": 0.966,
+						"span": {
+							"offset": 190,
+							"length": 10
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							389,
+							673,
+							433,
+							673,
+							434,
+							708,
+							390,
+							707
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 201,
+							"length": 3
+						}
+					},
+					{
+						"content": "keyUp()",
+						"polygon": [
+							440,
+							673,
+							540,
+							673,
+							540,
+							708,
+							440,
+							708
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 205,
+							"length": 7
+						}
+					},
+					{
+						"content": "Functions",
+						"polygon": [
+							89,
+							712,
+							215,
+							712,
+							215,
+							739,
+							89,
+							738
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 213,
+							"length": 9
+						}
+					},
+					{
+						"content": "The",
+						"polygon": [
+							89,
+							771,
+							135,
+							770,
+							137,
+							800,
+							91,
+							799
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 223,
+							"length": 3
+						}
+					},
+					{
+						"content": "hold()",
+						"polygon": [
+							141,
+							770,
+							216,
+							769,
+							217,
+							801,
+							143,
+							800
+						],
+						"confidence": 0.98,
+						"span": {
+							"offset": 227,
+							"length": 6
+						}
+					},
+					{
+						"content": "Context",
+						"polygon": [
+							223,
+							769,
+							322,
+							769,
+							323,
+							802,
+							224,
+							802
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 234,
+							"length": 7
+						}
+					},
+					{
+						"content": "Manager",
+						"polygon": [
+							329,
+							769,
+							443,
+							771,
+							443,
+							802,
+							329,
+							802
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 242,
+							"length": 7
+						}
+					},
+					{
+						"content": "The",
+						"polygon": [
+							90,
+							830,
+							135,
+							830,
+							136,
+							859,
+							91,
+							859
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 250,
+							"length": 3
+						}
+					},
+					{
+						"content": "hotkey()",
+						"polygon": [
+							141,
+							830,
+							245,
+							829,
+							245,
+							860,
+							142,
+							859
+						],
+						"confidence": 0.98,
+						"span": {
+							"offset": 254,
+							"length": 8
+						}
+					},
+					{
+						"content": "Function",
+						"polygon": [
+							251,
+							829,
+							361,
+							828,
+							361,
+							861,
+							252,
+							860
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 263,
+							"length": 8
+						}
+					},
+					{
+						"content": "KEYBOARD_KEYS",
+						"polygon": [
+							89,
+							888,
+							328,
+							885,
+							327,
+							919,
+							89,
+							916
+						],
+						"confidence": 0.959,
+						"span": {
+							"offset": 272,
+							"length": 13
+						}
+					},
+					{
+						"content": "Message",
+						"polygon": [
+							66,
+							949,
+							176,
+							948,
+							176,
+							979,
+							66,
+							980
+						],
+						"confidence": 0.983,
+						"span": {
+							"offset": 286,
+							"length": 7
+						}
+					},
+					{
+						"content": "Box",
+						"polygon": [
+							183,
+							948,
+							233,
+							947,
+							233,
+							979,
+							183,
+							979
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 294,
+							"length": 3
+						}
+					},
+					{
+						"content": "Functions",
+						"polygon": [
+							240,
+							947,
+							366,
+							946,
+							366,
+							980,
+							240,
+							979
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 298,
+							"length": 9
+						}
+					},
+					{
+						"content": "Screenshot",
+						"polygon": [
+							65,
+							1007,
+							207,
+							1007,
+							206,
+							1037,
+							65,
+							1038
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 308,
+							"length": 10
+						}
+					},
+					{
+						"content": "Functions",
+						"polygon": [
+							213,
+							1007,
+							340,
+							1007,
+							339,
+							1038,
+							212,
+							1037
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 319,
+							"length": 9
+						}
+					},
+					{
+						"content": "Testing",
+						"polygon": [
+							68,
+							1066,
+							157,
+							1068,
+							157,
+							1098,
+							68,
+							1096
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 329,
+							"length": 7
+						}
+					},
+					{
+						"content": "Roadmap",
+						"polygon": [
+							66,
+							1126,
+							181,
+							1129,
+							181,
+							1157,
+							66,
+							1157
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 337,
+							"length": 7
+						}
+					},
+					{
+						"content": "pyautogui",
+						"polygon": [
+							65,
+							1189,
+							192,
+							1187,
+							192,
+							1218,
+							66,
+							1218
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 345,
+							"length": 9
+						}
+					},
+					{
+						"content": "Archive",
+						"polygon": [
+							691,
+							22,
+							782,
+							22,
+							782,
+							50,
+							692,
+							50
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 355,
+							"length": 7
+						}
+					},
+					{
+						"content": "Help",
+						"polygon": [
+							1131,
+							14,
+							1189,
+							14,
+							1190,
+							58,
+							1131,
+							58
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 363,
+							"length": 4
+						}
+					},
+					{
+						"content": "US",
+						"polygon": [
+							2313,
+							26,
+							2341,
+							26,
+							2341,
+							46,
+							2313,
+							46
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 368,
+							"length": 2
+						}
+					},
+					{
+						"content": "Fri",
+						"polygon": [
+							2733,
+							22,
+							2766,
+							22,
+							2766,
+							50,
+							2733,
+							51
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 371,
+							"length": 3
+						}
+					},
+					{
+						"content": "Apr",
+						"polygon": [
+							2772,
+							22,
+							2819,
+							23,
+							2819,
+							50,
+							2772,
+							50
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 375,
+							"length": 3
+						}
+					},
+					{
+						"content": "14",
+						"polygon": [
+							2826,
+							23,
+							2854,
+							23,
+							2855,
+							50,
+							2827,
+							50
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 379,
+							"length": 2
+						}
+					},
+					{
+						"content": "10:35",
+						"polygon": [
+							2873,
+							23,
+							2940,
+							21,
+							2941,
+							51,
+							2873,
+							50
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 382,
+							"length": 5
+						}
+					},
+					{
+						"content": "AM",
+						"polygon": [
+							2950,
+							21,
+							2980,
+							20,
+							2980,
+							51,
+							2950,
+							51
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 388,
+							"length": 2
+						}
+					},
+					{
+						"content": "Docs",
+						"polygon": [
+							722,
+							162,
+							796,
+							161,
+							797,
+							196,
+							723,
+							196
+						],
+						"confidence": 0.981,
+						"span": {
+							"offset": 391,
+							"length": 4
+						}
+					},
+					{
+						"content": "»",
+						"polygon": [
+							810,
+							161,
+							824,
+							161,
+							824,
+							196,
+							810,
+							196
+						],
+						"confidence": 0.539,
+						"span": {
+							"offset": 396,
+							"length": 1
+						}
+					},
+					{
+						"content": "Keyboard",
+						"polygon": [
+							830,
+							161,
+							967,
+							161,
+							967,
+							196,
+							831,
+							196
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 398,
+							"length": 8
+						}
+					},
+					{
+						"content": "Control",
+						"polygon": [
+							976,
+							161,
+							1082,
+							161,
+							1082,
+							196,
+							976,
+							196
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 407,
+							"length": 7
+						}
+					},
+					{
+						"content": "Functions",
+						"polygon": [
+							1089,
+							161,
+							1228,
+							162,
+							1228,
+							196,
+							1089,
+							196
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 415,
+							"length": 9
+						}
+					},
+					{
+						"content": "Edit",
+						"polygon": [
+							1893,
+							152,
+							1949,
+							153,
+							1949,
+							196,
+							1893,
+							195
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 425,
+							"length": 4
+						}
+					},
+					{
+						"content": "on",
+						"polygon": [
+							1958,
+							153,
+							1994,
+							153,
+							1994,
+							196,
+							1958,
+							196
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 430,
+							"length": 2
+						}
+					},
+					{
+						"content": "GitHub",
+						"polygon": [
+							2003,
+							153,
+							2105,
+							152,
+							2105,
+							195,
+							2003,
+							196
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 433,
+							"length": 6
+						}
+					},
+					{
+						"content": "Keyboard",
+						"polygon": [
+							720,
+							318,
+							969,
+							316,
+							970,
+							374,
+							721,
+							377
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 440,
+							"length": 8
+						}
+					},
+					{
+						"content": "Control",
+						"polygon": [
+							988,
+							316,
+							1186,
+							316,
+							1186,
+							372,
+							988,
+							374
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 449,
+							"length": 7
+						}
+					},
+					{
+						"content": "Functions",
+						"polygon": [
+							1197,
+							316,
+							1467,
+							317,
+							1466,
+							371,
+							1197,
+							372
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 457,
+							"length": 9
+						}
+					},
+					{
+						"content": "The",
+						"polygon": [
+							727,
+							433,
+							810,
+							433,
+							809,
+							488,
+							726,
+							488
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 467,
+							"length": 3
+						}
+					},
+					{
+						"content": "write()",
+						"polygon": [
+							821,
+							433,
+							975,
+							433,
+							975,
+							488,
+							820,
+							488
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 471,
+							"length": 7
+						}
+					},
+					{
+						"content": "Function",
+						"polygon": [
+							985,
+							434,
+							1186,
+							435,
+							1187,
+							488,
+							985,
+							488
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 479,
+							"length": 8
+						}
+					},
+					{
+						"content": "The",
+						"polygon": [
+							724,
+							535,
+							773,
+							535,
+							774,
+							572,
+							724,
+							572
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 488,
+							"length": 3
+						}
+					},
+					{
+						"content": "primary",
+						"polygon": [
+							781,
+							535,
+							887,
+							535,
+							888,
+							572,
+							781,
+							572
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 492,
+							"length": 7
+						}
+					},
+					{
+						"content": "keyboard",
+						"polygon": [
+							895,
+							535,
+							1026,
+							535,
+							1027,
+							572,
+							895,
+							572
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 500,
+							"length": 8
+						}
+					},
+					{
+						"content": "function",
+						"polygon": [
+							1033,
+							535,
+							1152,
+							535,
+							1153,
+							572,
+							1034,
+							572
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 509,
+							"length": 8
+						}
+					},
+					{
+						"content": "is",
+						"polygon": [
+							1160,
+							535,
+							1190,
+							535,
+							1190,
+							572,
+							1160,
+							572
+						],
+						"confidence": 0.945,
+						"span": {
+							"offset": 518,
+							"length": 2
+						}
+					},
+					{
+						"content": "write()",
+						"polygon": [
+							1200,
+							535,
+							1306,
+							535,
+							1307,
+							573,
+							1200,
+							572
+						],
+						"confidence": 0.877,
+						"span": {
+							"offset": 521,
+							"length": 7
+						}
+					},
+					{
+						"content": ".",
+						"polygon": [
+							1314,
+							535,
+							1326,
+							535,
+							1326,
+							573,
+							1314,
+							573
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 529,
+							"length": 1
+						}
+					},
+					{
+						"content": "This",
+						"polygon": [
+							1333,
+							535,
+							1390,
+							535,
+							1391,
+							573,
+							1334,
+							573
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 531,
+							"length": 4
+						}
+					},
+					{
+						"content": "function",
+						"polygon": [
+							1398,
+							535,
+							1514,
+							535,
+							1515,
+							573,
+							1398,
+							573
+						],
+						"confidence": 0.982,
+						"span": {
+							"offset": 536,
+							"length": 8
+						}
+					},
+					{
+						"content": "will",
+						"polygon": [
+							1522,
+							535,
+							1571,
+							535,
+							1572,
+							573,
+							1522,
+							573
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 545,
+							"length": 4
+						}
+					},
+					{
+						"content": "type",
+						"polygon": [
+							1579,
+							535,
+							1643,
+							535,
+							1643,
+							573,
+							1579,
+							573
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 550,
+							"length": 4
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							1651,
+							535,
+							1698,
+							535,
+							1698,
+							573,
+							1651,
+							573
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 555,
+							"length": 3
+						}
+					},
+					{
+						"content": "characters",
+						"polygon": [
+							1705,
+							535,
+							1849,
+							535,
+							1849,
+							573,
+							1705,
+							573
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 559,
+							"length": 10
+						}
+					},
+					{
+						"content": "in",
+						"polygon": [
+							1856,
+							535,
+							1884,
+							535,
+							1884,
+							573,
+							1856,
+							573
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 570,
+							"length": 2
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							1891,
+							535,
+							1941,
+							535,
+							1941,
+							573,
+							1891,
+							573
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 573,
+							"length": 3
+						}
+					},
+					{
+						"content": "string",
+						"polygon": [
+							1948,
+							535,
+							2027,
+							535,
+							2027,
+							573,
+							1948,
+							573
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 577,
+							"length": 6
+						}
+					},
+					{
+						"content": "that",
+						"polygon": [
+							2035,
+							535,
+							2095,
+							535,
+							2095,
+							573,
+							2035,
+							573
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 584,
+							"length": 4
+						}
+					},
+					{
+						"content": "is",
+						"polygon": [
+							719,
+							587,
+							740,
+							587,
+							740,
+							623,
+							720,
+							623
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 589,
+							"length": 2
+						}
+					},
+					{
+						"content": "passed.",
+						"polygon": [
+							747,
+							587,
+							856,
+							587,
+							857,
+							624,
+							748,
+							623
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 592,
+							"length": 7
+						}
+					},
+					{
+						"content": "To",
+						"polygon": [
+							864,
+							587,
+							895,
+							586,
+							896,
+							624,
+							865,
+							624
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 600,
+							"length": 2
+						}
+					},
+					{
+						"content": "add",
+						"polygon": [
+							903,
+							586,
+							955,
+							586,
+							956,
+							625,
+							904,
+							624
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 603,
+							"length": 3
+						}
+					},
+					{
+						"content": "a",
+						"polygon": [
+							963,
+							586,
+							978,
+							586,
+							979,
+							625,
+							963,
+							625
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 607,
+							"length": 1
+						}
+					},
+					{
+						"content": "delay",
+						"polygon": [
+							986,
+							586,
+							1059,
+							586,
+							1059,
+							626,
+							987,
+							625
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 609,
+							"length": 5
+						}
+					},
+					{
+						"content": "interval",
+						"polygon": [
+							1066,
+							586,
+							1170,
+							586,
+							1171,
+							626,
+							1067,
+							626
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 615,
+							"length": 8
+						}
+					},
+					{
+						"content": "in",
+						"polygon": [
+							1178,
+							586,
+							1207,
+							586,
+							1207,
+							626,
+							1179,
+							626
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 624,
+							"length": 2
+						}
+					},
+					{
+						"content": "between",
+						"polygon": [
+							1214,
+							586,
+							1339,
+							586,
+							1339,
+							627,
+							1215,
+							626
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 627,
+							"length": 7
+						}
+					},
+					{
+						"content": "pressing",
+						"polygon": [
+							1347,
+							586,
+							1463,
+							586,
+							1464,
+							627,
+							1347,
+							627
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 635,
+							"length": 8
+						}
+					},
+					{
+						"content": "each",
+						"polygon": [
+							1471,
+							586,
+							1539,
+							586,
+							1539,
+							627,
+							1472,
+							627
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 644,
+							"length": 4
+						}
+					},
+					{
+						"content": "character",
+						"polygon": [
+							1546,
+							586,
+							1674,
+							586,
+							1674,
+							627,
+							1547,
+							627
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 649,
+							"length": 9
+						}
+					},
+					{
+						"content": "key,",
+						"polygon": [
+							1681,
+							586,
+							1738,
+							586,
+							1739,
+							627,
+							1682,
+							627
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 659,
+							"length": 4
+						}
+					},
+					{
+						"content": "pass",
+						"polygon": [
+							1746,
+							586,
+							1808,
+							586,
+							1809,
+							626,
+							1746,
+							627
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 664,
+							"length": 4
+						}
+					},
+					{
+						"content": "an",
+						"polygon": [
+							1816,
+							586,
+							1847,
+							586,
+							1848,
+							626,
+							1816,
+							626
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 669,
+							"length": 2
+						}
+					},
+					{
+						"content": "int",
+						"polygon": [
+							1855,
+							586,
+							1897,
+							586,
+							1897,
+							626,
+							1855,
+							626
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 672,
+							"length": 3
+						}
+					},
+					{
+						"content": "or",
+						"polygon": [
+							1904,
+							586,
+							1933,
+							586,
+							1933,
+							626,
+							1905,
+							626
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 676,
+							"length": 2
+						}
+					},
+					{
+						"content": "float",
+						"polygon": [
+							1941,
+							586,
+							2006,
+							586,
+							2006,
+							625,
+							1941,
+							626
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 679,
+							"length": 5
+						}
+					},
+					{
+						"content": "for",
+						"polygon": [
+							2013,
+							586,
+							2052,
+							586,
+							2052,
+							625,
+							2013,
+							625
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 685,
+							"length": 3
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							2060,
+							586,
+							2112,
+							586,
+							2112,
+							625,
+							2060,
+							625
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 689,
+							"length": 3
+						}
+					},
+					{
+						"content": "interval",
+						"polygon": [
+							734,
+							640,
+							855,
+							637,
+							856,
+							672,
+							734,
+							670
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 693,
+							"length": 8
+						}
+					},
+					{
+						"content": "keyword",
+						"polygon": [
+							866,
+							636,
+							990,
+							635,
+							991,
+							672,
+							867,
+							672
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 702,
+							"length": 7
+						}
+					},
+					{
+						"content": "argument.",
+						"polygon": [
+							999,
+							635,
+							1141,
+							637,
+							1143,
+							672,
+							1000,
+							672
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 710,
+							"length": 9
+						}
+					},
+					{
+						"content": "For",
+						"polygon": [
+							720,
+							737,
+							769,
+							737,
+							769,
+							771,
+							721,
+							770
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 720,
+							"length": 3
+						}
+					},
+					{
+						"content": "example:",
+						"polygon": [
+							775,
+							737,
+							903,
+							737,
+							902,
+							771,
+							776,
+							771
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 724,
+							"length": 8
+						}
+					},
+					{
+						"content": ">>>",
+						"polygon": [
+							750,
+							854,
+							795,
+							853,
+							795,
+							881,
+							750,
+							881
+						],
+						"confidence": 0.719,
+						"span": {
+							"offset": 733,
+							"length": 3
+						}
+					},
+					{
+						"content": "pyautogui.write('Hello",
+						"polygon": [
+							805,
+							853,
+							1125,
+							849,
+							1125,
+							881,
+							805,
+							881
+						],
+						"confidence": 0.902,
+						"span": {
+							"offset": 737,
+							"length": 22
+						}
+					},
+					{
+						"content": "world!')",
+						"polygon": [
+							1137,
+							849,
+							1252,
+							849,
+							1252,
+							879,
+							1137,
+							881
+						],
+						"confidence": 0.86,
+						"span": {
+							"offset": 760,
+							"length": 8
+						}
+					},
+					{
+						"content": ">>>",
+						"polygon": [
+							749,
+							887,
+							795,
+							886,
+							794,
+							915,
+							749,
+							915
+						],
+						"confidence": 0.855,
+						"span": {
+							"offset": 769,
+							"length": 3
+						}
+					},
+					{
+						"content": "pyautogui.write('Hello",
+						"polygon": [
+							805,
+							886,
+							1126,
+							883,
+							1125,
+							915,
+							804,
+							915
+						],
+						"confidence": 0.881,
+						"span": {
+							"offset": 773,
+							"length": 22
+						}
+					},
+					{
+						"content": "world!',",
+						"polygon": [
+							1136,
+							883,
+							1256,
+							883,
+							1256,
+							915,
+							1135,
+							915
+						],
+						"confidence": 0.773,
+						"span": {
+							"offset": 796,
+							"length": 8
+						}
+					},
+					{
+						"content": "interval=0.25)",
+						"polygon": [
+							1270,
+							883,
+							1473,
+							884,
+							1473,
+							913,
+							1270,
+							914
+						],
+						"confidence": 0.96,
+						"span": {
+							"offset": 805,
+							"length": 14
+						}
+					},
+					{
+						"content": "#",
+						"polygon": [
+							1498,
+							851,
+							1514,
+							851,
+							1515,
+							881,
+							1499,
+							882
+						],
+						"confidence": 0.922,
+						"span": {
+							"offset": 820,
+							"length": 1
+						}
+					},
+					{
+						"content": "prints",
+						"polygon": [
+							1527,
+							851,
+							1616,
+							851,
+							1616,
+							880,
+							1528,
+							881
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 822,
+							"length": 6
+						}
+					},
+					{
+						"content": "out",
+						"polygon": [
+							1629,
+							851,
+							1676,
+							851,
+							1676,
+							879,
+							1629,
+							880
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 829,
+							"length": 3
+						}
+					},
+					{
+						"content": "\"Hello",
+						"polygon": [
+							1685,
+							851,
+							1775,
+							851,
+							1775,
+							879,
+							1685,
+							879
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 833,
+							"length": 6
+						}
+					},
+					{
+						"content": "world!\"",
+						"polygon": [
+							1786,
+							851,
+							1890,
+							851,
+							1889,
+							879,
+							1786,
+							879
+						],
+						"confidence": 0.961,
+						"span": {
+							"offset": 840,
+							"length": 7
+						}
+					},
+					{
+						"content": "instantly",
+						"polygon": [
+							1906,
+							851,
+							2036,
+							851,
+							2035,
+							881,
+							1906,
+							879
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 848,
+							"length": 9
+						}
+					},
+					{
+						"content": "#",
+						"polygon": [
+							1498,
+							885,
+							1515,
+							885,
+							1515,
+							914,
+							1498,
+							914
+						],
+						"confidence": 0.949,
+						"span": {
+							"offset": 858,
+							"length": 1
+						}
+					},
+					{
+						"content": "prints",
+						"polygon": [
+							1528,
+							885,
+							1616,
+							885,
+							1616,
+							914,
+							1528,
+							914
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 860,
+							"length": 6
+						}
+					},
+					{
+						"content": "out",
+						"polygon": [
+							1629,
+							885,
+							1676,
+							885,
+							1676,
+							914,
+							1629,
+							914
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 867,
+							"length": 3
+						}
+					},
+					{
+						"content": "\"Hello",
+						"polygon": [
+							1684,
+							885,
+							1775,
+							885,
+							1775,
+							914,
+							1683,
+							914
+						],
+						"confidence": 0.962,
+						"span": {
+							"offset": 871,
+							"length": 6
+						}
+					},
+					{
+						"content": "world!\"",
+						"polygon": [
+							1787,
+							885,
+							1890,
+							885,
+							1889,
+							914,
+							1786,
+							914
+						],
+						"confidence": 0.985,
+						"span": {
+							"offset": 878,
+							"length": 7
+						}
+					},
+					{
+						"content": "with",
+						"polygon": [
+							1903,
+							885,
+							1963,
+							885,
+							1962,
+							914,
+							1902,
+							914
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 886,
+							"length": 4
+						}
+					},
+					{
+						"content": "a",
+						"polygon": [
+							1978,
+							886,
+							1993,
+							886,
+							1992,
+							914,
+							1977,
+							914
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 891,
+							"length": 1
+						}
+					},
+					{
+						"content": "quarter",
+						"polygon": [
+							2006,
+							886,
+							2108,
+							886,
+							2107,
+							914,
+							2006,
+							914
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 893,
+							"length": 7
+						}
+					},
+					{
+						"content": "You",
+						"polygon": [
+							724,
+							1027,
+							775,
+							1027,
+							776,
+							1065,
+							724,
+							1065
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 901,
+							"length": 3
+						}
+					},
+					{
+						"content": "can",
+						"polygon": [
+							782,
+							1028,
+							831,
+							1028,
+							832,
+							1065,
+							783,
+							1065
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 905,
+							"length": 3
+						}
+					},
+					{
+						"content": "only",
+						"polygon": [
+							838,
+							1028,
+							897,
+							1028,
+							897,
+							1065,
+							839,
+							1065
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 909,
+							"length": 4
+						}
+					},
+					{
+						"content": "press",
+						"polygon": [
+							904,
+							1028,
+							980,
+							1028,
+							980,
+							1065,
+							905,
+							1065
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 914,
+							"length": 5
+						}
+					},
+					{
+						"content": "single-character",
+						"polygon": [
+							987,
+							1028,
+							1209,
+							1029,
+							1210,
+							1065,
+							988,
+							1065
+						],
+						"confidence": 0.963,
+						"span": {
+							"offset": 920,
+							"length": 16
+						}
+					},
+					{
+						"content": "keys",
+						"polygon": [
+							1216,
+							1029,
+							1279,
+							1029,
+							1280,
+							1065,
+							1217,
+							1065
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 937,
+							"length": 4
+						}
+					},
+					{
+						"content": "with",
+						"polygon": [
+							1287,
+							1029,
+							1350,
+							1029,
+							1351,
+							1065,
+							1288,
+							1065
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 942,
+							"length": 4
+						}
+					},
+					{
+						"content": "write()",
+						"polygon": [
+							1367,
+							1029,
+							1475,
+							1029,
+							1475,
+							1065,
+							1368,
+							1065
+						],
+						"confidence": 0.774,
+						"span": {
+							"offset": 947,
+							"length": 7
+						}
+					},
+					{
+						"content": ",",
+						"polygon": [
+							1482,
+							1029,
+							1492,
+							1029,
+							1492,
+							1065,
+							1483,
+							1065
+						],
+						"confidence": 0.983,
+						"span": {
+							"offset": 955,
+							"length": 1
+						}
+					},
+					{
+						"content": "so",
+						"polygon": [
+							1499,
+							1029,
+							1531,
+							1029,
+							1531,
+							1065,
+							1500,
+							1065
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 957,
+							"length": 2
+						}
+					},
+					{
+						"content": "you",
+						"polygon": [
+							1538,
+							1029,
+							1592,
+							1029,
+							1592,
+							1065,
+							1539,
+							1065
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 960,
+							"length": 3
+						}
+					},
+					{
+						"content": "can't",
+						"polygon": [
+							1599,
+							1029,
+							1665,
+							1028,
+							1665,
+							1065,
+							1600,
+							1065
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 964,
+							"length": 5
+						}
+					},
+					{
+						"content": "press",
+						"polygon": [
+							1672,
+							1028,
+							1748,
+							1028,
+							1748,
+							1065,
+							1673,
+							1065
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 970,
+							"length": 5
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							1755,
+							1028,
+							1804,
+							1028,
+							1804,
+							1065,
+							1756,
+							1065
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 976,
+							"length": 3
+						}
+					},
+					{
+						"content": "Shift",
+						"polygon": [
+							1811,
+							1028,
+							1877,
+							1028,
+							1878,
+							1065,
+							1812,
+							1065
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 980,
+							"length": 5
+						}
+					},
+					{
+						"content": "or",
+						"polygon": [
+							1884,
+							1028,
+							1913,
+							1028,
+							1914,
+							1065,
+							1885,
+							1065
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 986,
+							"length": 2
+						}
+					},
+					{
+						"content": "F1",
+						"polygon": [
+							1921,
+							1028,
+							1957,
+							1028,
+							1958,
+							1065,
+							1921,
+							1065
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 989,
+							"length": 2
+						}
+					},
+					{
+						"content": "keys,",
+						"polygon": [
+							1965,
+							1028,
+							2035,
+							1027,
+							2036,
+							1065,
+							1965,
+							1065
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 992,
+							"length": 5
+						}
+					},
+					{
+						"content": "for",
+						"polygon": [
+							2043,
+							1027,
+							2087,
+							1027,
+							2088,
+							1065,
+							2043,
+							1065
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 998,
+							"length": 3
+						}
+					},
+					{
+						"content": "example.",
+						"polygon": [
+							721,
+							1085,
+							850,
+							1083,
+							850,
+							1116,
+							722,
+							1116
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1002,
+							"length": 8
+						}
+					},
+					{
+						"content": "The",
+						"polygon": [
+							727,
+							1178,
+							810,
+							1177,
+							807,
+							1232,
+							725,
+							1232
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1011,
+							"length": 3
+						}
+					},
+					{
+						"content": "press(),",
+						"polygon": [
+							821,
+							1177,
+							990,
+							1175,
+							988,
+							1233,
+							819,
+							1233
+						],
+						"confidence": 0.928,
+						"span": {
+							"offset": 1015,
+							"length": 8
+						}
+					},
+					{
+						"content": "keyDown(),",
+						"polygon": [
+							1001,
+							1175,
+							1257,
+							1174,
+							1255,
+							1233,
+							999,
+							1233
+						],
+						"confidence": 0.96,
+						"span": {
+							"offset": 1024,
+							"length": 10
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							1268,
+							1174,
+							1355,
+							1174,
+							1353,
+							1233,
+							1266,
+							1233
+						],
+						"confidence": 0.961,
+						"span": {
+							"offset": 1035,
+							"length": 3
+						}
+					},
+					{
+						"content": "keyUp()",
+						"polygon": [
+							1366,
+							1174,
+							1546,
+							1175,
+							1545,
+							1233,
+							1364,
+							1233
+						],
+						"confidence": 0.961,
+						"span": {
+							"offset": 1039,
+							"length": 7
+						}
+					},
+					{
+						"content": "Functions",
+						"polygon": [
+							1557,
+							1175,
+							1791,
+							1177,
+							1790,
+							1231,
+							1556,
+							1233
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1047,
+							"length": 9
+						}
+					},
+					{
+						"content": "To",
+						"polygon": [
+							723,
+							1280,
+							753,
+							1280,
+							753,
+							1316,
+							724,
+							1316
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1057,
+							"length": 2
+						}
+					},
+					{
+						"content": "press",
+						"polygon": [
+							760,
+							1279,
+							835,
+							1279,
+							835,
+							1317,
+							761,
+							1317
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1060,
+							"length": 5
+						}
+					},
+					{
+						"content": "these",
+						"polygon": [
+							842,
+							1278,
+							921,
+							1278,
+							922,
+							1317,
+							843,
+							1317
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1066,
+							"length": 5
+						}
+					},
+					{
+						"content": "keys,",
+						"polygon": [
+							929,
+							1278,
+							1001,
+							1278,
+							1002,
+							1317,
+							930,
+							1317
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1072,
+							"length": 5
+						}
+					},
+					{
+						"content": "call",
+						"polygon": [
+							1008,
+							1278,
+							1053,
+							1278,
+							1054,
+							1316,
+							1009,
+							1316
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1078,
+							"length": 4
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							1060,
+							1278,
+							1113,
+							1278,
+							1113,
+							1315,
+							1061,
+							1316
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1083,
+							"length": 3
+						}
+					},
+					{
+						"content": "press",
+						"polygon": [
+							1126,
+							1282,
+							1194,
+							1281,
+							1194,
+							1315,
+							1127,
+							1315
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1087,
+							"length": 5
+						}
+					},
+					{
+						"content": "()",
+						"polygon": [
+							1201,
+							1281,
+							1235,
+							1281,
+							1235,
+							1315,
+							1201,
+							1315
+						],
+						"confidence": 0.864,
+						"span": {
+							"offset": 1093,
+							"length": 2
+						}
+					},
+					{
+						"content": "function",
+						"polygon": [
+							1247,
+							1280,
+							1367,
+							1279,
+							1368,
+							1316,
+							1247,
+							1315
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1096,
+							"length": 8
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							1375,
+							1279,
+							1425,
+							1278,
+							1426,
+							1316,
+							1375,
+							1316
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1105,
+							"length": 3
+						}
+					},
+					{
+						"content": "pass",
+						"polygon": [
+							1433,
+							1278,
+							1495,
+							1278,
+							1496,
+							1316,
+							1433,
+							1316
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1109,
+							"length": 4
+						}
+					},
+					{
+						"content": "it",
+						"polygon": [
+							1503,
+							1278,
+							1524,
+							1278,
+							1525,
+							1316,
+							1503,
+							1316
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1114,
+							"length": 2
+						}
+					},
+					{
+						"content": "a",
+						"polygon": [
+							1532,
+							1278,
+							1548,
+							1278,
+							1549,
+							1316,
+							1532,
+							1316
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1117,
+							"length": 1
+						}
+					},
+					{
+						"content": "string",
+						"polygon": [
+							1556,
+							1278,
+							1635,
+							1277,
+							1636,
+							1316,
+							1556,
+							1316
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1119,
+							"length": 6
+						}
+					},
+					{
+						"content": "from",
+						"polygon": [
+							1643,
+							1277,
+							1703,
+							1277,
+							1703,
+							1316,
+							1643,
+							1316
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1126,
+							"length": 4
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							1717,
+							1277,
+							1768,
+							1277,
+							1768,
+							1316,
+							1718,
+							1316
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1131,
+							"length": 3
+						}
+					},
+					{
+						"content": "pyautogui.",
+						"polygon": [
+							732,
+							1338,
+							869,
+							1337,
+							870,
+							1368,
+							733,
+							1369
+						],
+						"confidence": 0.968,
+						"span": {
+							"offset": 1135,
+							"length": 10
+						}
+					},
+					{
+						"content": "KEYBOARD_KEYS",
+						"polygon": [
+							875,
+							1337,
+							1070,
+							1334,
+							1070,
+							1366,
+							876,
+							1368
+						],
+						"confidence": 0.776,
+						"span": {
+							"offset": 1146,
+							"length": 13
+						}
+					},
+					{
+						"content": "such",
+						"polygon": [
+							1085,
+							1335,
+							1148,
+							1335,
+							1149,
+							1364,
+							1086,
+							1364
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1160,
+							"length": 4
+						}
+					},
+					{
+						"content": "as",
+						"polygon": [
+							1160,
+							1335,
+							1191,
+							1335,
+							1192,
+							1364,
+							1160,
+							1364
+						],
+						"confidence": 0.955,
+						"span": {
+							"offset": 1165,
+							"length": 2
+						}
+					},
+					{
+						"content": "enter",
+						"polygon": [
+							1209,
+							1339,
+							1283,
+							1342,
+							1282,
+							1367,
+							1209,
+							1364
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1168,
+							"length": 5
+						}
+					},
+					{
+						"content": ",",
+						"polygon": [
+							1294,
+							1343,
+							1304,
+							1343,
+							1303,
+							1368,
+							1294,
+							1367
+						],
+						"confidence": 0.964,
+						"span": {
+							"offset": 1174,
+							"length": 1
+						}
+					},
+					{
+						"content": "esc",
+						"polygon": [
+							1322,
+							1341,
+							1364,
+							1342,
+							1364,
+							1365,
+							1323,
+							1364
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1176,
+							"length": 3
+						}
+					},
+					{
+						"content": ",",
+						"polygon": [
+							1376,
+							1342,
+							1389,
+							1342,
+							1389,
+							1367,
+							1376,
+							1366
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 1180,
+							"length": 1
+						}
+					},
+					{
+						"content": "1.",
+						"polygon": [
+							1442,
+							1329,
+							1452,
+							1329,
+							1451,
+							1372,
+							1440,
+							1372
+						],
+						"confidence": 0.517,
+						"span": {
+							"offset": 1182,
+							"length": 2
+						}
+					},
+					{
+						"content": "See",
+						"polygon": [
+							1461,
+							1329,
+							1508,
+							1328,
+							1507,
+							1371,
+							1459,
+							1372
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1185,
+							"length": 3
+						}
+					},
+					{
+						"content": "KEYBOARD_KEYS.",
+						"polygon": [
+							1517,
+							1328,
+							1796,
+							1327,
+							1796,
+							1370,
+							1516,
+							1371
+						],
+						"confidence": 0.928,
+						"span": {
+							"offset": 1189,
+							"length": 14
+						}
+					},
+					{
+						"content": "For",
+						"polygon": [
+							721,
+							1433,
+							768,
+							1433,
+							769,
+							1467,
+							722,
+							1467
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1204,
+							"length": 3
+						}
+					},
+					{
+						"content": "example:",
+						"polygon": [
+							775,
+							1433,
+							903,
+							1432,
+							903,
+							1469,
+							775,
+							1467
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1208,
+							"length": 8
+						}
+					},
+					{
+						"content": ">>>",
+						"polygon": [
+							750,
+							1549,
+							795,
+							1549,
+							795,
+							1578,
+							750,
+							1578
+						],
+						"confidence": 0.769,
+						"span": {
+							"offset": 1217,
+							"length": 3
+						}
+					},
+					{
+						"content": "pyautogui.press('enter')",
+						"polygon": [
+							805,
+							1549,
+							1157,
+							1546,
+							1157,
+							1578,
+							805,
+							1578
+						],
+						"confidence": 0.771,
+						"span": {
+							"offset": 1221,
+							"length": 24
+						}
+					},
+					{
+						"content": "#",
+						"polygon": [
+							1181,
+							1546,
+							1197,
+							1546,
+							1197,
+							1578,
+							1181,
+							1578
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1246,
+							"length": 1
+						}
+					},
+					{
+						"content": "press",
+						"polygon": [
+							1210,
+							1546,
+							1286,
+							1546,
+							1286,
+							1578,
+							1210,
+							1578
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1248,
+							"length": 5
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							1300,
+							1547,
+							1344,
+							1547,
+							1344,
+							1578,
+							1300,
+							1578
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1254,
+							"length": 3
+						}
+					},
+					{
+						"content": "Enter",
+						"polygon": [
+							1355,
+							1547,
+							1431,
+							1547,
+							1431,
+							1578,
+							1355,
+							1578
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1258,
+							"length": 5
+						}
+					},
+					{
+						"content": "key",
+						"polygon": [
+							1443,
+							1547,
+							1489,
+							1548,
+							1489,
+							1578,
+							1443,
+							1578
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1264,
+							"length": 3
+						}
+					},
+					{
+						"content": ">>>",
+						"polygon": [
+							749,
+							1584,
+							794,
+							1583,
+							795,
+							1611,
+							749,
+							1610
+						],
+						"confidence": 0.761,
+						"span": {
+							"offset": 1268,
+							"length": 3
+						}
+					},
+					{
+						"content": "pyautogui.press('f1')",
+						"polygon": [
+							804,
+							1583,
+							1109,
+							1579,
+							1111,
+							1610,
+							804,
+							1611
+						],
+						"confidence": 0.86,
+						"span": {
+							"offset": 1272,
+							"length": 21
+						}
+					},
+					{
+						"content": ">>>",
+						"polygon": [
+							748,
+							1616,
+							795,
+							1616,
+							795,
+							1644,
+							749,
+							1642
+						],
+						"confidence": 0.714,
+						"span": {
+							"offset": 1294,
+							"length": 3
+						}
+					},
+					{
+						"content": "pyautogui.",
+						"polygon": [
+							804,
+							1616,
+							943,
+							1615,
+							944,
+							1646,
+							805,
+							1644
+						],
+						"confidence": 0.951,
+						"span": {
+							"offset": 1298,
+							"length": 10
+						}
+					},
+					{
+						"content": "press",
+						"polygon": [
+							949,
+							1615,
+							1019,
+							1614,
+							1019,
+							1645,
+							950,
+							1646
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1309,
+							"length": 5
+						}
+					},
+					{
+						"content": "('left')",
+						"polygon": [
+							1024,
+							1614,
+							1137,
+							1613,
+							1137,
+							1642,
+							1025,
+							1645
+						],
+						"confidence": 0.803,
+						"span": {
+							"offset": 1315,
+							"length": 8
+						}
+					},
+					{
+						"content": "#",
+						"polygon": [
+							1180,
+							1581,
+							1196,
+							1581,
+							1196,
+							1611,
+							1180,
+							1611
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1324,
+							"length": 1
+						}
+					},
+					{
+						"content": "press",
+						"polygon": [
+							1209,
+							1581,
+							1285,
+							1582,
+							1285,
+							1611,
+							1209,
+							1611
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1326,
+							"length": 5
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							1298,
+							1582,
+							1341,
+							1582,
+							1341,
+							1611,
+							1298,
+							1611
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1332,
+							"length": 3
+						}
+					},
+					{
+						"content": "F1",
+						"polygon": [
+							1355,
+							1582,
+							1387,
+							1582,
+							1387,
+							1612,
+							1355,
+							1611
+						],
+						"confidence": 0.878,
+						"span": {
+							"offset": 1336,
+							"length": 2
+						}
+					},
+					{
+						"content": "key",
+						"polygon": [
+							1397,
+							1582,
+							1444,
+							1581,
+							1444,
+							1612,
+							1397,
+							1612
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1339,
+							"length": 3
+						}
+					},
+					{
+						"content": "#",
+						"polygon": [
+							1180,
+							1614,
+							1198,
+							1614,
+							1198,
+							1645,
+							1180,
+							1646
+						],
+						"confidence": 0.948,
+						"span": {
+							"offset": 1343,
+							"length": 1
+						}
+					},
+					{
+						"content": "press",
+						"polygon": [
+							1210,
+							1614,
+							1285,
+							1615,
+							1286,
+							1644,
+							1210,
+							1645
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1345,
+							"length": 5
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							1297,
+							1615,
+							1341,
+							1615,
+							1341,
+							1644,
+							1298,
+							1644
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1351,
+							"length": 3
+						}
+					},
+					{
+						"content": "left",
+						"polygon": [
+							1357,
+							1615,
+							1415,
+							1615,
+							1415,
+							1644,
+							1357,
+							1644
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 1355,
+							"length": 4
+						}
+					},
+					{
+						"content": "arrow",
+						"polygon": [
+							1427,
+							1615,
+							1499,
+							1615,
+							1498,
+							1645,
+							1427,
+							1644
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1360,
+							"length": 5
+						}
+					},
+					{
+						"content": "key",
+						"polygon": [
+							1513,
+							1615,
+							1559,
+							1615,
+							1558,
+							1646,
+							1512,
+							1645
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1366,
+							"length": 3
+						}
+					},
+					{
+						"content": "The",
+						"polygon": [
+							719,
+							1725,
+							782,
+							1725,
+							781,
+							1770,
+							718,
+							1768
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 1370,
+							"length": 3
+						}
+					},
+					{
+						"content": "press",
+						"polygon": [
+							793,
+							1725,
+							860,
+							1726,
+							860,
+							1771,
+							792,
+							1770
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 1374,
+							"length": 5
+						}
+					},
+					{
+						"content": "(",
+						"polygon": [
+							869,
+							1726,
+							878,
+							1726,
+							878,
+							1771,
+							869,
+							1771
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 1380,
+							"length": 1
+						}
+					},
+					{
+						"content": ")",
+						"polygon": [
+							887,
+							1726,
+							901,
+							1726,
+							901,
+							1771,
+							887,
+							1771
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 1382,
+							"length": 1
+						}
+					},
+					{
+						"content": "function",
+						"polygon": [
+							909,
+							1724,
+							1029,
+							1725,
+							1029,
+							1770,
+							907,
+							1770
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 1384,
+							"length": 8
+						}
+					},
+					{
+						"content": "is",
+						"polygon": [
+							1038,
+							1725,
+							1059,
+							1725,
+							1058,
+							1770,
+							1038,
+							1770
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 1393,
+							"length": 2
+						}
+					},
+					{
+						"content": "really",
+						"polygon": [
+							1068,
+							1725,
+							1142,
+							1725,
+							1141,
+							1770,
+							1067,
+							1770
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 1396,
+							"length": 6
+						}
+					},
+					{
+						"content": "just",
+						"polygon": [
+							1150,
+							1725,
+							1206,
+							1725,
+							1206,
+							1770,
+							1150,
+							1770
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 1403,
+							"length": 4
+						}
+					},
+					{
+						"content": "a",
+						"polygon": [
+							1215,
+							1725,
+							1230,
+							1725,
+							1230,
+							1770,
+							1215,
+							1770
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 1408,
+							"length": 1
+						}
+					},
+					{
+						"content": "wrapper",
+						"polygon": [
+							1239,
+							1725,
+							1354,
+							1725,
+							1354,
+							1770,
+							1239,
+							1770
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 1410,
+							"length": 7
+						}
+					},
+					{
+						"content": "for",
+						"polygon": [
+							1363,
+							1725,
+							1401,
+							1725,
+							1401,
+							1770,
+							1363,
+							1770
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 1418,
+							"length": 3
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							1410,
+							1725,
+							1464,
+							1725,
+							1464,
+							1770,
+							1410,
+							1770
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 1422,
+							"length": 3
+						}
+					},
+					{
+						"content": "keyDown",
+						"polygon": [
+							1475,
+							1725,
+							1572,
+							1725,
+							1573,
+							1770,
+							1475,
+							1770
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 1426,
+							"length": 7
+						}
+					},
+					{
+						"content": "(",
+						"polygon": [
+							1581,
+							1725,
+							1587,
+							1725,
+							1588,
+							1770,
+							1582,
+							1770
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 1434,
+							"length": 1
+						}
+					},
+					{
+						"content": ")",
+						"polygon": [
+							1593,
+							1725,
+							1601,
+							1725,
+							1602,
+							1770,
+							1594,
+							1770
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 1436,
+							"length": 1
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							1628,
+							1730,
+							1679,
+							1730,
+							1679,
+							1762,
+							1628,
+							1762
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1438,
+							"length": 3
+						}
+					},
+					{
+						"content": "keyUp",
+						"polygon": [
+							1698,
+							1733,
+							1764,
+							1731,
+							1765,
+							1766,
+							1698,
+							1764
+						],
+						"confidence": 0.961,
+						"span": {
+							"offset": 1442,
+							"length": 5
+						}
+					},
+					{
+						"content": "(",
+						"polygon": [
+							1771,
+							1731,
+							1778,
+							1731,
+							1779,
+							1766,
+							1772,
+							1766
+						],
+						"confidence": 0.885,
+						"span": {
+							"offset": 1448,
+							"length": 1
+						}
+					},
+					{
+						"content": ")",
+						"polygon": [
+							1784,
+							1731,
+							1807,
+							1730,
+							1808,
+							1766,
+							1785,
+							1766
+						],
+						"confidence": 0.955,
+						"span": {
+							"offset": 1450,
+							"length": 1
+						}
+					},
+					{
+						"content": "functions,",
+						"polygon": [
+							1818,
+							1729,
+							1959,
+							1729,
+							1959,
+							1764,
+							1818,
+							1762
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1452,
+							"length": 10
+						}
+					},
+					{
+						"content": "which",
+						"polygon": [
+							1965,
+							1729,
+							2049,
+							1728,
+							2049,
+							1764,
+							1966,
+							1764
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1463,
+							"length": 5
+						}
+					},
+					{
+						"content": "simulate",
+						"polygon": [
+							720,
+							1781,
+							838,
+							1780,
+							839,
+							1818,
+							721,
+							1817
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1469,
+							"length": 8
+						}
+					},
+					{
+						"content": "pressing",
+						"polygon": [
+							845,
+							1780,
+							964,
+							1780,
+							965,
+							1818,
+							846,
+							1818
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1478,
+							"length": 8
+						}
+					},
+					{
+						"content": "a",
+						"polygon": [
+							971,
+							1780,
+							986,
+							1780,
+							987,
+							1818,
+							972,
+							1818
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1487,
+							"length": 1
+						}
+					},
+					{
+						"content": "key",
+						"polygon": [
+							993,
+							1780,
+							1043,
+							1780,
+							1043,
+							1818,
+							994,
+							1818
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1489,
+							"length": 3
+						}
+					},
+					{
+						"content": "down",
+						"polygon": [
+							1050,
+							1779,
+							1129,
+							1779,
+							1130,
+							1818,
+							1051,
+							1818
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1493,
+							"length": 4
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							1136,
+							1779,
+							1188,
+							1779,
+							1189,
+							1818,
+							1137,
+							1818
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1498,
+							"length": 3
+						}
+					},
+					{
+						"content": "then",
+						"polygon": [
+							1195,
+							1779,
+							1260,
+							1779,
+							1260,
+							1818,
+							1196,
+							1818
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1502,
+							"length": 4
+						}
+					},
+					{
+						"content": "releasing",
+						"polygon": [
+							1267,
+							1779,
+							1393,
+							1779,
+							1393,
+							1818,
+							1268,
+							1818
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1507,
+							"length": 9
+						}
+					},
+					{
+						"content": "it",
+						"polygon": [
+							1400,
+							1779,
+							1422,
+							1779,
+							1423,
+							1818,
+							1401,
+							1818
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1517,
+							"length": 2
+						}
+					},
+					{
+						"content": "up.",
+						"polygon": [
+							1430,
+							1779,
+							1476,
+							1779,
+							1477,
+							1818,
+							1430,
+							1818
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1520,
+							"length": 3
+						}
+					},
+					{
+						"content": "These",
+						"polygon": [
+							1484,
+							1779,
+							1565,
+							1779,
+							1566,
+							1818,
+							1485,
+							1818
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1524,
+							"length": 5
+						}
+					},
+					{
+						"content": "functions",
+						"polygon": [
+							1573,
+							1779,
+							1706,
+							1779,
+							1706,
+							1817,
+							1573,
+							1818
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1530,
+							"length": 9
+						}
+					},
+					{
+						"content": "can",
+						"polygon": [
+							1713,
+							1779,
+							1762,
+							1779,
+							1763,
+							1817,
+							1714,
+							1817
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1540,
+							"length": 3
+						}
+					},
+					{
+						"content": "be",
+						"polygon": [
+							1770,
+							1779,
+							1807,
+							1780,
+							1807,
+							1817,
+							1771,
+							1817
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1544,
+							"length": 2
+						}
+					},
+					{
+						"content": "called",
+						"polygon": [
+							1814,
+							1780,
+							1893,
+							1780,
+							1894,
+							1817,
+							1815,
+							1817
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1547,
+							"length": 6
+						}
+					},
+					{
+						"content": "by",
+						"polygon": [
+							1900,
+							1780,
+							1935,
+							1780,
+							1936,
+							1817,
+							1901,
+							1817
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1554,
+							"length": 2
+						}
+					},
+					{
+						"content": "themselves.",
+						"polygon": [
+							1942,
+							1780,
+							2110,
+							1781,
+							2111,
+							1816,
+							1943,
+							1817
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1557,
+							"length": 11
+						}
+					},
+					{
+						"content": "For",
+						"polygon": [
+							722,
+							1828,
+							767,
+							1828,
+							768,
+							1865,
+							723,
+							1865
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1569,
+							"length": 3
+						}
+					},
+					{
+						"content": "example,",
+						"polygon": [
+							775,
+							1828,
+							899,
+							1828,
+							900,
+							1866,
+							775,
+							1865
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1573,
+							"length": 8
+						}
+					},
+					{
+						"content": "to",
+						"polygon": [
+							907,
+							1828,
+							935,
+							1828,
+							936,
+							1866,
+							908,
+							1866
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1582,
+							"length": 2
+						}
+					},
+					{
+						"content": "press",
+						"polygon": [
+							943,
+							1827,
+							1017,
+							1827,
+							1017,
+							1867,
+							943,
+							1866
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1585,
+							"length": 5
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							1024,
+							1827,
+							1070,
+							1827,
+							1071,
+							1867,
+							1025,
+							1867
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1591,
+							"length": 3
+						}
+					},
+					{
+						"content": "left",
+						"polygon": [
+							1078,
+							1827,
+							1129,
+							1827,
+							1129,
+							1867,
+							1078,
+							1867
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 1595,
+							"length": 4
+						}
+					},
+					{
+						"content": "arrow",
+						"polygon": [
+							1136,
+							1827,
+							1210,
+							1827,
+							1211,
+							1867,
+							1137,
+							1867
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1600,
+							"length": 5
+						}
+					},
+					{
+						"content": "key",
+						"polygon": [
+							1223,
+							1827,
+							1272,
+							1827,
+							1272,
+							1867,
+							1224,
+							1867
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1606,
+							"length": 3
+						}
+					},
+					{
+						"content": "three",
+						"polygon": [
+							1279,
+							1827,
+							1353,
+							1827,
+							1353,
+							1867,
+							1280,
+							1867
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1610,
+							"length": 5
+						}
+					},
+					{
+						"content": "times",
+						"polygon": [
+							1361,
+							1827,
+							1440,
+							1827,
+							1440,
+							1867,
+							1361,
+							1867
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1616,
+							"length": 5
+						}
+					},
+					{
+						"content": "while",
+						"polygon": [
+							1447,
+							1827,
+							1521,
+							1827,
+							1522,
+							1867,
+							1448,
+							1867
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1622,
+							"length": 5
+						}
+					},
+					{
+						"content": "holding",
+						"polygon": [
+							1529,
+							1827,
+							1633,
+							1827,
+							1634,
+							1867,
+							1529,
+							1867
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1628,
+							"length": 7
+						}
+					},
+					{
+						"content": "down",
+						"polygon": [
+							1641,
+							1827,
+							1720,
+							1827,
+							1720,
+							1866,
+							1641,
+							1867
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1636,
+							"length": 4
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							1728,
+							1827,
+							1776,
+							1827,
+							1776,
+							1866,
+							1728,
+							1866
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1641,
+							"length": 3
+						}
+					},
+					{
+						"content": "Shift",
+						"polygon": [
+							1784,
+							1827,
+							1847,
+							1827,
+							1848,
+							1866,
+							1784,
+							1866
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1645,
+							"length": 5
+						}
+					},
+					{
+						"content": "key,",
+						"polygon": [
+							1855,
+							1828,
+							1911,
+							1828,
+							1911,
+							1866,
+							1855,
+							1866
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1651,
+							"length": 4
+						}
+					},
+					{
+						"content": "call",
+						"polygon": [
+							1919,
+							1828,
+							1965,
+							1828,
+							1965,
+							1865,
+							1919,
+							1865
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1656,
+							"length": 4
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							1972,
+							1828,
+							2023,
+							1828,
+							2023,
+							1865,
+							1972,
+							1865
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1661,
+							"length": 3
+						}
+					},
+					{
+						"content": "following:",
+						"polygon": [
+							721,
+							1877,
+							863,
+							1878,
+							863,
+							1914,
+							722,
+							1911
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1665,
+							"length": 10
+						}
+					},
+					{
+						"content": "Read",
+						"polygon": [
+							77,
+							1887,
+							139,
+							1887,
+							139,
+							1915,
+							77,
+							1916
+						],
+						"confidence": 0.98,
+						"span": {
+							"offset": 1676,
+							"length": 4
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							147,
+							1887,
+							190,
+							1887,
+							190,
+							1916,
+							147,
+							1915
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1681,
+							"length": 3
+						}
+					},
+					{
+						"content": "Docs",
+						"polygon": [
+							198,
+							1887,
+							262,
+							1887,
+							262,
+							1917,
+							198,
+							1916
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1685,
+							"length": 4
+						}
+					},
+					{
+						"content": "v:",
+						"polygon": [
+							472,
+							1893,
+							495,
+							1892,
+							495,
+							1918,
+							473,
+							1918
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 1690,
+							"length": 2
+						}
+					},
+					{
+						"content": "latest",
+						"polygon": [
+							500,
+							1891,
+							574,
+							1890,
+							575,
+							1917,
+							501,
+							1918
+						],
+						"confidence": 0.965,
+						"span": {
+							"offset": 1693,
+							"length": 6
+						}
+					}
+				],
+				"selectionMarks": [
+					{
+						"state": "unselected",
+						"polygon": [
+							38,
+							558,
+							58,
+							558,
+							58,
+							578,
+							38,
+							578
+						],
+						"confidence": 0.404,
+						"span": {
+							"offset": 1700,
+							"length": 12
+						}
+					}
+				],
+				"lines": [
+					{
+						"content": "Arc File",
+						"polygon": [
+							104,
+							23,
+							237,
+							22,
+							237,
+							49,
+							104,
+							49
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "Edit",
+						"polygon": [
+							271,
+							24,
+							326,
+							23,
+							327,
+							48,
+							271,
+							47
+						],
+						"spans": [
+							{
+								"offset": 9,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "Extensions",
+						"polygon": [
+							814,
+							22,
+							962,
+							23,
+							962,
+							49,
+							814,
+							49
+						],
+						"spans": [
+							{
+								"offset": 14,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "Window",
+						"polygon": [
+							992,
+							22,
+							1096,
+							22,
+							1096,
+							49,
+							992,
+							49
+						],
+						"spans": [
+							{
+								"offset": 25,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "View",
+						"polygon": [
+							358,
+							23,
+							427,
+							24,
+							427,
+							49,
+							358,
+							48
+						],
+						"spans": [
+							{
+								"offset": 32,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "Spaces",
+						"polygon": [
+							462,
+							23,
+							566,
+							23,
+							566,
+							51,
+							462,
+							51
+						],
+						"spans": [
+							{
+								"offset": 37,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Tabs",
+						"polygon": [
+							593,
+							22,
+							654,
+							23,
+							654,
+							49,
+							594,
+							48
+						],
+						"spans": [
+							{
+								"offset": 44,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "^ PyAutoGUI",
+						"polygon": [
+							219,
+							130,
+							421,
+							129,
+							422,
+							163,
+							219,
+							164
+						],
+						"spans": [
+							{
+								"offset": 49,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "latest",
+						"polygon": [
+							279,
+							190,
+							360,
+							189,
+							361,
+							218,
+							280,
+							218
+						],
+						"spans": [
+							{
+								"offset": 61,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Search docs",
+						"polygon": [
+							68,
+							265,
+							205,
+							266,
+							205,
+							291,
+							68,
+							290
+						],
+						"spans": [
+							{
+								"offset": 68,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "Installation",
+						"polygon": [
+							66,
+							374,
+							207,
+							374,
+							207,
+							402,
+							66,
+							402
+						],
+						"spans": [
+							{
+								"offset": 80,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "Cheat Sheet",
+						"polygon": [
+							63,
+							434,
+							222,
+							435,
+							222,
+							461,
+							63,
+							460
+						],
+						"spans": [
+							{
+								"offset": 93,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "Mouse Control Functions",
+						"polygon": [
+							65,
+							491,
+							389,
+							490,
+							389,
+							524,
+							65,
+							524
+						],
+						"spans": [
+							{
+								"offset": 105,
+								"length": 23
+							}
+						]
+					},
+					{
+						"content": "Keyboard Control Functions",
+						"polygon": [
+							35,
+							551,
+							428,
+							551,
+							428,
+							584,
+							35,
+							585
+						],
+						"spans": [
+							{
+								"offset": 129,
+								"length": 26
+							}
+						]
+					},
+					{
+						"content": "The write() Function",
+						"polygon": [
+							88,
+							613,
+							344,
+							613,
+							344,
+							646,
+							88,
+							645
+						],
+						"spans": [
+							{
+								"offset": 156,
+								"length": 20
+							}
+						]
+					},
+					{
+						"content": "The press(), keyDown(), and keyUp()",
+						"polygon": [
+							87,
+							672,
+							539,
+							672,
+							539,
+							707,
+							87,
+							706
+						],
+						"spans": [
+							{
+								"offset": 177,
+								"length": 35
+							}
+						]
+					},
+					{
+						"content": "Functions",
+						"polygon": [
+							88,
+							711,
+							215,
+							711,
+							215,
+							738,
+							88,
+							738
+						],
+						"spans": [
+							{
+								"offset": 213,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "The hold() Context Manager",
+						"polygon": [
+							87,
+							769,
+							444,
+							769,
+							443,
+							802,
+							87,
+							800
+						],
+						"spans": [
+							{
+								"offset": 223,
+								"length": 26
+							}
+						]
+					},
+					{
+						"content": "The hotkey() Function",
+						"polygon": [
+							88,
+							827,
+							367,
+							827,
+							367,
+							860,
+							88,
+							860
+						],
+						"spans": [
+							{
+								"offset": 250,
+								"length": 21
+							}
+						]
+					},
+					{
+						"content": "KEYBOARD_KEYS",
+						"polygon": [
+							88,
+							885,
+							328,
+							885,
+							328,
+							918,
+							88,
+							918
+						],
+						"spans": [
+							{
+								"offset": 272,
+								"length": 13
+							}
+						]
+					},
+					{
+						"content": "Message Box Functions",
+						"polygon": [
+							65,
+							947,
+							366,
+							946,
+							366,
+							979,
+							65,
+							980
+						],
+						"spans": [
+							{
+								"offset": 286,
+								"length": 21
+							}
+						]
+					},
+					{
+						"content": "Screenshot Functions",
+						"polygon": [
+							63,
+							1006,
+							343,
+							1006,
+							343,
+							1037,
+							63,
+							1037
+						],
+						"spans": [
+							{
+								"offset": 308,
+								"length": 20
+							}
+						]
+					},
+					{
+						"content": "Testing",
+						"polygon": [
+							64,
+							1066,
+							158,
+							1067,
+							158,
+							1097,
+							64,
+							1095
+						],
+						"spans": [
+							{
+								"offset": 329,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Roadmap",
+						"polygon": [
+							65,
+							1126,
+							185,
+							1127,
+							185,
+							1157,
+							65,
+							1156
+						],
+						"spans": [
+							{
+								"offset": 337,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "pyautogui",
+						"polygon": [
+							64,
+							1188,
+							191,
+							1186,
+							192,
+							1217,
+							65,
+							1218
+						],
+						"spans": [
+							{
+								"offset": 345,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "Archive",
+						"polygon": [
+							689,
+							22,
+							786,
+							22,
+							786,
+							50,
+							689,
+							49
+						],
+						"spans": [
+							{
+								"offset": 355,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Help",
+						"polygon": [
+							1131,
+							15,
+							1190,
+							14,
+							1190,
+							58,
+							1131,
+							58
+						],
+						"spans": [
+							{
+								"offset": 363,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "US",
+						"polygon": [
+							2313,
+							26,
+							2340,
+							26,
+							2341,
+							46,
+							2313,
+							46
+						],
+						"spans": [
+							{
+								"offset": 368,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "Fri Apr 14 10:35 AM",
+						"polygon": [
+							2733,
+							20,
+							2993,
+							19,
+							2993,
+							50,
+							2733,
+							51
+						],
+						"spans": [
+							{
+								"offset": 371,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "Docs » Keyboard Control Functions",
+						"polygon": [
+							720,
+							160,
+							1229,
+							160,
+							1229,
+							195,
+							720,
+							195
+						],
+						"spans": [
+							{
+								"offset": 391,
+								"length": 33
+							}
+						]
+					},
+					{
+						"content": "Edit on GitHub",
+						"polygon": [
+							1885,
+							152,
+							2105,
+							152,
+							2105,
+							195,
+							1885,
+							195
+						],
+						"spans": [
+							{
+								"offset": 425,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "Keyboard Control Functions",
+						"polygon": [
+							719,
+							317,
+							1469,
+							315,
+							1469,
+							373,
+							719,
+							376
+						],
+						"spans": [
+							{
+								"offset": 440,
+								"length": 26
+							}
+						]
+					},
+					{
+						"content": "The write() Function",
+						"polygon": [
+							720,
+							432,
+							1194,
+							433,
+							1194,
+							488,
+							719,
+							487
+						],
+						"spans": [
+							{
+								"offset": 467,
+								"length": 20
+							}
+						]
+					},
+					{
+						"content": "The primary keyboard function is write() . This function will type the characters in the string that",
+						"polygon": [
+							721,
+							534,
+							2094,
+							534,
+							2094,
+							572,
+							721,
+							572
+						],
+						"spans": [
+							{
+								"offset": 488,
+								"length": 100
+							}
+						]
+					},
+					{
+						"content": "is passed. To add a delay interval in between pressing each character key, pass an int or float for the",
+						"polygon": [
+							719,
+							585,
+							2113,
+							585,
+							2113,
+							626,
+							719,
+							626
+						],
+						"spans": [
+							{
+								"offset": 589,
+								"length": 103
+							}
+						]
+					},
+					{
+						"content": "interval keyword argument.",
+						"polygon": [
+							732,
+							635,
+							1142,
+							635,
+							1142,
+							671,
+							732,
+							672
+						],
+						"spans": [
+							{
+								"offset": 693,
+								"length": 26
+							}
+						]
+					},
+					{
+						"content": "For example:",
+						"polygon": [
+							720,
+							736,
+							903,
+							737,
+							903,
+							771,
+							720,
+							770
+						],
+						"spans": [
+							{
+								"offset": 720,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": ">>> pyautogui.write('Hello world!')",
+						"polygon": [
+							744,
+							852,
+							1252,
+							848,
+							1252,
+							879,
+							744,
+							882
+						],
+						"spans": [
+							{
+								"offset": 733,
+								"length": 35
+							}
+						]
+					},
+					{
+						"content": ">>> pyautogui.write('Hello world!', interval=0.25)",
+						"polygon": [
+							745,
+							884,
+							1472,
+							883,
+							1473,
+							913,
+							745,
+							915
+						],
+						"spans": [
+							{
+								"offset": 769,
+								"length": 50
+							}
+						]
+					},
+					{
+						"content": "# prints out \"Hello world!\" instantly",
+						"polygon": [
+							1497,
+							851,
+							2037,
+							851,
+							2037,
+							881,
+							1497,
+							881
+						],
+						"spans": [
+							{
+								"offset": 820,
+								"length": 37
+							}
+						]
+					},
+					{
+						"content": "# prints out \"Hello world!\" with a quarter",
+						"polygon": [
+							1496,
+							884,
+							2107,
+							885,
+							2107,
+							914,
+							1496,
+							913
+						],
+						"spans": [
+							{
+								"offset": 858,
+								"length": 42
+							}
+						]
+					},
+					{
+						"content": "You can only press single-character keys with write() , so you can't press the Shift or F1 keys, for",
+						"polygon": [
+							719,
+							1027,
+							2089,
+							1026,
+							2089,
+							1064,
+							719,
+							1064
+						],
+						"spans": [
+							{
+								"offset": 901,
+								"length": 100
+							}
+						]
+					},
+					{
+						"content": "example.",
+						"polygon": [
+							721,
+							1083,
+							849,
+							1082,
+							849,
+							1115,
+							721,
+							1115
+						],
+						"spans": [
+							{
+								"offset": 1002,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "The press(), keyDown(), and keyUp() Functions",
+						"polygon": [
+							718,
+							1174,
+							1792,
+							1173,
+							1793,
+							1232,
+							718,
+							1233
+						],
+						"spans": [
+							{
+								"offset": 1011,
+								"length": 45
+							}
+						]
+					},
+					{
+						"content": "To press these keys, call the",
+						"polygon": [
+							720,
+							1278,
+							1113,
+							1277,
+							1113,
+							1315,
+							721,
+							1317
+						],
+						"spans": [
+							{
+								"offset": 1057,
+								"length": 29
+							}
+						]
+					},
+					{
+						"content": "press () function and pass it a string from the",
+						"polygon": [
+							1116,
+							1278,
+							1771,
+							1277,
+							1772,
+							1315,
+							1117,
+							1316
+						],
+						"spans": [
+							{
+								"offset": 1087,
+								"length": 47
+							}
+						]
+					},
+					{
+						"content": "pyautogui. KEYBOARD_KEYS",
+						"polygon": [
+							732,
+							1337,
+							1073,
+							1334,
+							1073,
+							1365,
+							732,
+							1369
+						],
+						"spans": [
+							{
+								"offset": 1135,
+								"length": 24
+							}
+						]
+					},
+					{
+						"content": "such as",
+						"polygon": [
+							1081,
+							1334,
+							1192,
+							1335,
+							1192,
+							1364,
+							1081,
+							1363
+						],
+						"spans": [
+							{
+								"offset": 1160,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "enter ,",
+						"polygon": [
+							1202,
+							1339,
+							1305,
+							1342,
+							1304,
+							1368,
+							1202,
+							1363
+						],
+						"spans": [
+							{
+								"offset": 1168,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "esc ,",
+						"polygon": [
+							1319,
+							1341,
+							1390,
+							1342,
+							1389,
+							1366,
+							1319,
+							1363
+						],
+						"spans": [
+							{
+								"offset": 1176,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "1. See KEYBOARD_KEYS.",
+						"polygon": [
+							1440,
+							1328,
+							1795,
+							1326,
+							1795,
+							1369,
+							1440,
+							1371
+						],
+						"spans": [
+							{
+								"offset": 1182,
+								"length": 21
+							}
+						]
+					},
+					{
+						"content": "For example:",
+						"polygon": [
+							721,
+							1432,
+							903,
+							1432,
+							902,
+							1468,
+							720,
+							1466
+						],
+						"spans": [
+							{
+								"offset": 1204,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": ">>> pyautogui.press('enter') # press the Enter key",
+						"polygon": [
+							744,
+							1546,
+							1488,
+							1546,
+							1488,
+							1577,
+							744,
+							1578
+						],
+						"spans": [
+							{
+								"offset": 1217,
+								"length": 50
+							}
+						]
+					},
+					{
+						"content": ">>> pyautogui.press('f1')",
+						"polygon": [
+							745,
+							1581,
+							1111,
+							1578,
+							1111,
+							1611,
+							745,
+							1613
+						],
+						"spans": [
+							{
+								"offset": 1268,
+								"length": 25
+							}
+						]
+					},
+					{
+						"content": ">>> pyautogui. press ('left')",
+						"polygon": [
+							745,
+							1614,
+							1137,
+							1612,
+							1137,
+							1644,
+							745,
+							1645
+						],
+						"spans": [
+							{
+								"offset": 1294,
+								"length": 29
+							}
+						]
+					},
+					{
+						"content": "# press the F1 key",
+						"polygon": [
+							1176,
+							1580,
+							1445,
+							1581,
+							1445,
+							1611,
+							1176,
+							1610
+						],
+						"spans": [
+							{
+								"offset": 1324,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "# press the left arrow key",
+						"polygon": [
+							1148,
+							1613,
+							1562,
+							1613,
+							1562,
+							1646,
+							1148,
+							1645
+						],
+						"spans": [
+							{
+								"offset": 1343,
+								"length": 26
+							}
+						]
+					},
+					{
+						"content": "The press ( )",
+						"polygon": [
+							718,
+							1724,
+							901,
+							1726,
+							900,
+							1770,
+							718,
+							1768
+						],
+						"spans": [
+							{
+								"offset": 1370,
+								"length": 13
+							}
+						]
+					},
+					{
+						"content": "function is really just a wrapper for the keyDown ( )",
+						"polygon": [
+							903,
+							1724,
+							1602,
+							1724,
+							1602,
+							1769,
+							903,
+							1769
+						],
+						"spans": [
+							{
+								"offset": 1384,
+								"length": 53
+							}
+						]
+					},
+					{
+						"content": "and",
+						"polygon": [
+							1622,
+							1732,
+							1691,
+							1730,
+							1691,
+							1762,
+							1622,
+							1761
+						],
+						"spans": [
+							{
+								"offset": 1438,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "keyUp ( )",
+						"polygon": [
+							1693,
+							1730,
+							1813,
+							1730,
+							1813,
+							1765,
+							1693,
+							1766
+						],
+						"spans": [
+							{
+								"offset": 1442,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "functions, which",
+						"polygon": [
+							1815,
+							1727,
+							2055,
+							1727,
+							2055,
+							1763,
+							1815,
+							1763
+						],
+						"spans": [
+							{
+								"offset": 1452,
+								"length": 16
+							}
+						]
+					},
+					{
+						"content": "simulate pressing a key down and then releasing it up. These functions can be called by themselves.",
+						"polygon": [
+							720,
+							1779,
+							2111,
+							1778,
+							2111,
+							1816,
+							720,
+							1817
+						],
+						"spans": [
+							{
+								"offset": 1469,
+								"length": 99
+							}
+						]
+					},
+					{
+						"content": "For example, to press the left arrow key three times while holding down the Shift key, call the",
+						"polygon": [
+							721,
+							1826,
+							2025,
+							1826,
+							2025,
+							1866,
+							721,
+							1866
+						],
+						"spans": [
+							{
+								"offset": 1569,
+								"length": 95
+							}
+						]
+					},
+					{
+						"content": "following:",
+						"polygon": [
+							719,
+							1876,
+							863,
+							1877,
+							862,
+							1913,
+							719,
+							1911
+						],
+						"spans": [
+							{
+								"offset": 1665,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "Read the Docs",
+						"polygon": [
+							42,
+							1886,
+							262,
+							1887,
+							262,
+							1916,
+							42,
+							1915
+						],
+						"spans": [
+							{
+								"offset": 1676,
+								"length": 13
+							}
+						]
+					},
+					{
+						"content": "v: latest",
+						"polygon": [
+							470,
+							1891,
+							598,
+							1890,
+							598,
+							1916,
+							470,
+							1918
+						],
+						"spans": [
+							{
+								"offset": 1690,
+								"length": 9
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 1712
+					}
+				],
+				"kind": "document"
+			}
+		],
+		"tables": [],
+		"paragraphs": [
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 8
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							104,
+							22,
+							237,
+							22,
+							237,
+							49,
+							104,
+							49
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Arc File"
+			},
+			{
+				"spans": [
+					{
+						"offset": 9,
+						"length": 4
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							271,
+							23,
+							327,
+							23,
+							327,
+							48,
+							271,
+							48
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Edit"
+			},
+			{
+				"spans": [
+					{
+						"offset": 14,
+						"length": 10
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							814,
+							22,
+							962,
+							22,
+							962,
+							49,
+							814,
+							49
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Extensions"
+			},
+			{
+				"spans": [
+					{
+						"offset": 25,
+						"length": 6
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							992,
+							22,
+							1096,
+							22,
+							1096,
+							49,
+							992,
+							49
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Window"
+			},
+			{
+				"spans": [
+					{
+						"offset": 32,
+						"length": 4
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							358,
+							23,
+							427,
+							24,
+							427,
+							49,
+							358,
+							48
+						]
+					}
+				],
+				"content": "View"
+			},
+			{
+				"spans": [
+					{
+						"offset": 37,
+						"length": 6
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							462,
+							23,
+							566,
+							23,
+							566,
+							51,
+							462,
+							51
+						]
+					}
+				],
+				"content": "Spaces"
+			},
+			{
+				"spans": [
+					{
+						"offset": 44,
+						"length": 4
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							593,
+							22,
+							654,
+							23,
+							654,
+							49,
+							593,
+							48
+						]
+					}
+				],
+				"content": "Tabs"
+			},
+			{
+				"spans": [
+					{
+						"offset": 49,
+						"length": 18
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							219,
+							130,
+							422,
+							129,
+							422,
+							218,
+							219,
+							219
+						]
+					}
+				],
+				"content": "^ PyAutoGUI latest"
+			},
+			{
+				"spans": [
+					{
+						"offset": 68,
+						"length": 11
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							68,
+							265,
+							205,
+							266,
+							205,
+							291,
+							68,
+							290
+						]
+					}
+				],
+				"content": "Search docs"
+			},
+			{
+				"spans": [
+					{
+						"offset": 80,
+						"length": 12
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							66,
+							374,
+							207,
+							374,
+							207,
+							402,
+							66,
+							402
+						]
+					}
+				],
+				"content": "Installation"
+			},
+			{
+				"spans": [
+					{
+						"offset": 93,
+						"length": 11
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							63,
+							434,
+							222,
+							435,
+							222,
+							461,
+							63,
+							460
+						]
+					}
+				],
+				"content": "Cheat Sheet"
+			},
+			{
+				"spans": [
+					{
+						"offset": 105,
+						"length": 23
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							65,
+							490,
+							389,
+							490,
+							389,
+							524,
+							65,
+							524
+						]
+					}
+				],
+				"content": "Mouse Control Functions"
+			},
+			{
+				"spans": [
+					{
+						"offset": 129,
+						"length": 26
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							35,
+							551,
+							428,
+							551,
+							428,
+							585,
+							35,
+							585
+						]
+					}
+				],
+				"role": "sectionHeading",
+				"content": "Keyboard Control Functions"
+			},
+			{
+				"spans": [
+					{
+						"offset": 156,
+						"length": 66
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							87,
+							613,
+							539,
+							613,
+							539,
+							738,
+							87,
+							738
+						]
+					}
+				],
+				"content": "The write() Function The press(), keyDown(), and keyUp() Functions"
+			},
+			{
+				"spans": [
+					{
+						"offset": 223,
+						"length": 62
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							87,
+							769,
+							444,
+							769,
+							444,
+							918,
+							87,
+							918
+						]
+					}
+				],
+				"content": "The hold() Context Manager The hotkey() Function KEYBOARD_KEYS"
+			},
+			{
+				"spans": [
+					{
+						"offset": 286,
+						"length": 42
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							63,
+							946,
+							366,
+							946,
+							366,
+							1037,
+							63,
+							1037
+						]
+					}
+				],
+				"content": "Message Box Functions Screenshot Functions"
+			},
+			{
+				"spans": [
+					{
+						"offset": 329,
+						"length": 15
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							64,
+							1066,
+							186,
+							1067,
+							185,
+							1157,
+							63,
+							1156
+						]
+					}
+				],
+				"content": "Testing Roadmap"
+			},
+			{
+				"spans": [
+					{
+						"offset": 345,
+						"length": 9
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							64,
+							1188,
+							192,
+							1186,
+							192,
+							1217,
+							64,
+							1219
+						]
+					}
+				],
+				"content": "pyautogui"
+			},
+			{
+				"spans": [
+					{
+						"offset": 355,
+						"length": 7
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							689,
+							22,
+							786,
+							22,
+							786,
+							50,
+							689,
+							50
+						]
+					}
+				],
+				"content": "Archive"
+			},
+			{
+				"spans": [
+					{
+						"offset": 363,
+						"length": 4
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1131,
+							14,
+							1190,
+							14,
+							1190,
+							58,
+							1131,
+							58
+						]
+					}
+				],
+				"role": "pageNumber",
+				"content": "Help"
+			},
+			{
+				"spans": [
+					{
+						"offset": 368,
+						"length": 2
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2313,
+							26,
+							2341,
+							26,
+							2341,
+							46,
+							2313,
+							46
+						]
+					}
+				],
+				"content": "US"
+			},
+			{
+				"spans": [
+					{
+						"offset": 371,
+						"length": 19
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2733,
+							20,
+							2993,
+							19,
+							2993,
+							50,
+							2733,
+							51
+						]
+					}
+				],
+				"content": "Fri Apr 14 10:35 AM"
+			},
+			{
+				"spans": [
+					{
+						"offset": 391,
+						"length": 33
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							720,
+							160,
+							1229,
+							160,
+							1229,
+							195,
+							720,
+							195
+						]
+					}
+				],
+				"content": "Docs » Keyboard Control Functions"
+			},
+			{
+				"spans": [
+					{
+						"offset": 425,
+						"length": 14
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1885,
+							152,
+							2105,
+							152,
+							2105,
+							195,
+							1885,
+							195
+						]
+					}
+				],
+				"content": "Edit on GitHub"
+			},
+			{
+				"spans": [
+					{
+						"offset": 440,
+						"length": 26
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							719,
+							317,
+							1469,
+							315,
+							1469,
+							374,
+							719,
+							376
+						]
+					}
+				],
+				"role": "title",
+				"content": "Keyboard Control Functions"
+			},
+			{
+				"spans": [
+					{
+						"offset": 467,
+						"length": 20
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							719,
+							432,
+							1194,
+							433,
+							1194,
+							488,
+							719,
+							487
+						]
+					}
+				],
+				"role": "sectionHeading",
+				"content": "The write() Function"
+			},
+			{
+				"spans": [
+					{
+						"offset": 488,
+						"length": 231
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							719,
+							534,
+							2113,
+							534,
+							2113,
+							672,
+							719,
+							672
+						]
+					}
+				],
+				"content": "The primary keyboard function is write() . This function will type the characters in the string that is passed. To add a delay interval in between pressing each character key, pass an int or float for the interval keyword argument."
+			},
+			{
+				"spans": [
+					{
+						"offset": 720,
+						"length": 12
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							720,
+							736,
+							903,
+							737,
+							903,
+							771,
+							720,
+							770
+						]
+					}
+				],
+				"content": "For example:"
+			},
+			{
+				"spans": [
+					{
+						"offset": 733,
+						"length": 86
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							744,
+							849,
+							1473,
+							847,
+							1473,
+							913,
+							744,
+							915
+						]
+					}
+				],
+				"content": ">>> pyautogui.write('Hello world!') >>> pyautogui.write('Hello world!', interval=0.25)"
+			},
+			{
+				"spans": [
+					{
+						"offset": 820,
+						"length": 80
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1496,
+							850,
+							2107,
+							851,
+							2107,
+							914,
+							1496,
+							913
+						]
+					}
+				],
+				"content": "# prints out \"Hello world!\" instantly # prints out \"Hello world!\" with a quarter"
+			},
+			{
+				"spans": [
+					{
+						"offset": 901,
+						"length": 109
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							719,
+							1027,
+							2089,
+							1026,
+							2089,
+							1114,
+							719,
+							1115
+						]
+					}
+				],
+				"content": "You can only press single-character keys with write() , so you can't press the Shift or F1 keys, for example."
+			},
+			{
+				"spans": [
+					{
+						"offset": 1011,
+						"length": 45
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							718,
+							1174,
+							1793,
+							1173,
+							1793,
+							1232,
+							718,
+							1233
+						]
+					}
+				],
+				"role": "sectionHeading",
+				"content": "The press(), keyDown(), and keyUp() Functions"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1057,
+						"length": 77
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							720,
+							1278,
+							1772,
+							1276,
+							1772,
+							1315,
+							720,
+							1317
+						]
+					}
+				],
+				"content": "To press these keys, call the press () function and pass it a string from the"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1135,
+						"length": 68
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							732,
+							1332,
+							1795,
+							1326,
+							1795,
+							1369,
+							732,
+							1375
+						]
+					}
+				],
+				"content": "pyautogui. KEYBOARD_KEYS such as enter , esc , 1. See KEYBOARD_KEYS."
+			},
+			{
+				"spans": [
+					{
+						"offset": 1204,
+						"length": 12
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							720,
+							1430,
+							903,
+							1432,
+							903,
+							1468,
+							720,
+							1466
+						]
+					}
+				],
+				"content": "For example:"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1217,
+						"length": 106
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							744,
+							1546,
+							1488,
+							1546,
+							1488,
+							1645,
+							744,
+							1645
+						]
+					}
+				],
+				"content": ">>> pyautogui.press('enter') # press the Enter key >>> pyautogui.press('f1') >>> pyautogui. press ('left')"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1324,
+						"length": 45
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1148,
+							1580,
+							1562,
+							1581,
+							1562,
+							1646,
+							1148,
+							1645
+						]
+					}
+				],
+				"content": "# press the F1 key # press the left arrow key"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1370,
+						"length": 305
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							718,
+							1724,
+							2111,
+							1724,
+							2111,
+							1913,
+							718,
+							1913
+						]
+					}
+				],
+				"content": "The press ( ) function is really just a wrapper for the keyDown ( ) and keyUp ( ) functions, which simulate pressing a key down and then releasing it up. These functions can be called by themselves. For example, to press the left arrow key three times while holding down the Shift key, call the following:"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1676,
+						"length": 23
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							42,
+							1885,
+							598,
+							1889,
+							598,
+							1919,
+							42,
+							1915
+						]
+					}
+				],
+				"role": "pageFooter",
+				"content": "Read the Docs v: latest"
+			}
+		],
+		"styles": []
+	}
+}

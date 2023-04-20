@@ -1,0 +1,1544 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2023-04-13T15:11:54Z",
+	"lastUpdatedDateTime": "2023-04-13T15:11:57Z",
+	"analyzeResult": {
+		"apiVersion": "2022-08-31",
+		"modelId": "prebuilt-layout",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "Arc File\nEdit View\nSpaces\nTabs\nArchive Extensions\nWindow\nHelp\nUS\nThu Apr 13 11:11 AM\nRegister now >\nPortal\nMicrosoft Build\nMay 23-25, 2023\nMicrosoft\nLearn\nDocumentation\n...\n×\nTraining Certifications Q&A Code Samples Assessments\nShows\nEvents\nSearch\nSign in\nAzure Product documentation v Architecture v Learn Azure v Develop v Resources v\nVersion\nForm Recognizer v3.0 V\nFilter by title\nFree account\nLearn / Azure / Applied Al Services / Form Recognizer /\n+ ...\nAzure Form Recognizer layout model\nAnalyze document API response Read OCR model\nGeneral document model\nLayout model\nNEW Query field extraction (preview)\nNEW Health insurance card model\nNEW Add-on capabilities (preview)\nW-2 form model\nInvoice model\nReceipt model\nID document model\nBusiness card model\n> Custom models\n> Tutorials\n> Reference\n> Resources\nArticle · 03/12/2023 · 9 contributors\n& Feedback\nIn this article\nDocument layout analysis\nDevelopment options\nInput requirements\nForm Recognizer Studio\nShow 4 more\nThis article applies to: 1 Form Recognizer v3.0. Earlier version: Form Recognizer v2.1\nForm Recognizer layout model is an advanced machine-learning based document analysis API available in the Form Recognizer cloud. It enables you to take documents in various formats and return structured data representations of the documents. It combines an enhanced version of our powerful Optical Character Recognition (OCR) capabilities with deep learning models to extract text, tables, selection marks, and document structure.\nDocument layout analysis\nDocument structure layout analysis is the process of analyzing a document to extract regions of interact and their intAr malatiAnchine The Anal is to Avtract tout and structural AlAmante from the\nEl Download PDF :unselected: :unselected: :unselected: :selected:",
+		"pages": [
+			{
+				
+				"angle": 0.07161957770586014,
+				"width": 3024,
+				"height": 1964,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "Arc",
+						"polygon": [
+							105,
+							24,
+							149,
+							23,
+							149,
+							49,
+							105,
+							48
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 0,
+							"length": 3
+						}
+					},
+					{
+						"content": "File",
+						"polygon": [
+							188,
+							23,
+							234,
+							23,
+							234,
+							49,
+							188,
+							50
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 4,
+							"length": 4
+						}
+					},
+					{
+						"content": "El Download PDF",
+						"polygon": [
+							76,
+							1848,
+							298,
+							1848,
+							298,
+							1879,
+							76,
+							1878
+						],
+						"spans": [
+							{
+								"offset": 1714,
+								"length": 15
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 1779
+					}
+				],
+				"kind": "document"
+			}
+		],
+		"tables": [],
+		"paragraphs": [
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 8
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							104,
+							22,
+							251,
+							22,
+							251,
+							49,
+							104,
+							49
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Arc File"
+			},
+			{
+				"spans": [
+					{
+						"offset": 9,
+						"length": 9
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							265,
+							21,
+							449,
+							22,
+							449,
+							52,
+							265,
+							51
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Edit View"
+			},
+			{
+				"spans": [
+					{
+						"offset": 19,
+						"length": 6
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							456,
+							23,
+							559,
+							23,
+							559,
+							52,
+							456,
+							52
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Spaces"
+			},
+			{
+				"spans": [
+					{
+						"offset": 26,
+						"length": 4
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							580,
+							22,
+							661,
+							22,
+							661,
+							50,
+							580,
+							50
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Tabs"
+			},
+			{
+				"spans": [
+					{
+						"offset": 31,
+						"length": 18
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							683,
+							23,
+							963,
+							23,
+							963,
+							50,
+							683,
+							50
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Archive Extensions"
+			},
+			{
+				"spans": [
+					{
+						"offset": 50,
+						"length": 6
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							991,
+							22,
+							1097,
+							23,
+							1097,
+							50,
+							991,
+							49
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Window"
+			},
+			{
+				"spans": [
+					{
+						"offset": 57,
+						"length": 4
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							1125,
+							24,
+							1191,
+							25,
+							1191,
+							52,
+							1125,
+							51
+						]
+					}
+				],
+				"role": "pageNumber",
+				"content": "Help"
+			},
+			{
+				"spans": [
+					{
+						"offset": 62,
+						"length": 2
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							2293,
+							24,
+							2330,
+							24,
+							2330,
+							47,
+							2293,
+							47
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "US"
+			},
+			{
+				"spans": [
+					{
+						"offset": 65,
+						"length": 19
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							2718,
+							21,
+							2996,
+							21,
+							2996,
+							50,
+							2718,
+							50
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Thu Apr 13 11:11 AM"
+			},
+			{
+				"spans": [
+					{
+						"offset": 85,
+						"length": 14
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							738,
+							207,
+							962,
+							206,
+							962,
+							241,
+							738,
+							242
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Register now >"
+			},
+			{
+				"spans": [
+					{
+						"offset": 100,
+						"length": 6
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							2613,
+							517,
+							2698,
+							518,
+							2698,
+							546,
+							2613,
+							545
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Portal"
+			},
+			{
+				"spans": [
+					{
+						"offset": 107,
+						"length": 15
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							52,
+							151,
+							522,
+							150,
+							522,
+							212,
+							52,
+							213
+						]
+					}
+				],
+				"role": "title",
+				"content": "Microsoft Build"
+			},
+			{
+				"spans": [
+					{
+						"offset": 123,
+						"length": 15
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							51,
+							261,
+							258,
+							260,
+							258,
+							292,
+							51,
+							293
+						]
+					}
+				],
+				"content": "May 23-25, 2023"
+			},
+			{
+				"spans": [
+					{
+						"offset": 139,
+						"length": 9
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							108,
+							405,
+							272,
+							403,
+							272,
+							440,
+							108,
+							442
+						]
+					}
+				],
+				"content": "Microsoft"
+			},
+			{
+				"spans": [
+					{
+						"offset": 149,
+						"length": 5
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							366,
+							410,
+							459,
+							411,
+							459,
+							441,
+							366,
+							440
+						]
+					}
+				],
+				"content": "Learn"
+			},
+			{
+				"spans": [
+					{
+						"offset": 155,
+						"length": 13
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							503,
+							412,
+							710,
+							412,
+							710,
+							440,
+							503,
+							440
+						]
+					}
+				],
+				"content": "Documentation"
+			},
+			{
+				"spans": [
+					{
+						"offset": 169,
+						"length": 3
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							3008,
+							106,
+							3019,
+							107,
+							3017,
+							138,
+							3006,
+							137
+						]
+					}
+				],
+				"content": "..."
+			},
+			{
+				"spans": [
+					{
+						"offset": 173,
+						"length": 1
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							2887,
+							130,
+							2917,
+							131,
+							2916,
+							159,
+							2886,
+							158
+						]
+					}
+				],
+				"content": "×"
+			},
+			{
+				"spans": [
+					{
+						"offset": 175,
+						"length": 52
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							719,
+							410,
+							1542,
+							410,
+							1542,
+							441,
+							719,
+							441
+						]
+					}
+				],
+				"content": "Training Certifications Q&A Code Samples Assessments"
+			},
+			{
+				"spans": [
+					{
+						"offset": 228,
+						"length": 5
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							1549,
+							411,
+							1638,
+							412,
+							1638,
+							439,
+							1549,
+							438
+						]
+					}
+				],
+				"content": "Shows"
+			},
+			{
+				"spans": [
+					{
+						"offset": 234,
+						"length": 6
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							1658,
+							411,
+							1747,
+							413,
+							1746,
+							439,
+							1657,
+							437
+						]
+					}
+				],
+				"content": "Events"
+			},
+			{
+				"spans": [
+					{
+						"offset": 241,
+						"length": 6
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							2415,
+							406,
+							2546,
+							408,
+							2546,
+							439,
+							2415,
+							437
+						]
+					}
+				],
+				"content": "Search"
+			},
+			{
+				"spans": [
+					{
+						"offset": 248,
+						"length": 7
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							2831,
+							409,
+							2920,
+							409,
+							2920,
+							439,
+							2831,
+							439
+						]
+					}
+				],
+				"content": "Sign in"
+			},
+			{
+				"spans": [
+					{
+						"offset": 256,
+						"length": 80
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							67,
+							518,
+							1299,
+							518,
+							1299,
+							550,
+							67,
+							550
+						]
+					}
+				],
+				"content": "Azure Product documentation v Architecture v Learn Azure v Develop v Resources v"
+			},
+			{
+				"spans": [
+					{
+						"offset": 337,
+						"length": 7
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							50,
+							648,
+							161,
+							648,
+							161,
+							678,
+							50,
+							678
+						]
+					}
+				],
+				"content": "Version"
+			},
+			{
+				"spans": [
+					{
+						"offset": 345,
+						"length": 22
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							71,
+							714,
+							679,
+							712,
+							679,
+							757,
+							71,
+							759
+						]
+					}
+				],
+				"content": "Form Recognizer v3.0 V"
+			},
+			{
+				"spans": [
+					{
+						"offset": 368,
+						"length": 15
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							68,
+							797,
+							271,
+							800,
+							271,
+							832,
+							68,
+							829
+						]
+					}
+				],
+				"content": "Filter by title"
+			},
+			{
+				"spans": [
+					{
+						"offset": 384,
+						"length": 12
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							2752,
+							518,
+							2919,
+							518,
+							2919,
+							547,
+							2752,
+							547
+						]
+					}
+				],
+				"content": "Free account"
+			},
+			{
+				"spans": [
+					{
+						"offset": 397,
+						"length": 55
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							793,
+							656,
+							1529,
+							657,
+							1529,
+							691,
+							793,
+							690
+						]
+					}
+				],
+				"content": "Learn / Azure / Applied Al Services / Form Recognizer /"
+			},
+			{
+				"spans": [
+					{
+						"offset": 453,
+						"length": 5
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							2009,
+							657,
+							2165,
+							657,
+							2165,
+							682,
+							2009,
+							682
+						]
+					}
+				],
+				"content": "+ ..."
+			},
+			{
+				"spans": [
+					{
+						"offset": 459,
+						"length": 34
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							797,
+							740,
+							2141,
+							740,
+							2141,
+							826,
+							797,
+							826
+						]
+					}
+				],
+				"role": "sectionHeading",
+				"content": "Azure Form Recognizer layout model"
+			},
+			{
+				"spans": [
+					{
+						"offset": 494,
+						"length": 44
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							114,
+							898,
+							515,
+							899,
+							515,
+							987,
+							114,
+							986
+						]
+					}
+				],
+				"content": "Analyze document API response Read OCR model"
+			},
+			{
+				"spans": [
+					{
+						"offset": 539,
+						"length": 22
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							116,
+							1016,
+							430,
+							1016,
+							430,
+							1046,
+							116,
+							1046
+						]
+					}
+				],
+				"content": "General document model"
+			},
+			{
+				"spans": [
+					{
+						"offset": 562,
+						"length": 12
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							113,
+							1075,
+							293,
+							1074,
+							293,
+							1106,
+							113,
+							1107
+						]
+					}
+				],
+				"content": "Layout model"
+			},
+			{
+				"spans": [
+					{
+						"offset": 575,
+						"length": 36
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							118,
+							1133,
+							539,
+							1133,
+							539,
+							1167,
+							118,
+							1167
+						]
+					}
+				],
+				"content": "NEW Query field extraction (preview)"
+			},
+			{
+				"spans": [
+					{
+						"offset": 612,
+						"length": 31
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							121,
+							1193,
+							508,
+							1193,
+							508,
+							1225,
+							121,
+							1225
+						]
+					}
+				],
+				"content": "NEW Health insurance card model"
+			},
+			{
+				"spans": [
+					{
+						"offset": 644,
+						"length": 33
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							117,
+							1252,
+							511,
+							1252,
+							511,
+							1285,
+							117,
+							1285
+						]
+					}
+				],
+				"content": "NEW Add-on capabilities (preview)"
+			},
+			{
+				"spans": [
+					{
+						"offset": 678,
+						"length": 14
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							115,
+							1312,
+							322,
+							1312,
+							322,
+							1342,
+							115,
+							1342
+						]
+					}
+				],
+				"content": "W-2 form model"
+			},
+			{
+				"spans": [
+					{
+						"offset": 693,
+						"length": 13
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							116,
+							1373,
+							292,
+							1373,
+							292,
+							1400,
+							116,
+							1400
+						]
+					}
+				],
+				"content": "Invoice model"
+			},
+			{
+				"spans": [
+					{
+						"offset": 707,
+						"length": 13
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							117,
+							1431,
+							294,
+							1431,
+							294,
+							1461,
+							117,
+							1461
+						]
+					}
+				],
+				"content": "Receipt model"
+			},
+			{
+				"spans": [
+					{
+						"offset": 721,
+						"length": 17
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							115,
+							1489,
+							364,
+							1490,
+							364,
+							1519,
+							115,
+							1518
+						]
+					}
+				],
+				"content": "ID document model"
+			},
+			{
+				"spans": [
+					{
+						"offset": 739,
+						"length": 19
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							117,
+							1549,
+							366,
+							1549,
+							366,
+							1578,
+							117,
+							1578
+						]
+					}
+				],
+				"content": "Business card model"
+			},
+			{
+				"spans": [
+					{
+						"offset": 759,
+						"length": 15
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							89,
+							1607,
+							310,
+							1608,
+							310,
+							1638,
+							89,
+							1637
+						]
+					}
+				],
+				"content": "> Custom models"
+			},
+			{
+				"spans": [
+					{
+						"offset": 775,
+						"length": 11
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							55,
+							1668,
+							188,
+							1669,
+							188,
+							1696,
+							55,
+							1695
+						]
+					}
+				],
+				"content": "> Tutorials"
+			},
+			{
+				"spans": [
+					{
+						"offset": 787,
+						"length": 11
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							56,
+							1728,
+							207,
+							1729,
+							207,
+							1755,
+							56,
+							1754
+						]
+					}
+				],
+				"content": "> Reference"
+			},
+			{
+				"spans": [
+					{
+						"offset": 799,
+						"length": 11
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							56,
+							1787,
+							210,
+							1789,
+							210,
+							1814,
+							56,
+							1812
+						]
+					}
+				],
+				"content": "> Resources"
+			},
+			{
+				"spans": [
+					{
+						"offset": 811,
+						"length": 37
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							795,
+							857,
+							1258,
+							857,
+							1258,
+							890,
+							795,
+							890
+						]
+					}
+				],
+				"content": "Article · 03/12/2023 · 9 contributors"
+			},
+			{
+				"spans": [
+					{
+						"offset": 849,
+						"length": 10
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							2019,
+							857,
+							2174,
+							857,
+							2174,
+							886,
+							2019,
+							886
+						]
+					}
+				],
+				"content": "& Feedback"
+			},
+			{
+				"spans": [
+					{
+						"offset": 860,
+						"length": 15
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							797,
+							957,
+							1013,
+							957,
+							1013,
+							993,
+							797,
+							993
+						]
+					}
+				],
+				"content": "In this article"
+			},
+			{
+				"spans": [
+					{
+						"offset": 876,
+						"length": 24
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							829,
+							1037,
+							1148,
+							1037,
+							1148,
+							1070,
+							829,
+							1070
+						]
+					}
+				],
+				"content": "Document layout analysis"
+			},
+			{
+				"spans": [
+					{
+						"offset": 901,
+						"length": 19
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							829,
+							1088,
+							1100,
+							1090,
+							1100,
+							1123,
+							829,
+							1121
+						]
+					}
+				],
+				"content": "Development options"
+			},
+			{
+				"spans": [
+					{
+						"offset": 921,
+						"length": 18
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							829,
+							1143,
+							1068,
+							1143,
+							1068,
+							1175,
+							829,
+							1175
+						]
+					}
+				],
+				"content": "Input requirements"
+			},
+			{
+				"spans": [
+					{
+						"offset": 940,
+						"length": 22
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							827,
+							1193,
+							1126,
+							1193,
+							1126,
+							1226,
+							827,
+							1226
+						]
+					}
+				],
+				"content": "Form Recognizer Studio"
+			},
+			{
+				"spans": [
+					{
+						"offset": 963,
+						"length": 11
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							831,
+							1257,
+							1001,
+							1258,
+							1001,
+							1288,
+							831,
+							1287
+						]
+					}
+				],
+				"content": "Show 4 more"
+			},
+			{
+				"spans": [
+					{
+						"offset": 975,
+						"length": 86
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							796,
+							1350,
+							2040,
+							1350,
+							2040,
+							1389,
+							796,
+							1389
+						]
+					}
+				],
+				"content": "This article applies to: 1 Form Recognizer v3.0. Earlier version: Form Recognizer v2.1"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1062,
+						"length": 430
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							794,
+							1436,
+							2170,
+							1436,
+							2170,
+							1678,
+							794,
+							1678
+						]
+					}
+				],
+				"content": "Form Recognizer layout model is an advanced machine-learning based document analysis API available in the Form Recognizer cloud. It enables you to take documents in various formats and return structured data representations of the documents. It combines an enhanced version of our powerful Optical Character Recognition (OCR) capabilities with deep learning models to extract text, tables, selection marks, and document structure."
+			},
+			{
+				"spans": [
+					{
+						"offset": 1493,
+						"length": 24
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							795,
+							1762,
+							1593,
+							1762,
+							1593,
+							1837,
+							795,
+							1837
+						]
+					}
+				],
+				"role": "sectionHeading",
+				"content": "Document layout analysis"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1518,
+						"length": 195
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							796,
+							1877,
+							2150,
+							1878,
+							2150,
+							1950,
+							796,
+							1949
+						]
+					}
+				],
+				"content": "Document structure layout analysis is the process of analyzing a document to extract regions of interact and their intAr malatiAnchine The Anal is to Avtract tout and structural AlAmante from the"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1714,
+						"length": 15
+					}
+				],
+				"boundingRegions": [
+					{
+						
+						"polygon": [
+							76,
+							1848,
+							298,
+							1848,
+							298,
+							1879,
+							76,
+							1879
+						]
+					}
+				],
+				"role": "pageFooter",
+				"content": "El Download PDF"
+			}
+		],
+		"styles": [
+			{
+				"confidence": 0.8,
+				"spans": [
+					{
+						"offset": 366,
+						"length": 1
+					}
+				],
+				"isHandwritten": true
+			},
+			{
+				"confidence": 0.7,
+				"spans": [
+					{
+						"offset": 453,
+						"length": 1
+					},
+					{
+						"offset": 1000,
+						"length": 1
+					}
+				],
+				"isHandwritten": true
+			}
+		]
+	}
+}

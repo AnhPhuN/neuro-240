@@ -1,0 +1,2645 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2023-04-14T01:27:24Z",
+	"lastUpdatedDateTime": "2023-04-14T01:27:27Z",
+	"analyzeResult": {
+		"apiVersion": "2023-02-28-preview",
+		"modelId": "prebuilt-layout",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "= < > +\nProject J[AR]VIS\nProject J[AR]VIS\nEdited Apr 8\nA VRD R +5 Share 1 2 ...\nProject J[AR]VIS\nProject J[AR]VIS\n9-004 /403.56\nIntroduction\n?\nThe emergence and eventual mass adoption of AR technologies will create a mass explosion in data, as our daily lives are recorded and our eye-gaze and correlated attention is tracked with on-headset sensors. This data can be used to understand the way we think, what we care about, what we desire, and what could help improve our lives. This project aims to leverage the massive amounts of data provided by daily AR glasses to create a \"superintelligent\" AR assistant by combining cognitive architectures and large language models.",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": 0,
+				"width": 3015,
+				"height": 1888,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "=",
+						"polygon": [
+							139,
+							16,
+							161,
+							16,
+							162,
+							53,
+							140,
+							53
+						],
+						"confidence": 0.511,
+						"span": {
+							"offset": 0,
+							"length": 1
+						}
+					},
+					{
+						"content": "<",
+						"polygon": [
+							209,
+							16,
+							228,
+							16,
+							228,
+							53,
+							209,
+							53
+						],
+						"confidence": 0.584,
+						"span": {
+							"offset": 2,
+							"length": 1
+						}
+					},
+					{
+						"content": ">",
+						"polygon": [
+							264,
+							16,
+							283,
+							16,
+							283,
+							53,
+							264,
+							53
+						],
+						"confidence": 0.811,
+						"span": {
+							"offset": 4,
+							"length": 1
+						}
+					},
+					{
+						"content": "+",
+						"polygon": [
+							307,
+							17,
+							328,
+							17,
+							329,
+							52,
+							307,
+							53
+						],
+						"confidence": 0.95,
+						"span": {
+							"offset": 6,
+							"length": 1
+						}
+					},
+					{
+						"content": "Project",
+						"polygon": [
+							392,
+							21,
+							484,
+							23,
+							484,
+							52,
+							393,
+							53
+						],
+						"confidence": 0.963,
+						"span": {
+							"offset": 8,
+							"length": 7
+						}
+					},
+					{
+						"content": "J[AR]VIS",
+						"polygon": [
+							490,
+							23,
+							602,
+							21,
+							603,
+							52,
+							490,
+							52
+						],
+						"confidence": 0.805,
+						"span": {
+							"offset": 16,
+							"length": 8
+						}
+					},
+					{
+						"content": "Project",
+						"polygon": [
+							862,
+							23,
+							950,
+							23,
+							950,
+							52,
+							861,
+							52
+						],
+						"confidence": 0.925,
+						"span": {
+							"offset": 25,
+							"length": 7
+						}
+					},
+					{
+						"content": "J[AR]VIS",
+						"polygon": [
+							956,
+							23,
+							1063,
+							22,
+							1064,
+							53,
+							956,
+							52
+						],
+						"confidence": 0.936,
+						"span": {
+							"offset": 33,
+							"length": 8
+						}
+					},
+					{
+						"content": "Edited",
+						"polygon": [
+							2182,
+							92,
+							2264,
+							92,
+							2264,
+							125,
+							2182,
+							124
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 42,
+							"length": 6
+						}
+					},
+					{
+						"content": "Apr",
+						"polygon": [
+							2272,
+							92,
+							2321,
+							93,
+							2322,
+							123,
+							2272,
+							125
+						],
+						"confidence": 0.956,
+						"span": {
+							"offset": 49,
+							"length": 3
+						}
+					},
+					{
+						"content": "8",
+						"polygon": [
+							2328,
+							93,
+							2344,
+							93,
+							2345,
+							122,
+							2328,
+							123
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 53,
+							"length": 1
+						}
+					},
+					{
+						"content": "A",
+						"polygon": [
+							2378,
+							94,
+							2391,
+							94,
+							2391,
+							118,
+							2378,
+							118
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 55,
+							"length": 1
+						}
+					},
+					{
+						"content": "VRD",
+						"polygon": [
+							2458,
+							100,
+							2474,
+							100,
+							2474,
+							113,
+							2458,
+							113
+						],
+						"confidence": 0.629,
+						"span": {
+							"offset": 57,
+							"length": 3
+						}
+					},
+					{
+						"content": "R",
+						"polygon": [
+							2487,
+							97,
+							2495,
+							98,
+							2494,
+							113,
+							2486,
+							112
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 61,
+							"length": 1
+						}
+					},
+					{
+						"content": "+5",
+						"polygon": [
+							2563,
+							95,
+							2593,
+							95,
+							2593,
+							120,
+							2563,
+							119
+						],
+						"confidence": 0.957,
+						"span": {
+							"offset": 63,
+							"length": 2
+						}
+					},
+					{
+						"content": "Share",
+						"polygon": [
+							2626,
+							94,
+							2698,
+							95,
+							2698,
+							122,
+							2626,
+							123
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 66,
+							"length": 5
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							2807,
+							91,
+							2825,
+							90,
+							2825,
+							125,
+							2806,
+							124
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 72,
+							"length": 1
+						}
+					},
+					{
+						"content": "2",
+						"polygon": [
+							2878,
+							88,
+							2896,
+							88,
+							2896,
+							125,
+							2878,
+							125
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 74,
+							"length": 1
+						}
+					},
+					{
+						"content": "...",
+						"polygon": [
+							2940,
+							90,
+							2986,
+							93,
+							2987,
+							120,
+							2940,
+							124
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 76,
+							"length": 3
+						}
+					},
+					{
+						"content": "Project",
+						"polygon": [
+							26,
+							95,
+							120,
+							95,
+							120,
+							127,
+							27,
+							126
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 80,
+							"length": 7
+						}
+					},
+					{
+						"content": "J[AR]VIS",
+						"polygon": [
+							126,
+							94,
+							240,
+							94,
+							240,
+							126,
+							127,
+							127
+						],
+						"confidence": 0.942,
+						"span": {
+							"offset": 88,
+							"length": 8
+						}
+					},
+					{
+						"content": "Project",
+						"polygon": [
+							788,
+							383,
+							1056,
+							382,
+							1055,
+							466,
+							786,
+							466
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 97,
+							"length": 7
+						}
+					},
+					{
+						"content": "J[AR]VIS",
+						"polygon": [
+							1072,
+							382,
+							1412,
+							383,
+							1413,
+							465,
+							1071,
+							466
+						],
+						"confidence": 0.951,
+						"span": {
+							"offset": 105,
+							"length": 8
+						}
+					},
+					{
+						"content": "9-004",
+						"polygon": [
+							1880,
+							838,
+							1903,
+							838,
+							1903,
+							849,
+							1880,
+							849
+						],
+						"confidence": 0.581,
+						"span": {
+							"offset": 114,
+							"length": 5
+						}
+					},
+					{
+						"content": "/403.56",
+						"polygon": [
+							1933,
+							840,
+							1969,
+							840,
+							1969,
+							850,
+							1934,
+							849
+						],
+						"confidence": 0.582,
+						"span": {
+							"offset": 120,
+							"length": 7
+						}
+					},
+					{
+						"content": "Introduction",
+						"polygon": [
+							788,
+							1516,
+							1048,
+							1517,
+							1048,
+							1562,
+							787,
+							1563
+						],
+						"confidence": 0.951,
+						"span": {
+							"offset": 128,
+							"length": 12
+						}
+					},
+					{
+						"content": "?",
+						"polygon": [
+							2917,
+							1780,
+							2937,
+							1779,
+							2939,
+							1816,
+							2919,
+							1817
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 141,
+							"length": 1
+						}
+					},
+					{
+						"content": "The",
+						"polygon": [
+							789,
+							1594,
+							841,
+							1594,
+							842,
+							1629,
+							789,
+							1629
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 143,
+							"length": 3
+						}
+					},
+					{
+						"content": "emergence",
+						"polygon": [
+							849,
+							1594,
+							1014,
+							1593,
+							1015,
+							1630,
+							849,
+							1629
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 147,
+							"length": 9
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							1022,
+							1593,
+							1077,
+							1593,
+							1077,
+							1630,
+							1022,
+							1630
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 157,
+							"length": 3
+						}
+					},
+					{
+						"content": "eventual",
+						"polygon": [
+							1084,
+							1593,
+							1206,
+							1593,
+							1207,
+							1630,
+							1085,
+							1630
+						],
+						"confidence": 0.961,
+						"span": {
+							"offset": 161,
+							"length": 8
+						}
+					},
+					{
+						"content": "mass",
+						"polygon": [
+							1214,
+							1593,
+							1293,
+							1593,
+							1293,
+							1630,
+							1214,
+							1630
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 170,
+							"length": 4
+						}
+					},
+					{
+						"content": "adoption",
+						"polygon": [
+							1300,
+							1593,
+							1427,
+							1593,
+							1428,
+							1630,
+							1301,
+							1630
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 175,
+							"length": 8
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							1437,
+							1593,
+							1468,
+							1593,
+							1469,
+							1630,
+							1437,
+							1630
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 184,
+							"length": 2
+						}
+					},
+					{
+						"content": "AR",
+						"polygon": [
+							1476,
+							1593,
+							1514,
+							1593,
+							1514,
+							1630,
+							1476,
+							1630
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 187,
+							"length": 2
+						}
+					},
+					{
+						"content": "technologies",
+						"polygon": [
+							1524,
+							1593,
+							1711,
+							1593,
+							1711,
+							1630,
+							1524,
+							1630
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 190,
+							"length": 12
+						}
+					},
+					{
+						"content": "will",
+						"polygon": [
+							1718,
+							1593,
+							1766,
+							1593,
+							1766,
+							1630,
+							1718,
+							1630
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 203,
+							"length": 4
+						}
+					},
+					{
+						"content": "create",
+						"polygon": [
+							1773,
+							1593,
+							1867,
+							1593,
+							1867,
+							1630,
+							1774,
+							1630
+						],
+						"confidence": 0.962,
+						"span": {
+							"offset": 208,
+							"length": 6
+						}
+					},
+					{
+						"content": "a",
+						"polygon": [
+							1874,
+							1593,
+							1891,
+							1593,
+							1891,
+							1630,
+							1874,
+							1630
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 215,
+							"length": 1
+						}
+					},
+					{
+						"content": "mass",
+						"polygon": [
+							1898,
+							1593,
+							1975,
+							1593,
+							1975,
+							1630,
+							1898,
+							1630
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 217,
+							"length": 4
+						}
+					},
+					{
+						"content": "explosion",
+						"polygon": [
+							1982,
+							1593,
+							2119,
+							1594,
+							2119,
+							1629,
+							1982,
+							1630
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 222,
+							"length": 9
+						}
+					},
+					{
+						"content": "in",
+						"polygon": [
+							2126,
+							1594,
+							2155,
+							1594,
+							2155,
+							1629,
+							2126,
+							1629
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 232,
+							"length": 2
+						}
+					},
+					{
+						"content": "data,",
+						"polygon": [
+							788,
+							1642,
+							861,
+							1642,
+							862,
+							1677,
+							788,
+							1677
+						],
+						"confidence": 0.97,
+						"span": {
+							"offset": 235,
+							"length": 5
+						}
+					},
+					{
+						"content": "as",
+						"polygon": [
+							868,
+							1642,
+							900,
+							1642,
+							901,
+							1678,
+							869,
+							1677
+						],
+						"confidence": 0.978,
+						"span": {
+							"offset": 241,
+							"length": 2
+						}
+					},
+					{
+						"content": "our",
+						"polygon": [
+							908,
+							1642,
+							957,
+							1641,
+							958,
+							1678,
+							909,
+							1678
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 244,
+							"length": 3
+						}
+					},
+					{
+						"content": "daily",
+						"polygon": [
+							965,
+							1641,
+							1031,
+							1641,
+							1032,
+							1678,
+							965,
+							1678
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 248,
+							"length": 5
+						}
+					},
+					{
+						"content": "lives",
+						"polygon": [
+							1039,
+							1641,
+							1108,
+							1641,
+							1108,
+							1679,
+							1039,
+							1678
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 254,
+							"length": 5
+						}
+					},
+					{
+						"content": "are",
+						"polygon": [
+							1115,
+							1641,
+							1159,
+							1641,
+							1160,
+							1679,
+							1116,
+							1679
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 260,
+							"length": 3
+						}
+					},
+					{
+						"content": "recorded",
+						"polygon": [
+							1167,
+							1641,
+							1300,
+							1641,
+							1301,
+							1679,
+							1168,
+							1679
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 264,
+							"length": 8
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							1310,
+							1641,
+							1364,
+							1641,
+							1365,
+							1679,
+							1311,
+							1679
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 273,
+							"length": 3
+						}
+					},
+					{
+						"content": "our",
+						"polygon": [
+							1372,
+							1641,
+							1421,
+							1641,
+							1422,
+							1679,
+							1372,
+							1679
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 277,
+							"length": 3
+						}
+					},
+					{
+						"content": "eye-gaze",
+						"polygon": [
+							1428,
+							1641,
+							1564,
+							1640,
+							1565,
+							1679,
+							1429,
+							1679
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 281,
+							"length": 8
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							1571,
+							1640,
+							1626,
+							1640,
+							1626,
+							1679,
+							1572,
+							1679
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 290,
+							"length": 3
+						}
+					},
+					{
+						"content": "correlated",
+						"polygon": [
+							1633,
+							1640,
+							1783,
+							1640,
+							1784,
+							1679,
+							1634,
+							1679
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 294,
+							"length": 10
+						}
+					},
+					{
+						"content": "attention",
+						"polygon": [
+							1791,
+							1640,
+							1919,
+							1640,
+							1920,
+							1678,
+							1792,
+							1679
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 305,
+							"length": 9
+						}
+					},
+					{
+						"content": "is",
+						"polygon": [
+							1926,
+							1640,
+							1951,
+							1640,
+							1952,
+							1678,
+							1927,
+							1678
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 315,
+							"length": 2
+						}
+					},
+					{
+						"content": "tracked",
+						"polygon": [
+							1959,
+							1640,
+							2069,
+							1640,
+							2070,
+							1677,
+							1959,
+							1678
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 318,
+							"length": 7
+						}
+					},
+					{
+						"content": "with",
+						"polygon": [
+							2077,
+							1640,
+							2139,
+							1640,
+							2139,
+							1677,
+							2078,
+							1677
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 326,
+							"length": 4
+						}
+					},
+					{
+						"content": "on-headset",
+						"polygon": [
+							786,
+							1690,
+							955,
+							1689,
+							955,
+							1726,
+							786,
+							1725
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 331,
+							"length": 10
+						}
+					},
+					{
+						"content": "sensors.",
+						"polygon": [
+							962,
+							1689,
+							1089,
+							1689,
+							1089,
+							1726,
+							962,
+							1726
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 342,
+							"length": 8
+						}
+					},
+					{
+						"content": "This",
+						"polygon": [
+							1097,
+							1689,
+							1154,
+							1689,
+							1154,
+							1726,
+							1096,
+							1726
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 351,
+							"length": 4
+						}
+					},
+					{
+						"content": "data",
+						"polygon": [
+							1161,
+							1688,
+							1228,
+							1688,
+							1228,
+							1727,
+							1161,
+							1726
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 356,
+							"length": 4
+						}
+					},
+					{
+						"content": "can",
+						"polygon": [
+							1236,
+							1688,
+							1288,
+							1688,
+							1288,
+							1727,
+							1236,
+							1727
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 361,
+							"length": 3
+						}
+					},
+					{
+						"content": "be",
+						"polygon": [
+							1296,
+							1688,
+							1333,
+							1688,
+							1333,
+							1727,
+							1295,
+							1727
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 365,
+							"length": 2
+						}
+					},
+					{
+						"content": "used",
+						"polygon": [
+							1340,
+							1688,
+							1413,
+							1688,
+							1412,
+							1727,
+							1340,
+							1727
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 368,
+							"length": 4
+						}
+					},
+					{
+						"content": "to",
+						"polygon": [
+							1420,
+							1688,
+							1450,
+							1688,
+							1450,
+							1727,
+							1420,
+							1727
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 373,
+							"length": 2
+						}
+					},
+					{
+						"content": "understand",
+						"polygon": [
+							1457,
+							1688,
+							1624,
+							1688,
+							1624,
+							1727,
+							1457,
+							1727
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 376,
+							"length": 10
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							1632,
+							1688,
+							1679,
+							1688,
+							1678,
+							1727,
+							1631,
+							1727
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 387,
+							"length": 3
+						}
+					},
+					{
+						"content": "way",
+						"polygon": [
+							1686,
+							1688,
+							1743,
+							1688,
+							1743,
+							1727,
+							1686,
+							1727
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 391,
+							"length": 3
+						}
+					},
+					{
+						"content": "we",
+						"polygon": [
+							1751,
+							1688,
+							1793,
+							1688,
+							1793,
+							1727,
+							1750,
+							1727
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 395,
+							"length": 2
+						}
+					},
+					{
+						"content": "think,",
+						"polygon": [
+							1801,
+							1688,
+							1883,
+							1688,
+							1882,
+							1727,
+							1800,
+							1727
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 398,
+							"length": 6
+						}
+					},
+					{
+						"content": "what",
+						"polygon": [
+							1890,
+							1688,
+							1960,
+							1689,
+							1959,
+							1727,
+							1890,
+							1727
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 405,
+							"length": 4
+						}
+					},
+					{
+						"content": "we",
+						"polygon": [
+							1967,
+							1689,
+							2012,
+							1689,
+							2012,
+							1727,
+							1967,
+							1727
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 410,
+							"length": 2
+						}
+					},
+					{
+						"content": "care",
+						"polygon": [
+							2020,
+							1689,
+							2084,
+							1689,
+							2084,
+							1727,
+							2019,
+							1727
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 413,
+							"length": 4
+						}
+					},
+					{
+						"content": "about,",
+						"polygon": [
+							2092,
+							1689,
+							2185,
+							1689,
+							2184,
+							1727,
+							2091,
+							1727
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 418,
+							"length": 6
+						}
+					},
+					{
+						"content": "what",
+						"polygon": [
+							785,
+							1738,
+							856,
+							1738,
+							856,
+							1773,
+							785,
+							1773
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 425,
+							"length": 4
+						}
+					},
+					{
+						"content": "we",
+						"polygon": [
+							863,
+							1738,
+							908,
+							1738,
+							908,
+							1774,
+							863,
+							1773
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 430,
+							"length": 2
+						}
+					},
+					{
+						"content": "desire,",
+						"polygon": [
+							915,
+							1738,
+							1013,
+							1737,
+							1013,
+							1774,
+							915,
+							1774
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 433,
+							"length": 7
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							1021,
+							1737,
+							1075,
+							1737,
+							1075,
+							1774,
+							1021,
+							1774
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 441,
+							"length": 3
+						}
+					},
+					{
+						"content": "what",
+						"polygon": [
+							1082,
+							1737,
+							1156,
+							1737,
+							1156,
+							1775,
+							1082,
+							1774
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 445,
+							"length": 4
+						}
+					},
+					{
+						"content": "could",
+						"polygon": [
+							1163,
+							1737,
+							1242,
+							1737,
+							1242,
+							1775,
+							1163,
+							1775
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 450,
+							"length": 5
+						}
+					},
+					{
+						"content": "help",
+						"polygon": [
+							1249,
+							1737,
+							1311,
+							1737,
+							1310,
+							1775,
+							1249,
+							1775
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 456,
+							"length": 4
+						}
+					},
+					{
+						"content": "improve",
+						"polygon": [
+							1318,
+							1737,
+							1438,
+							1737,
+							1438,
+							1775,
+							1318,
+							1775
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 461,
+							"length": 7
+						}
+					},
+					{
+						"content": "our",
+						"polygon": [
+							1446,
+							1737,
+							1492,
+							1736,
+							1492,
+							1775,
+							1445,
+							1775
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 469,
+							"length": 3
+						}
+					},
+					{
+						"content": "lives.",
+						"polygon": [
+							1500,
+							1736,
+							1581,
+							1736,
+							1580,
+							1775,
+							1499,
+							1775
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 473,
+							"length": 6
+						}
+					},
+					{
+						"content": "This",
+						"polygon": [
+							1588,
+							1736,
+							1645,
+							1736,
+							1644,
+							1775,
+							1588,
+							1775
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 480,
+							"length": 4
+						}
+					},
+					{
+						"content": "project",
+						"polygon": [
+							1652,
+							1736,
+							1758,
+							1737,
+							1757,
+							1775,
+							1652,
+							1775
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 485,
+							"length": 7
+						}
+					},
+					{
+						"content": "aims",
+						"polygon": [
+							1765,
+							1737,
+							1831,
+							1737,
+							1831,
+							1775,
+							1765,
+							1775
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 493,
+							"length": 4
+						}
+					},
+					{
+						"content": "to",
+						"polygon": [
+							1839,
+							1737,
+							1868,
+							1737,
+							1868,
+							1775,
+							1838,
+							1775
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 498,
+							"length": 2
+						}
+					},
+					{
+						"content": "leverage",
+						"polygon": [
+							1876,
+							1737,
+							2001,
+							1737,
+							2000,
+							1774,
+							1875,
+							1775
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 501,
+							"length": 8
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							2008,
+							1737,
+							2055,
+							1737,
+							2054,
+							1774,
+							2008,
+							1774
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 510,
+							"length": 3
+						}
+					},
+					{
+						"content": "massive",
+						"polygon": [
+							2062,
+							1737,
+							2185,
+							1737,
+							2184,
+							1774,
+							2062,
+							1774
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 514,
+							"length": 7
+						}
+					},
+					{
+						"content": "amounts",
+						"polygon": [
+							787,
+							1787,
+							913,
+							1786,
+							913,
+							1822,
+							788,
+							1822
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 522,
+							"length": 7
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							920,
+							1786,
+							950,
+							1786,
+							950,
+							1822,
+							921,
+							1822
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 530,
+							"length": 2
+						}
+					},
+					{
+						"content": "data",
+						"polygon": [
+							957,
+							1786,
+							1021,
+							1785,
+							1021,
+							1823,
+							958,
+							1822
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 533,
+							"length": 4
+						}
+					},
+					{
+						"content": "provided",
+						"polygon": [
+							1028,
+							1785,
+							1159,
+							1785,
+							1159,
+							1823,
+							1029,
+							1823
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 538,
+							"length": 8
+						}
+					},
+					{
+						"content": "by",
+						"polygon": [
+							1166,
+							1785,
+							1203,
+							1785,
+							1203,
+							1823,
+							1166,
+							1823
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 547,
+							"length": 2
+						}
+					},
+					{
+						"content": "daily",
+						"polygon": [
+							1210,
+							1785,
+							1279,
+							1785,
+							1279,
+							1823,
+							1210,
+							1823
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 550,
+							"length": 5
+						}
+					},
+					{
+						"content": "AR",
+						"polygon": [
+							1286,
+							1785,
+							1326,
+							1784,
+							1326,
+							1823,
+							1287,
+							1823
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 556,
+							"length": 2
+						}
+					},
+					{
+						"content": "glasses",
+						"polygon": [
+							1336,
+							1784,
+							1444,
+							1784,
+							1444,
+							1823,
+							1336,
+							1823
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 559,
+							"length": 7
+						}
+					},
+					{
+						"content": "to",
+						"polygon": [
+							1451,
+							1784,
+							1483,
+							1784,
+							1483,
+							1823,
+							1451,
+							1823
+						],
+						"confidence": 0.961,
+						"span": {
+							"offset": 567,
+							"length": 2
+						}
+					},
+					{
+						"content": "create",
+						"polygon": [
+							1491,
+							1784,
+							1584,
+							1784,
+							1584,
+							1823,
+							1490,
+							1823
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 570,
+							"length": 6
+						}
+					},
+					{
+						"content": "a",
+						"polygon": [
+							1591,
+							1784,
+							1609,
+							1784,
+							1608,
+							1823,
+							1591,
+							1823
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 577,
+							"length": 1
+						}
+					},
+					{
+						"content": "\"superintelligent\"",
+						"polygon": [
+							1616,
+							1784,
+							1872,
+							1785,
+							1871,
+							1823,
+							1616,
+							1823
+						],
+						"confidence": 0.887,
+						"span": {
+							"offset": 579,
+							"length": 18
+						}
+					},
+					{
+						"content": "AR",
+						"polygon": [
+							1879,
+							1785,
+							1918,
+							1785,
+							1918,
+							1823,
+							1878,
+							1823
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 598,
+							"length": 2
+						}
+					},
+					{
+						"content": "assistant",
+						"polygon": [
+							1928,
+							1785,
+							2058,
+							1786,
+							2058,
+							1822,
+							1928,
+							1823
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 601,
+							"length": 9
+						}
+					},
+					{
+						"content": "by",
+						"polygon": [
+							2066,
+							1786,
+							2103,
+							1786,
+							2103,
+							1822,
+							2065,
+							1822
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 611,
+							"length": 2
+						}
+					},
+					{
+						"content": "combining",
+						"polygon": [
+							785,
+							1834,
+							939,
+							1833,
+							939,
+							1870,
+							785,
+							1869
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 614,
+							"length": 9
+						}
+					},
+					{
+						"content": "cognitive",
+						"polygon": [
+							947,
+							1833,
+							1079,
+							1832,
+							1079,
+							1870,
+							947,
+							1870
+						],
+						"confidence": 0.982,
+						"span": {
+							"offset": 624,
+							"length": 9
+						}
+					},
+					{
+						"content": "architectures",
+						"polygon": [
+							1087,
+							1832,
+							1280,
+							1832,
+							1280,
+							1871,
+							1086,
+							1870
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 634,
+							"length": 13
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							1288,
+							1832,
+							1339,
+							1832,
+							1339,
+							1871,
+							1287,
+							1871
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 648,
+							"length": 3
+						}
+					},
+					{
+						"content": "large",
+						"polygon": [
+							1347,
+							1832,
+							1420,
+							1832,
+							1420,
+							1871,
+							1346,
+							1871
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 652,
+							"length": 5
+						}
+					},
+					{
+						"content": "language",
+						"polygon": [
+							1428,
+							1832,
+							1563,
+							1833,
+							1562,
+							1871,
+							1427,
+							1871
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 658,
+							"length": 8
+						}
+					},
+					{
+						"content": "models.",
+						"polygon": [
+							1570,
+							1833,
+							1688,
+							1834,
+							1688,
+							1871,
+							1569,
+							1871
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 667,
+							"length": 7
+						}
+					}
+				],
+				"lines": [
+					{
+						"content": "= < > +",
+						"polygon": [
+							130,
+							16,
+							332,
+							16,
+							332,
+							52,
+							130,
+							52
+						],
+											},
+					{
+						"content": "Project J[AR]VIS",
+						"polygon": [
+							392,
+							21,
+							602,
+							21,
+							602,
+							52,
+							392,
+							52
+						],
+											},
+					{
+						"content": "Project J[AR]VIS",
+						"polygon": [
+							860,
+							22,
+							1064,
+							21,
+							1064,
+							52,
+							860,
+							52
+						],
+											},
+					{
+						"content": "Edited Apr 8",
+						"polygon": [
+							2181,
+							92,
+							2345,
+							92,
+							2345,
+							123,
+							2181,
+							124
+						],
+											},
+					{
+						"content": "A",
+						"polygon": [
+							2374,
+							94,
+							2395,
+							94,
+							2395,
+							118,
+							2374,
+							118
+						],
+											},
+					{
+						"content": "VRD",
+						"polygon": [
+							2446,
+							100,
+							2475,
+							100,
+							2475,
+							113,
+							2446,
+							112
+						],
+											},
+					{
+						"content": "R",
+						"polygon": [
+							2483,
+							97,
+							2501,
+							98,
+							2501,
+							113,
+							2482,
+							112
+						],
+											},
+					{
+						"content": "+5",
+						"polygon": [
+							2560,
+							95,
+							2604,
+							95,
+							2605,
+							120,
+							2562,
+							119
+						],
+											},
+					{
+						"content": "Share",
+						"polygon": [
+							2621,
+							94,
+							2710,
+							94,
+							2710,
+							122,
+							2621,
+							122
+						],
+											},
+					{
+						"content": "1 2 ...",
+						"polygon": [
+							2794,
+							88,
+							2986,
+							88,
+							2986,
+							124,
+							2794,
+							125
+						],
+											},
+					{
+						"content": "Project J[AR]VIS",
+						"polygon": [
+							25,
+							94,
+							240,
+							94,
+							240,
+							126,
+							25,
+							126
+						],
+											},
+					{
+						"content": "Project J[AR]VIS",
+						"polygon": [
+							785,
+							382,
+							1414,
+							382,
+							1414,
+							464,
+							785,
+							465
+						],
+											},
+					{
+						"content": "9-004",
+						"polygon": [
+							1880,
+							839,
+							1903,
+							838,
+							1904,
+							849,
+							1880,
+							848
+						],
+											},
+					{
+						"content": "/403.56",
+						"polygon": [
+							1926,
+							839,
+							1973,
+							839,
+							1973,
+							849,
+							1926,
+							849
+						],
+											},
+					{
+						"content": "Introduction",
+						"polygon": [
+							787,
+							1516,
+							1056,
+							1516,
+							1056,
+							1562,
+							787,
+							1562
+						],
+											},
+					{
+						"content": "?",
+						"polygon": [
+							2914,
+							1781,
+							2940,
+							1779,
+							2940,
+							1816,
+							2915,
+							1817
+						],
+											},
+					{
+						"content": "The emergence and eventual mass adoption of AR technologies will create a mass explosion in",
+						"polygon": [
+							786,
+							1592,
+							2158,
+							1592,
+							2158,
+							1629,
+							786,
+							1629
+						],
+											},
+					{
+						"content": "data, as our daily lives are recorded and our eye-gaze and correlated attention is tracked with",
+						"polygon": [
+							787,
+							1640,
+							2142,
+							1640,
+							2142,
+							1678,
+							787,
+							1679
+						],
+											},
+					{
+						"content": "on-headset sensors. This data can be used to understand the way we think, what we care about,",
+						"polygon": [
+							786,
+							1687,
+							2185,
+							1688,
+							2185,
+							1726,
+							786,
+							1726
+						],
+											},
+					{
+						"content": "what we desire, and what could help improve our lives. This project aims to leverage the massive",
+						"polygon": [
+							785,
+							1736,
+							2187,
+							1736,
+							2187,
+							1774,
+							785,
+							1774
+						],
+											},
+					{
+						"content": "amounts of data provided by daily AR glasses to create a \"superintelligent\" AR assistant by",
+						"polygon": [
+							785,
+							1784,
+							2102,
+							1784,
+							2102,
+							1822,
+							785,
+							1822
+						],
+											},
+					{
+						"content": "combining cognitive architectures and large language models.",
+						"polygon": [
+							785,
+							1832,
+							1688,
+							1832,
+							1688,
+							1870,
+							785,
+							1869
+						],
+											}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 674
+					}
+				],
+				"kind": "document"
+			}
+		],
+		"tables": [],
+		"paragraphs": [
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 7
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							130,
+							16,
+							332,
+							16,
+							332,
+							52,
+							130,
+							52
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "= < > +"
+			},
+			{
+				"spans": [
+					{
+						"offset": 8,
+						"length": 16
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							392,
+							21,
+							602,
+							21,
+							602,
+							52,
+							392,
+							52
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Project J[AR]VIS"
+			},
+			{
+				"spans": [
+					{
+						"offset": 25,
+						"length": 16
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							860,
+							21,
+							1064,
+							21,
+							1064,
+							52,
+							860,
+							52
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Project J[AR]VIS"
+			},
+			{
+				"spans": [
+					{
+						"offset": 42,
+						"length": 12
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2181,
+							92,
+							2345,
+							92,
+							2345,
+							124,
+							2181,
+							124
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Edited Apr 8"
+			},
+			{
+				"spans": [
+					{
+						"offset": 55,
+						"length": 24
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2374,
+							88,
+							2986,
+							88,
+							2986,
+							125,
+							2374,
+							125
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "A VRD R +5 Share 1 2 ..."
+			},
+			{
+				"spans": [
+					{
+						"offset": 80,
+						"length": 16
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							25,
+							94,
+							240,
+							94,
+							240,
+							126,
+							25,
+							126
+						]
+					}
+				],
+				"content": "Project J[AR]VIS"
+			},
+			{
+				"spans": [
+					{
+						"offset": 97,
+						"length": 16
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							785,
+							382,
+							1414,
+							382,
+							1414,
+							465,
+							785,
+							465
+						]
+					}
+				],
+				"role": "sectionHeading",
+				"content": "Project J[AR]VIS"
+			},
+			{
+				"spans": [
+					{
+						"offset": 114,
+						"length": 13
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1880,
+							838,
+							1973,
+							838,
+							1973,
+							849,
+							1880,
+							849
+						]
+					}
+				],
+				"content": "9-004 /403.56"
+			},
+			{
+				"spans": [
+					{
+						"offset": 128,
+						"length": 12
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							787,
+							1516,
+							1056,
+							1516,
+							1056,
+							1562,
+							787,
+							1562
+						]
+					}
+				],
+				"role": "sectionHeading",
+				"content": "Introduction"
+			},
+			{
+				"spans": [
+					{
+						"offset": 141,
+						"length": 1
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2914,
+							1780,
+							2940,
+							1779,
+							2941,
+							1816,
+							2915,
+							1817
+						]
+					}
+				],
+				"role": "pageNumber",
+				"content": "?"
+			},
+			{
+				"spans": [
+					{
+						"offset": 143,
+						"length": 531
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							785,
+							1592,
+							2187,
+							1592,
+							2187,
+							1870,
+							785,
+							1870
+						]
+					}
+				],
+				"content": "The emergence and eventual mass adoption of AR technologies will create a mass explosion in data, as our daily lives are recorded and our eye-gaze and correlated attention is tracked with on-headset sensors. This data can be used to understand the way we think, what we care about, what we desire, and what could help improve our lives. This project aims to leverage the massive amounts of data provided by daily AR glasses to create a \"superintelligent\" AR assistant by combining cognitive architectures and large language models."
+			}
+		],
+		"styles": []
+	}
+}

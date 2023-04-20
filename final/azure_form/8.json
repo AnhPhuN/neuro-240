@@ -1,0 +1,3966 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2023-04-17T12:21:16Z",
+	"lastUpdatedDateTime": "2023-04-17T12:21:19Z",
+	"analyzeResult": {
+		"apiVersion": "2023-02-28-preview",
+		"modelId": "prebuilt-layout",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "Arc File\nEdit\nView\nSpaces\nArchive\nExtensions\nWindow\nHelp\nFri Apr 14 10:36 AM\nTabs\nUS\nStart a free trial and enjoy 3 months of Shopify for $1/month on select plans. Sign up now\nX\nS\nshopify\nSolutions v Pricing\nResources v\nLog in\nWatch a 2 min Shopify overview\nThe global commerce platform\nStart free trial\nMR BEAST\nPlant $175.25\nPaid\nS\nMrBeast Entrepreneur\n'S\nShopify Cha-Ching! You have a new order for 2 items totalling $140.\n14m ago\nBuild your business with Shopify to sell online, offline, and everywhere in between.\nEnter your email address\nTry Shopify free for 3 days, no credit card required. By entering your email, you agree to receive marketing emails from Shopify.\nHuron Huron\nStart free trial",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": 0,
+				"width": 3024,
+				"height": 1964,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "Arc",
+						"polygon": [
+							106,
+							24,
+							149,
+							24,
+							150,
+							50,
+							107,
+							49
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 0,
+							"length": 3
+						}
+					},
+					{
+						"content": "File",
+						"polygon": [
+							190,
+							23,
+							233,
+							23,
+							233,
+							49,
+							191,
+							50
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 4,
+							"length": 4
+						}
+					},
+					{
+						"content": "Edit",
+						"polygon": [
+							275,
+							23,
+							325,
+							23,
+							326,
+							47,
+							276,
+							47
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 9,
+							"length": 4
+						}
+					},
+					{
+						"content": "View",
+						"polygon": [
+							364,
+							24,
+							415,
+							24,
+							415,
+							48,
+							364,
+							48
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 14,
+							"length": 4
+						}
+					},
+					{
+						"content": "Spaces",
+						"polygon": [
+							465,
+							25,
+							553,
+							24,
+							554,
+							52,
+							465,
+							51
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 19,
+							"length": 6
+						}
+					},
+					{
+						"content": "Archive",
+						"polygon": [
+							692,
+							23,
+							782,
+							24,
+							782,
+							50,
+							693,
+							50
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 26,
+							"length": 7
+						}
+					},
+					{
+						"content": "Extensions",
+						"polygon": [
+							823,
+							25,
+							955,
+							24,
+							955,
+							50,
+							823,
+							48
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 34,
+							"length": 10
+						}
+					},
+					{
+						"content": "Window",
+						"polygon": [
+							995,
+							24,
+							1084,
+							24,
+							1084,
+							50,
+							996,
+							49
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 45,
+							"length": 6
+						}
+					},
+					{
+						"content": "Help",
+						"polygon": [
+							1132,
+							23,
+							1189,
+							24,
+							1189,
+							52,
+							1132,
+							50
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 52,
+							"length": 4
+						}
+					},
+					{
+						"content": "Fri",
+						"polygon": [
+							2733,
+							22,
+							2767,
+							22,
+							2768,
+							51,
+							2734,
+							52
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 57,
+							"length": 3
+						}
+					},
+					{
+						"content": "Apr",
+						"polygon": [
+							2773,
+							22,
+							2818,
+							23,
+							2819,
+							50,
+							2773,
+							51
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 61,
+							"length": 3
+						}
+					},
+					{
+						"content": "14",
+						"polygon": [
+							2826,
+							23,
+							2854,
+							23,
+							2855,
+							50,
+							2827,
+							50
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 65,
+							"length": 2
+						}
+					},
+					{
+						"content": "10:36",
+						"polygon": [
+							2873,
+							23,
+							2940,
+							21,
+							2941,
+							51,
+							2874,
+							50
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 68,
+							"length": 5
+						}
+					},
+					{
+						"content": "AM",
+						"polygon": [
+							2949,
+							21,
+							2980,
+							20,
+							2981,
+							52,
+							2950,
+							51
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 74,
+							"length": 2
+						}
+					},
+					{
+						"content": "Tabs",
+						"polygon": [
+							596,
+							23,
+							653,
+							23,
+							652,
+							48,
+							596,
+							48
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 77,
+							"length": 4
+						}
+					},
+					{
+						"content": "US",
+						"polygon": [
+							2313,
+							25,
+							2341,
+							25,
+							2341,
+							45,
+							2313,
+							46
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 82,
+							"length": 2
+						}
+					},
+					{
+						"content": "Start",
+						"polygon": [
+							768,
+							145,
+							848,
+							144,
+							849,
+							184,
+							769,
+							183
+						],
+						"confidence": 0.981,
+						"span": {
+							"offset": 85,
+							"length": 5
+						}
+					},
+					{
+						"content": "a",
+						"polygon": [
+							856,
+							144,
+							872,
+							144,
+							873,
+							184,
+							857,
+							184
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 91,
+							"length": 1
+						}
+					},
+					{
+						"content": "free",
+						"polygon": [
+							880,
+							144,
+							947,
+							144,
+							948,
+							184,
+							881,
+							184
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 93,
+							"length": 4
+						}
+					},
+					{
+						"content": "trial",
+						"polygon": [
+							955,
+							144,
+							1022,
+							143,
+							1023,
+							184,
+							956,
+							184
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 98,
+							"length": 5
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							1030,
+							143,
+							1089,
+							143,
+							1089,
+							185,
+							1031,
+							184
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 104,
+							"length": 3
+						}
+					},
+					{
+						"content": "enjoy",
+						"polygon": [
+							1100,
+							143,
+							1190,
+							143,
+							1191,
+							185,
+							1100,
+							185
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 108,
+							"length": 5
+						}
+					},
+					{
+						"content": "3",
+						"polygon": [
+							1198,
+							143,
+							1217,
+							143,
+							1218,
+							185,
+							1199,
+							185
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 114,
+							"length": 1
+						}
+					},
+					{
+						"content": "months",
+						"polygon": [
+							1225,
+							143,
+							1351,
+							143,
+							1351,
+							185,
+							1226,
+							185
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 116,
+							"length": 6
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							1359,
+							143,
+							1396,
+							142,
+							1397,
+							185,
+							1359,
+							185
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 123,
+							"length": 2
+						}
+					},
+					{
+						"content": "Shopify",
+						"polygon": [
+							1404,
+							142,
+							1527,
+							143,
+							1528,
+							185,
+							1405,
+							185
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 126,
+							"length": 7
+						}
+					},
+					{
+						"content": "for",
+						"polygon": [
+							1535,
+							143,
+							1583,
+							143,
+							1584,
+							185,
+							1536,
+							185
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 134,
+							"length": 3
+						}
+					},
+					{
+						"content": "$1/month",
+						"polygon": [
+							1591,
+							143,
+							1746,
+							143,
+							1747,
+							185,
+							1592,
+							185
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 138,
+							"length": 8
+						}
+					},
+					{
+						"content": "on",
+						"polygon": [
+							1757,
+							143,
+							1797,
+							144,
+							1798,
+							185,
+							1757,
+							185
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 147,
+							"length": 2
+						}
+					},
+					{
+						"content": "select",
+						"polygon": [
+							1808,
+							144,
+							1904,
+							144,
+							1904,
+							185,
+							1808,
+							185
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 150,
+							"length": 6
+						}
+					},
+					{
+						"content": "plans.",
+						"polygon": [
+							1912,
+							144,
+							2016,
+							145,
+							2017,
+							185,
+							1912,
+							185
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 157,
+							"length": 6
+						}
+					},
+					{
+						"content": "Sign",
+						"polygon": [
+							2025,
+							145,
+							2094,
+							146,
+							2094,
+							185,
+							2025,
+							185
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 164,
+							"length": 4
+						}
+					},
+					{
+						"content": "up",
+						"polygon": [
+							2102,
+							146,
+							2145,
+							146,
+							2145,
+							184,
+							2102,
+							184
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 169,
+							"length": 2
+						}
+					},
+					{
+						"content": "now",
+						"polygon": [
+							2153,
+							146,
+							2217,
+							147,
+							2217,
+							184,
+							2153,
+							184
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 172,
+							"length": 3
+						}
+					},
+					{
+						"content": "X",
+						"polygon": [
+							2910,
+							143,
+							2928,
+							143,
+							2928,
+							176,
+							2911,
+							176
+						],
+						"confidence": 0.607,
+						"span": {
+							"offset": 176,
+							"length": 1
+						}
+					},
+					{
+						"content": "S",
+						"polygon": [
+							210,
+							280,
+							236,
+							280,
+							235,
+							328,
+							210,
+							328
+						],
+						"confidence": 0.942,
+						"span": {
+							"offset": 178,
+							"length": 1
+						}
+					},
+					{
+						"content": "shopify",
+						"polygon": [
+							269,
+							276,
+							447,
+							276,
+							448,
+							337,
+							269,
+							338
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 180,
+							"length": 7
+						}
+					},
+					{
+						"content": "Solutions",
+						"polygon": [
+							545,
+							285,
+							682,
+							286,
+							682,
+							316,
+							545,
+							315
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 188,
+							"length": 9
+						}
+					},
+					{
+						"content": "v",
+						"polygon": [
+							701,
+							288,
+							715,
+							288,
+							715,
+							314,
+							701,
+							314
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 198,
+							"length": 1
+						}
+					},
+					{
+						"content": "Pricing",
+						"polygon": [
+							792,
+							285,
+							893,
+							287,
+							892,
+							319,
+							792,
+							317
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 200,
+							"length": 7
+						}
+					},
+					{
+						"content": "Resources",
+						"polygon": [
+							957,
+							286,
+							1110,
+							289,
+							1109,
+							315,
+							958,
+							314
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 208,
+							"length": 9
+						}
+					},
+					{
+						"content": "v",
+						"polygon": [
+							1130,
+							289,
+							1144,
+							289,
+							1144,
+							314,
+							1130,
+							314
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 218,
+							"length": 1
+						}
+					},
+					{
+						"content": "Log",
+						"polygon": [
+							2340,
+							279,
+							2393,
+							279,
+							2393,
+							324,
+							2340,
+							324
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 220,
+							"length": 3
+						}
+					},
+					{
+						"content": "in",
+						"polygon": [
+							2402,
+							279,
+							2433,
+							279,
+							2433,
+							324,
+							2402,
+							324
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 224,
+							"length": 2
+						}
+					},
+					{
+						"content": "Watch",
+						"polygon": [
+							284,
+							483,
+							373,
+							482,
+							373,
+							518,
+							285,
+							517
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 227,
+							"length": 5
+						}
+					},
+					{
+						"content": "a",
+						"polygon": [
+							385,
+							482,
+							403,
+							482,
+							403,
+							518,
+							385,
+							518
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 233,
+							"length": 1
+						}
+					},
+					{
+						"content": "2",
+						"polygon": [
+							410,
+							482,
+							424,
+							482,
+							424,
+							518,
+							410,
+							518
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 235,
+							"length": 1
+						}
+					},
+					{
+						"content": "min",
+						"polygon": [
+							431,
+							482,
+							487,
+							482,
+							487,
+							518,
+							431,
+							518
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 237,
+							"length": 3
+						}
+					},
+					{
+						"content": "Shopify",
+						"polygon": [
+							496,
+							482,
+							608,
+							482,
+							608,
+							518,
+							496,
+							518
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 241,
+							"length": 7
+						}
+					},
+					{
+						"content": "overview",
+						"polygon": [
+							615,
+							482,
+							738,
+							483,
+							738,
+							518,
+							615,
+							518
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 249,
+							"length": 8
+						}
+					},
+					{
+						"content": "The",
+						"polygon": [
+							204,
+							640,
+							511,
+							631,
+							515,
+							826,
+							208,
+							796
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 258,
+							"length": 3
+						}
+					},
+					{
+						"content": "global",
+						"polygon": [
+							570,
+							630,
+							1116,
+							637,
+							1120,
+							796,
+							574,
+							826
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 262,
+							"length": 6
+						}
+					},
+					{
+						"content": "commerce",
+						"polygon": [
+							204,
+							864,
+							1115,
+							855,
+							1121,
+							988,
+							200,
+							990
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 269,
+							"length": 8
+						}
+					},
+					{
+						"content": "platform",
+						"polygon": [
+							200,
+							1017,
+							880,
+							1023,
+							888,
+							1179,
+							200,
+							1222
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 278,
+							"length": 8
+						}
+					},
+					{
+						"content": "Start",
+						"polygon": [
+							2544,
+							278,
+							2615,
+							278,
+							2615,
+							310,
+							2544,
+							310
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 287,
+							"length": 5
+						}
+					},
+					{
+						"content": "free",
+						"polygon": [
+							2621,
+							278,
+							2679,
+							278,
+							2680,
+							310,
+							2621,
+							310
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 293,
+							"length": 4
+						}
+					},
+					{
+						"content": "trial",
+						"polygon": [
+							2688,
+							278,
+							2749,
+							277,
+							2749,
+							309,
+							2688,
+							310
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 298,
+							"length": 5
+						}
+					},
+					{
+						"content": "MR",
+						"polygon": [
+							2419,
+							668,
+							2506,
+							669,
+							2505,
+							727,
+							2418,
+							727
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 304,
+							"length": 2
+						}
+					},
+					{
+						"content": "BEAST",
+						"polygon": [
+							2520,
+							669,
+							2692,
+							667,
+							2693,
+							727,
+							2520,
+							727
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 307,
+							"length": 5
+						}
+					},
+					{
+						"content": "Plant",
+						"polygon": [
+							1952,
+							1029,
+							2019,
+							1029,
+							2019,
+							1054,
+							1952,
+							1053
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 313,
+							"length": 5
+						}
+					},
+					{
+						"content": "$175.25",
+						"polygon": [
+							2155,
+							1029,
+							2251,
+							1029,
+							2251,
+							1058,
+							2156,
+							1058
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 319,
+							"length": 7
+						}
+					},
+					{
+						"content": "Paid",
+						"polygon": [
+							2190,
+							974,
+							2234,
+							974,
+							2234,
+							997,
+							2190,
+							997
+						],
+						"confidence": 0.983,
+						"span": {
+							"offset": 327,
+							"length": 4
+						}
+					},
+					{
+						"content": "S",
+						"polygon": [
+							2538,
+							802,
+							2562,
+							802,
+							2560,
+							853,
+							2535,
+							851
+						],
+						"confidence": 0.88,
+						"span": {
+							"offset": 332,
+							"length": 1
+						}
+					},
+					{
+						"content": "MrBeast",
+						"polygon": [
+							2485,
+							972,
+							2623,
+							973,
+							2623,
+							1003,
+							2486,
+							1004
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 334,
+							"length": 7
+						}
+					},
+					{
+						"content": "Entrepreneur",
+						"polygon": [
+							2484,
+							1020,
+							2626,
+							1021,
+							2626,
+							1044,
+							2484,
+							1044
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 342,
+							"length": 12
+						}
+					},
+					{
+						"content": "'S",
+						"polygon": [
+							2360,
+							1182,
+							2376,
+							1182,
+							2375,
+							1209,
+							2360,
+							1208
+						],
+						"confidence": 0.517,
+						"span": {
+							"offset": 355,
+							"length": 2
+						}
+					},
+					{
+						"content": "Shopify",
+						"polygon": [
+							2420,
+							1171,
+							2505,
+							1172,
+							2505,
+							1198,
+							2420,
+							1196
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 358,
+							"length": 7
+						}
+					},
+					{
+						"content": "Cha-Ching!",
+						"polygon": [
+							2422,
+							1211,
+							2542,
+							1210,
+							2541,
+							1237,
+							2421,
+							1236
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 366,
+							"length": 10
+						}
+					},
+					{
+						"content": "You",
+						"polygon": [
+							2547,
+							1210,
+							2586,
+							1210,
+							2585,
+							1237,
+							2546,
+							1237
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 377,
+							"length": 3
+						}
+					},
+					{
+						"content": "have",
+						"polygon": [
+							2591,
+							1210,
+							2644,
+							1211,
+							2644,
+							1237,
+							2590,
+							1237
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 381,
+							"length": 4
+						}
+					},
+					{
+						"content": "a",
+						"polygon": [
+							2650,
+							1211,
+							2662,
+							1211,
+							2661,
+							1237,
+							2649,
+							1237
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 386,
+							"length": 1
+						}
+					},
+					{
+						"content": "new",
+						"polygon": [
+							2667,
+							1211,
+							2708,
+							1211,
+							2707,
+							1236,
+							2666,
+							1237
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 388,
+							"length": 3
+						}
+					},
+					{
+						"content": "order",
+						"polygon": [
+							2420,
+							1242,
+							2479,
+							1243,
+							2479,
+							1269,
+							2420,
+							1268
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 392,
+							"length": 5
+						}
+					},
+					{
+						"content": "for",
+						"polygon": [
+							2484,
+							1243,
+							2517,
+							1243,
+							2517,
+							1269,
+							2484,
+							1269
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 398,
+							"length": 3
+						}
+					},
+					{
+						"content": "2",
+						"polygon": [
+							2522,
+							1243,
+							2533,
+							1243,
+							2533,
+							1269,
+							2523,
+							1269
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 402,
+							"length": 1
+						}
+					},
+					{
+						"content": "items",
+						"polygon": [
+							2538,
+							1243,
+							2601,
+							1242,
+							2601,
+							1269,
+							2538,
+							1269
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 404,
+							"length": 5
+						}
+					},
+					{
+						"content": "totalling",
+						"polygon": [
+							2606,
+							1242,
+							2698,
+							1242,
+							2698,
+							1269,
+							2606,
+							1269
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 410,
+							"length": 9
+						}
+					},
+					{
+						"content": "$140.",
+						"polygon": [
+							2705,
+							1242,
+							2763,
+							1242,
+							2763,
+							1269,
+							2705,
+							1269
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 420,
+							"length": 5
+						}
+					},
+					{
+						"content": "14m",
+						"polygon": [
+							2678,
+							1172,
+							2713,
+							1172,
+							2713,
+							1197,
+							2678,
+							1196
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 426,
+							"length": 3
+						}
+					},
+					{
+						"content": "ago",
+						"polygon": [
+							2728,
+							1173,
+							2767,
+							1173,
+							2767,
+							1198,
+							2728,
+							1197
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 430,
+							"length": 3
+						}
+					},
+					{
+						"content": "Build",
+						"polygon": [
+							200,
+							1287,
+							299,
+							1286,
+							298,
+							1336,
+							199,
+							1336
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 434,
+							"length": 5
+						}
+					},
+					{
+						"content": "your",
+						"polygon": [
+							309,
+							1286,
+							395,
+							1286,
+							394,
+							1337,
+							308,
+							1336
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 440,
+							"length": 4
+						}
+					},
+					{
+						"content": "business",
+						"polygon": [
+							405,
+							1286,
+							585,
+							1285,
+							583,
+							1337,
+							404,
+							1337
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 445,
+							"length": 8
+						}
+					},
+					{
+						"content": "with",
+						"polygon": [
+							595,
+							1285,
+							681,
+							1285,
+							680,
+							1337,
+							593,
+							1337
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 454,
+							"length": 4
+						}
+					},
+					{
+						"content": "Shopify",
+						"polygon": [
+							694,
+							1285,
+							847,
+							1285,
+							846,
+							1337,
+							693,
+							1337
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 459,
+							"length": 7
+						}
+					},
+					{
+						"content": "to",
+						"polygon": [
+							857,
+							1285,
+							900,
+							1285,
+							899,
+							1336,
+							856,
+							1337
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 467,
+							"length": 2
+						}
+					},
+					{
+						"content": "sell",
+						"polygon": [
+							910,
+							1285,
+							980,
+							1285,
+							979,
+							1336,
+							909,
+							1336
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 470,
+							"length": 4
+						}
+					},
+					{
+						"content": "online,",
+						"polygon": [
+							990,
+							1285,
+							1126,
+							1285,
+							1125,
+							1335,
+							989,
+							1336
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 475,
+							"length": 7
+						}
+					},
+					{
+						"content": "offline,",
+						"polygon": [
+							1136,
+							1285,
+							1273,
+							1286,
+							1272,
+							1334,
+							1135,
+							1335
+						],
+						"confidence": 0.961,
+						"span": {
+							"offset": 483,
+							"length": 8
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							198,
+							1356,
+							269,
+							1355,
+							270,
+							1403,
+							199,
+							1403
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 492,
+							"length": 3
+						}
+					},
+					{
+						"content": "everywhere",
+						"polygon": [
+							281,
+							1355,
+							513,
+							1354,
+							514,
+							1403,
+							283,
+							1403
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 496,
+							"length": 10
+						}
+					},
+					{
+						"content": "in",
+						"polygon": [
+							523,
+							1354,
+							560,
+							1354,
+							560,
+							1403,
+							523,
+							1403
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 507,
+							"length": 2
+						}
+					},
+					{
+						"content": "between.",
+						"polygon": [
+							573,
+							1354,
+							758,
+							1356,
+							758,
+							1400,
+							573,
+							1403
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 510,
+							"length": 8
+						}
+					},
+					{
+						"content": "Enter",
+						"polygon": [
+							251,
+							1540,
+							327,
+							1540,
+							328,
+							1575,
+							252,
+							1574
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 519,
+							"length": 5
+						}
+					},
+					{
+						"content": "your",
+						"polygon": [
+							334,
+							1540,
+							402,
+							1540,
+							402,
+							1575,
+							335,
+							1575
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 525,
+							"length": 4
+						}
+					},
+					{
+						"content": "email",
+						"polygon": [
+							409,
+							1540,
+							488,
+							1539,
+							488,
+							1576,
+							409,
+							1575
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 530,
+							"length": 5
+						}
+					},
+					{
+						"content": "address",
+						"polygon": [
+							495,
+							1539,
+							612,
+							1539,
+							612,
+							1576,
+							495,
+							1576
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 536,
+							"length": 7
+						}
+					},
+					{
+						"content": "Try",
+						"polygon": [
+							200,
+							1672,
+							231,
+							1672,
+							232,
+							1702,
+							200,
+							1702
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 544,
+							"length": 3
+						}
+					},
+					{
+						"content": "Shopify",
+						"polygon": [
+							237,
+							1672,
+							320,
+							1672,
+							320,
+							1702,
+							238,
+							1702
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 548,
+							"length": 7
+						}
+					},
+					{
+						"content": "free",
+						"polygon": [
+							326,
+							1672,
+							369,
+							1672,
+							370,
+							1703,
+							326,
+							1702
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 556,
+							"length": 4
+						}
+					},
+					{
+						"content": "for",
+						"polygon": [
+							375,
+							1672,
+							408,
+							1672,
+							409,
+							1703,
+							375,
+							1703
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 561,
+							"length": 3
+						}
+					},
+					{
+						"content": "3",
+						"polygon": [
+							414,
+							1672,
+							426,
+							1672,
+							427,
+							1703,
+							415,
+							1703
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 565,
+							"length": 1
+						}
+					},
+					{
+						"content": "days,",
+						"polygon": [
+							432,
+							1672,
+							489,
+							1672,
+							490,
+							1703,
+							433,
+							1703
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 567,
+							"length": 5
+						}
+					},
+					{
+						"content": "no",
+						"polygon": [
+							495,
+							1672,
+							524,
+							1672,
+							525,
+							1703,
+							495,
+							1703
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 573,
+							"length": 2
+						}
+					},
+					{
+						"content": "credit",
+						"polygon": [
+							530,
+							1672,
+							593,
+							1672,
+							594,
+							1703,
+							531,
+							1703
+						],
+						"confidence": 0.976,
+						"span": {
+							"offset": 576,
+							"length": 6
+						}
+					},
+					{
+						"content": "card",
+						"polygon": [
+							599,
+							1672,
+							648,
+							1672,
+							649,
+							1703,
+							600,
+							1703
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 583,
+							"length": 4
+						}
+					},
+					{
+						"content": "required.",
+						"polygon": [
+							654,
+							1672,
+							752,
+							1672,
+							753,
+							1703,
+							655,
+							1703
+						],
+						"confidence": 0.961,
+						"span": {
+							"offset": 588,
+							"length": 9
+						}
+					},
+					{
+						"content": "By",
+						"polygon": [
+							758,
+							1672,
+							786,
+							1672,
+							787,
+							1703,
+							759,
+							1703
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 598,
+							"length": 2
+						}
+					},
+					{
+						"content": "entering",
+						"polygon": [
+							792,
+							1672,
+							884,
+							1672,
+							885,
+							1703,
+							792,
+							1703
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 601,
+							"length": 8
+						}
+					},
+					{
+						"content": "your",
+						"polygon": [
+							890,
+							1672,
+							937,
+							1672,
+							938,
+							1703,
+							891,
+							1703
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 610,
+							"length": 4
+						}
+					},
+					{
+						"content": "email,",
+						"polygon": [
+							943,
+							1672,
+							1010,
+							1673,
+							1011,
+							1702,
+							944,
+							1703
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 615,
+							"length": 6
+						}
+					},
+					{
+						"content": "you",
+						"polygon": [
+							1016,
+							1673,
+							1055,
+							1673,
+							1056,
+							1702,
+							1017,
+							1702
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 622,
+							"length": 3
+						}
+					},
+					{
+						"content": "agree",
+						"polygon": [
+							1061,
+							1673,
+							1122,
+							1673,
+							1123,
+							1702,
+							1062,
+							1702
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 626,
+							"length": 5
+						}
+					},
+					{
+						"content": "to",
+						"polygon": [
+							1128,
+							1673,
+							1150,
+							1673,
+							1150,
+							1702,
+							1129,
+							1702
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 632,
+							"length": 2
+						}
+					},
+					{
+						"content": "receive",
+						"polygon": [
+							1156,
+							1673,
+							1238,
+							1673,
+							1239,
+							1702,
+							1156,
+							1702
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 635,
+							"length": 7
+						}
+					},
+					{
+						"content": "marketing",
+						"polygon": [
+							198,
+							1705,
+							308,
+							1705,
+							308,
+							1734,
+							198,
+							1734
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 643,
+							"length": 9
+						}
+					},
+					{
+						"content": "emails",
+						"polygon": [
+							313,
+							1705,
+							384,
+							1705,
+							384,
+							1734,
+							314,
+							1734
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 653,
+							"length": 6
+						}
+					},
+					{
+						"content": "from",
+						"polygon": [
+							389,
+							1705,
+							435,
+							1705,
+							436,
+							1734,
+							390,
+							1734
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 660,
+							"length": 4
+						}
+					},
+					{
+						"content": "Shopify.",
+						"polygon": [
+							449,
+							1705,
+							537,
+							1705,
+							537,
+							1735,
+							449,
+							1734
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 665,
+							"length": 8
+						}
+					},
+					{
+						"content": "Huron",
+						"polygon": [
+							2566,
+							1525,
+							2569,
+							1500,
+							2578,
+							1502,
+							2575,
+							1527
+						],
+						"confidence": 0.525,
+						"span": {
+							"offset": 674,
+							"length": 5
+						}
+					},
+					{
+						"content": "Huron",
+						"polygon": [
+							2570,
+							1489,
+							2573,
+							1461,
+							2583,
+							1463,
+							2579,
+							1491
+						],
+						"confidence": 0.598,
+						"span": {
+							"offset": 680,
+							"length": 5
+						}
+					},
+					{
+						"content": "Start",
+						"polygon": [
+							1006,
+							1541,
+							1078,
+							1540,
+							1079,
+							1571,
+							1007,
+							1571
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 686,
+							"length": 5
+						}
+					},
+					{
+						"content": "free",
+						"polygon": [
+							1084,
+							1540,
+							1144,
+							1540,
+							1144,
+							1571,
+							1085,
+							1571
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 692,
+							"length": 4
+						}
+					},
+					{
+						"content": "trial",
+						"polygon": [
+							1150,
+							1540,
+							1212,
+							1539,
+							1212,
+							1571,
+							1150,
+							1571
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 697,
+							"length": 5
+						}
+					}
+				],
+				"annotations": [
+					{
+						"kind": "cross",
+						"polygon": [
+							2907,
+							146,
+							2937,
+							146,
+							2937,
+							177,
+							2907,
+							177
+						],
+						"confidence": 0.514
+					}
+				],
+				"lines": [
+					{
+						"content": "Arc File",
+						"polygon": [
+							105,
+							23,
+							237,
+							23,
+							237,
+							49,
+							105,
+							49
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "Edit",
+						"polygon": [
+							268,
+							24,
+							326,
+							23,
+							326,
+							47,
+							268,
+							47
+						],
+						"spans": [
+							{
+								"offset": 9,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "View",
+						"polygon": [
+							361,
+							24,
+							426,
+							24,
+							426,
+							48,
+							361,
+							47
+						],
+						"spans": [
+							{
+								"offset": 14,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "Spaces",
+						"polygon": [
+							463,
+							24,
+							558,
+							24,
+							558,
+							51,
+							463,
+							51
+						],
+						"spans": [
+							{
+								"offset": 19,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Archive",
+						"polygon": [
+							691,
+							22,
+							787,
+							23,
+							787,
+							50,
+							691,
+							49
+						],
+						"spans": [
+							{
+								"offset": 26,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Extensions",
+						"polygon": [
+							821,
+							23,
+							962,
+							23,
+							962,
+							49,
+							821,
+							48
+						],
+						"spans": [
+							{
+								"offset": 34,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "Window",
+						"polygon": [
+							994,
+							23,
+							1095,
+							23,
+							1095,
+							49,
+							993,
+							48
+						],
+						"spans": [
+							{
+								"offset": 45,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Help",
+						"polygon": [
+							1132,
+							23,
+							1190,
+							24,
+							1190,
+							52,
+							1132,
+							50
+						],
+						"spans": [
+							{
+								"offset": 52,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "Fri Apr 14 10:36 AM",
+						"polygon": [
+							2733,
+							20,
+							2995,
+							19,
+							2995,
+							51,
+							2733,
+							52
+						],
+						"spans": [
+							{
+								"offset": 57,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "Tabs",
+						"polygon": [
+							593,
+							23,
+							653,
+							24,
+							653,
+							48,
+							594,
+							48
+						],
+						"spans": [
+							{
+								"offset": 77,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "US",
+						"polygon": [
+							2313,
+							26,
+							2340,
+							25,
+							2341,
+							46,
+							2313,
+							46
+						],
+						"spans": [
+							{
+								"offset": 82,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "Start a free trial and enjoy 3 months of Shopify for $1/month on select plans. Sign up now",
+						"polygon": [
+							766,
+							142,
+							2229,
+							143,
+							2229,
+							185,
+							766,
+							184
+						],
+						"spans": [
+							{
+								"offset": 85,
+								"length": 90
+							}
+						]
+					},
+					{
+						"content": "X",
+						"polygon": [
+							2907,
+							144,
+							2938,
+							143,
+							2940,
+							176,
+							2909,
+							176
+						],
+						"spans": [
+							{
+								"offset": 176,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "S",
+						"polygon": [
+							208,
+							280,
+							237,
+							280,
+							238,
+							328,
+							208,
+							327
+						],
+						"spans": [
+							{
+								"offset": 178,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "shopify",
+						"polygon": [
+							266,
+							276,
+							449,
+							276,
+							450,
+							335,
+							266,
+							338
+						],
+						"spans": [
+							{
+								"offset": 180,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Solutions",
+						"polygon": [
+							543,
+							285,
+							693,
+							285,
+							692,
+							315,
+							543,
+							314
+						],
+						"spans": [
+							{
+								"offset": 188,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "v",
+						"polygon": [
+							699,
+							288,
+							728,
+							288,
+							728,
+							314,
+							699,
+							313
+						],
+						"spans": [
+							{
+								"offset": 198,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "Pricing",
+						"polygon": [
+							790,
+							284,
+							895,
+							287,
+							894,
+							318,
+							790,
+							315
+						],
+						"spans": [
+							{
+								"offset": 200,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Resources",
+						"polygon": [
+							955,
+							285,
+							1118,
+							287,
+							1117,
+							315,
+							955,
+							313
+						],
+						"spans": [
+							{
+								"offset": 208,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "v",
+						"polygon": [
+							1125,
+							289,
+							1156,
+							289,
+							1157,
+							314,
+							1126,
+							314
+						],
+						"spans": [
+							{
+								"offset": 218,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "Log in",
+						"polygon": [
+							2341,
+							279,
+							2433,
+							279,
+							2433,
+							324,
+							2340,
+							324
+						],
+						"spans": [
+							{
+								"offset": 220,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Watch a 2 min Shopify overview",
+						"polygon": [
+							250,
+							482,
+							748,
+							482,
+							748,
+							518,
+							250,
+							517
+						],
+						"spans": [
+							{
+								"offset": 227,
+								"length": 30
+							}
+						]
+					},
+					{
+						"content": "The global",
+						"polygon": [
+							194,
+							629,
+							1121,
+							629,
+							1121,
+							825,
+							194,
+							825
+						],
+						"spans": [
+							{
+								"offset": 258,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "commerce",
+						"polygon": [
+							199,
+							844,
+							1145,
+							841,
+							1146,
+							986,
+							199,
+							990
+						],
+						"spans": [
+							{
+								"offset": 269,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "platform",
+						"polygon": [
+							199,
+							1017,
+							962,
+							1011,
+							967,
+							1201,
+							199,
+							1221
+						],
+						"spans": [
+							{
+								"offset": 278,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "Start free trial",
+						"polygon": [
+							2541,
+							277,
+							2749,
+							277,
+							2749,
+							308,
+							2542,
+							309
+						],
+						"spans": [
+							{
+								"offset": 287,
+								"length": 16
+							}
+						]
+					},
+					{
+						"content": "MR BEAST",
+						"polygon": [
+							2413,
+							667,
+							2696,
+							667,
+							2696,
+							726,
+							2413,
+							726
+						],
+						"spans": [
+							{
+								"offset": 304,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "Plant",
+						"polygon": [
+							1951,
+							1029,
+							2020,
+							1029,
+							2019,
+							1054,
+							1951,
+							1053
+						],
+						"spans": [
+							{
+								"offset": 313,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "$175.25",
+						"polygon": [
+							2153,
+							1029,
+							2252,
+							1029,
+							2252,
+							1057,
+							2153,
+							1057
+						],
+						"spans": [
+							{
+								"offset": 319,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Paid",
+						"polygon": [
+							2184,
+							976,
+							2240,
+							974,
+							2240,
+							997,
+							2184,
+							996
+						],
+						"spans": [
+							{
+								"offset": 327,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "S",
+						"polygon": [
+							2535,
+							802,
+							2564,
+							802,
+							2563,
+							853,
+							2535,
+							850
+						],
+						"spans": [
+							{
+								"offset": 332,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "MrBeast",
+						"polygon": [
+							2484,
+							972,
+							2624,
+							972,
+							2624,
+							1003,
+							2485,
+							1003
+						],
+						"spans": [
+							{
+								"offset": 334,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Entrepreneur",
+						"polygon": [
+							2484,
+							1020,
+							2625,
+							1020,
+							2625,
+							1043,
+							2484,
+							1043
+						],
+						"spans": [
+							{
+								"offset": 342,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "'S",
+						"polygon": [
+							2360,
+							1182,
+							2379,
+							1182,
+							2379,
+							1209,
+							2360,
+							1208
+						],
+						"spans": [
+							{
+								"offset": 355,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "Shopify",
+						"polygon": [
+							2419,
+							1171,
+							2506,
+							1171,
+							2506,
+							1197,
+							2419,
+							1195
+						],
+						"spans": [
+							{
+								"offset": 358,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Cha-Ching! You have a new",
+						"polygon": [
+							2421,
+							1210,
+							2714,
+							1210,
+							2714,
+							1236,
+							2421,
+							1236
+						],
+						"spans": [
+							{
+								"offset": 366,
+								"length": 25
+							}
+						]
+					},
+					{
+						"content": "order for 2 items totalling $140.",
+						"polygon": [
+							2420,
+							1241,
+							2763,
+							1241,
+							2763,
+							1268,
+							2420,
+							1268
+						],
+						"spans": [
+							{
+								"offset": 392,
+								"length": 33
+							}
+						]
+					},
+					{
+						"content": "14m ago",
+						"polygon": [
+							2676,
+							1171,
+							2770,
+							1172,
+							2769,
+							1197,
+							2676,
+							1195
+						],
+						"spans": [
+							{
+								"offset": 426,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Build your business with Shopify to sell online, offline,",
+						"polygon": [
+							199,
+							1285,
+							1272,
+							1284,
+							1272,
+							1335,
+							199,
+							1336
+						],
+						"spans": [
+							{
+								"offset": 434,
+								"length": 57
+							}
+						]
+					},
+					{
+						"content": "and everywhere in between.",
+						"polygon": [
+							197,
+							1354,
+							757,
+							1353,
+							758,
+							1402,
+							197,
+							1403
+						],
+						"spans": [
+							{
+								"offset": 492,
+								"length": 26
+							}
+						]
+					},
+					{
+						"content": "Enter your email address",
+						"polygon": [
+							250,
+							1539,
+							612,
+							1539,
+							612,
+							1575,
+							250,
+							1574
+						],
+						"spans": [
+							{
+								"offset": 519,
+								"length": 24
+							}
+						]
+					},
+					{
+						"content": "Try Shopify free for 3 days, no credit card required. By entering your email, you agree to receive",
+						"polygon": [
+							198,
+							1672,
+							1239,
+							1672,
+							1239,
+							1702,
+							198,
+							1702
+						],
+						"spans": [
+							{
+								"offset": 544,
+								"length": 98
+							}
+						]
+					},
+					{
+						"content": "marketing emails from Shopify.",
+						"polygon": [
+							197,
+							1704,
+							537,
+							1704,
+							537,
+							1734,
+							197,
+							1733
+						],
+						"spans": [
+							{
+								"offset": 643,
+								"length": 30
+							}
+						]
+					},
+					{
+						"content": "Huron Huron",
+						"polygon": [
+							2566,
+							1525,
+							2573,
+							1455,
+							2583,
+							1456,
+							2575,
+							1526
+						],
+						"spans": [
+							{
+								"offset": 674,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "Start free trial",
+						"polygon": [
+							1004,
+							1539,
+							1212,
+							1538,
+							1212,
+							1570,
+							1004,
+							1571
+						],
+						"spans": [
+							{
+								"offset": 686,
+								"length": 16
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 702
+					}
+				],
+				"kind": "document"
+			}
+		],
+		"tables": [],
+		"paragraphs": [
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 8
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							105,
+							23,
+							237,
+							23,
+							237,
+							49,
+							105,
+							49
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Arc File"
+			},
+			{
+				"spans": [
+					{
+						"offset": 9,
+						"length": 4
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							268,
+							23,
+							326,
+							23,
+							326,
+							47,
+							268,
+							47
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Edit"
+			},
+			{
+				"spans": [
+					{
+						"offset": 14,
+						"length": 4
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							361,
+							24,
+							426,
+							24,
+							426,
+							48,
+							361,
+							48
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "View"
+			},
+			{
+				"spans": [
+					{
+						"offset": 19,
+						"length": 6
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							463,
+							24,
+							558,
+							24,
+							558,
+							51,
+							463,
+							51
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Spaces"
+			},
+			{
+				"spans": [
+					{
+						"offset": 26,
+						"length": 7
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							691,
+							22,
+							787,
+							23,
+							787,
+							50,
+							691,
+							49
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Archive"
+			},
+			{
+				"spans": [
+					{
+						"offset": 34,
+						"length": 10
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							821,
+							23,
+							962,
+							23,
+							962,
+							49,
+							821,
+							49
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Extensions"
+			},
+			{
+				"spans": [
+					{
+						"offset": 45,
+						"length": 6
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							993,
+							23,
+							1095,
+							23,
+							1095,
+							49,
+							993,
+							49
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Window"
+			},
+			{
+				"spans": [
+					{
+						"offset": 52,
+						"length": 4
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1132,
+							23,
+							1190,
+							24,
+							1190,
+							52,
+							1132,
+							51
+						]
+					}
+				],
+				"role": "pageNumber",
+				"content": "Help"
+			},
+			{
+				"spans": [
+					{
+						"offset": 57,
+						"length": 19
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2733,
+							20,
+							2995,
+							19,
+							2995,
+							51,
+							2733,
+							52
+						]
+					}
+				],
+				"role": "pageHeader",
+				"content": "Fri Apr 14 10:36 AM"
+			},
+			{
+				"spans": [
+					{
+						"offset": 77,
+						"length": 4
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							593,
+							23,
+							653,
+							23,
+							653,
+							48,
+							593,
+							48
+						]
+					}
+				],
+				"content": "Tabs"
+			},
+			{
+				"spans": [
+					{
+						"offset": 82,
+						"length": 2
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2313,
+							25,
+							2341,
+							25,
+							2341,
+							46,
+							2313,
+							46
+						]
+					}
+				],
+				"content": "US"
+			},
+			{
+				"spans": [
+					{
+						"offset": 85,
+						"length": 90
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							766,
+							142,
+							2229,
+							143,
+							2229,
+							185,
+							766,
+							184
+						]
+					}
+				],
+				"role": "title",
+				"content": "Start a free trial and enjoy 3 months of Shopify for $1/month on select plans. Sign up now"
+			},
+			{
+				"spans": [
+					{
+						"offset": 176,
+						"length": 1
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2907,
+							144,
+							2938,
+							142,
+							2940,
+							176,
+							2909,
+							178
+						]
+					}
+				],
+				"role": "pageNumber",
+				"content": "X"
+			},
+			{
+				"spans": [
+					{
+						"offset": 178,
+						"length": 1
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							208,
+							280,
+							238,
+							280,
+							238,
+							328,
+							208,
+							328
+						]
+					}
+				],
+				"content": "S"
+			},
+			{
+				"spans": [
+					{
+						"offset": 180,
+						"length": 7
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							266,
+							276,
+							450,
+							276,
+							450,
+							338,
+							266,
+							338
+						]
+					}
+				],
+				"content": "shopify"
+			},
+			{
+				"spans": [
+					{
+						"offset": 188,
+						"length": 19
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							543,
+							281,
+							895,
+							285,
+							895,
+							318,
+							543,
+							314
+						]
+					}
+				],
+				"content": "Solutions v Pricing"
+			},
+			{
+				"spans": [
+					{
+						"offset": 208,
+						"length": 11
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							955,
+							285,
+							1157,
+							287,
+							1157,
+							315,
+							955,
+							313
+						]
+					}
+				],
+				"content": "Resources v"
+			},
+			{
+				"spans": [
+					{
+						"offset": 220,
+						"length": 6
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2340,
+							279,
+							2433,
+							279,
+							2433,
+							324,
+							2340,
+							324
+						]
+					}
+				],
+				"content": "Log in"
+			},
+			{
+				"spans": [
+					{
+						"offset": 227,
+						"length": 30
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							250,
+							482,
+							748,
+							482,
+							748,
+							518,
+							250,
+							518
+						]
+					}
+				],
+				"content": "Watch a 2 min Shopify overview"
+			},
+			{
+				"spans": [
+					{
+						"offset": 258,
+						"length": 28
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							192,
+							629,
+							1142,
+							617,
+							1150,
+							1209,
+							199,
+							1221
+						]
+					}
+				],
+				"content": "The global commerce platform"
+			},
+			{
+				"spans": [
+					{
+						"offset": 287,
+						"length": 16
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2541,
+							277,
+							2749,
+							277,
+							2749,
+							309,
+							2541,
+							309
+						]
+					}
+				],
+				"content": "Start free trial"
+			},
+			{
+				"spans": [
+					{
+						"offset": 304,
+						"length": 8
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2413,
+							667,
+							2696,
+							667,
+							2696,
+							726,
+							2413,
+							726
+						]
+					}
+				],
+				"content": "MR BEAST"
+			},
+			{
+				"spans": [
+					{
+						"offset": 313,
+						"length": 13
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1951,
+							1029,
+							2252,
+							1029,
+							2252,
+							1057,
+							1951,
+							1057
+						]
+					}
+				],
+				"content": "Plant $175.25"
+			},
+			{
+				"spans": [
+					{
+						"offset": 327,
+						"length": 4
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2184,
+							974,
+							2240,
+							974,
+							2240,
+							997,
+							2184,
+							997
+						]
+					}
+				],
+				"content": "Paid"
+			},
+			{
+				"spans": [
+					{
+						"offset": 332,
+						"length": 1
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2535,
+							802,
+							2564,
+							802,
+							2564,
+							853,
+							2535,
+							853
+						]
+					}
+				],
+				"content": "S"
+			},
+			{
+				"spans": [
+					{
+						"offset": 334,
+						"length": 20
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2484,
+							972,
+							2625,
+							972,
+							2625,
+							1043,
+							2484,
+							1043
+						]
+					}
+				],
+				"content": "MrBeast Entrepreneur"
+			},
+			{
+				"spans": [
+					{
+						"offset": 355,
+						"length": 2
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2360,
+							1182,
+							2379,
+							1182,
+							2379,
+							1209,
+							2360,
+							1209
+						]
+					}
+				],
+				"content": "'S"
+			},
+			{
+				"spans": [
+					{
+						"offset": 358,
+						"length": 67
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2419,
+							1171,
+							2763,
+							1171,
+							2763,
+							1268,
+							2419,
+							1268
+						]
+					}
+				],
+				"content": "Shopify Cha-Ching! You have a new order for 2 items totalling $140."
+			},
+			{
+				"spans": [
+					{
+						"offset": 426,
+						"length": 7
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2676,
+							1171,
+							2770,
+							1172,
+							2770,
+							1197,
+							2676,
+							1196
+						]
+					}
+				],
+				"content": "14m ago"
+			},
+			{
+				"spans": [
+					{
+						"offset": 434,
+						"length": 84
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							197,
+							1285,
+							1272,
+							1284,
+							1272,
+							1402,
+							197,
+							1403
+						]
+					}
+				],
+				"content": "Build your business with Shopify to sell online, offline, and everywhere in between."
+			},
+			{
+				"spans": [
+					{
+						"offset": 519,
+						"length": 24
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							250,
+							1539,
+							612,
+							1539,
+							612,
+							1575,
+							250,
+							1575
+						]
+					}
+				],
+				"content": "Enter your email address"
+			},
+			{
+				"spans": [
+					{
+						"offset": 544,
+						"length": 129
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							197,
+							1672,
+							1239,
+							1672,
+							1239,
+							1734,
+							197,
+							1734
+						]
+					}
+				],
+				"content": "Try Shopify free for 3 days, no credit card required. By entering your email, you agree to receive marketing emails from Shopify."
+			},
+			{
+				"spans": [
+					{
+						"offset": 674,
+						"length": 11
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2573,
+							1455,
+							2583,
+							1456,
+							2576,
+							1526,
+							2566,
+							1525
+						]
+					}
+				],
+				"content": "Huron Huron"
+			},
+			{
+				"spans": [
+					{
+						"offset": 686,
+						"length": 16
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1004,
+							1539,
+							1212,
+							1538,
+							1212,
+							1570,
+							1004,
+							1571
+						]
+					}
+				],
+				"role": "pageFooter",
+				"content": "Start free trial"
+			}
+		],
+		"styles": []
+	}
+}

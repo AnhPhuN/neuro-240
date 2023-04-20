@@ -1,0 +1,818 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2023-04-17T04:32:44Z",
+	"lastUpdatedDateTime": "2023-04-17T04:32:45Z",
+	"analyzeResult": {
+		"apiVersion": "2023-02-28-preview",
+		"modelId": "prebuilt-layout",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "...\nAlexandria Ocasio-Cortez V @AOC · 4h Someone call Lucia the seamstress to fix this. I believe in her\n1,620\n14.9K\n93.2K\n8.7M :unselected: :selected:",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": -0.37940001487731934,
+				"width": 1198,
+				"height": 202,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "...",
+						"polygon": [
+							1131,
+							47,
+							1159,
+							47,
+							1159,
+							57,
+							1131,
+							58
+						],
+						"confidence": 0.909,
+						"span": {
+							"offset": 0,
+							"length": 3
+						}
+					},
+					{
+						"content": "Alexandria",
+						"polygon": [
+							152,
+							38,
+							307,
+							37,
+							306,
+							70,
+							151,
+							68
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 4,
+							"length": 10
+						}
+					},
+					{
+						"content": "Ocasio-Cortez",
+						"polygon": [
+							315,
+							37,
+							527,
+							39,
+							528,
+							68,
+							315,
+							70
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 15,
+							"length": 13
+						}
+					},
+					{
+						"content": "V",
+						"polygon": [
+							541,
+							41,
+							555,
+							41,
+							555,
+							65,
+							542,
+							65
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 29,
+							"length": 1
+						}
+					},
+					{
+						"content": "@AOC",
+						"polygon": [
+							576,
+							39,
+							660,
+							39,
+							660,
+							67,
+							576,
+							68
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 31,
+							"length": 4
+						}
+					},
+					{
+						"content": "·",
+						"polygon": [
+							671,
+							39,
+							685,
+							39,
+							685,
+							67,
+							671,
+							67
+						],
+						"confidence": 0.526,
+						"span": {
+							"offset": 36,
+							"length": 1
+						}
+					},
+					{
+						"content": "4h",
+						"polygon": [
+							691,
+							39,
+							722,
+							38,
+							722,
+							67,
+							691,
+							67
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 38,
+							"length": 2
+						}
+					},
+					{
+						"content": "Someone",
+						"polygon": [
+							153,
+							82,
+							282,
+							82,
+							282,
+							112,
+							153,
+							112
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 41,
+							"length": 7
+						}
+					},
+					{
+						"content": "call",
+						"polygon": [
+							288,
+							82,
+							338,
+							82,
+							338,
+							112,
+							288,
+							112
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 49,
+							"length": 4
+						}
+					},
+					{
+						"content": "Lucia",
+						"polygon": [
+							344,
+							82,
+							418,
+							82,
+							418,
+							112,
+							344,
+							112
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 54,
+							"length": 5
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							424,
+							82,
+							468,
+							82,
+							468,
+							112,
+							424,
+							112
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 60,
+							"length": 3
+						}
+					},
+					{
+						"content": "seamstress",
+						"polygon": [
+							476,
+							82,
+							636,
+							82,
+							636,
+							113,
+							476,
+							112
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 64,
+							"length": 10
+						}
+					},
+					{
+						"content": "to",
+						"polygon": [
+							642,
+							82,
+							670,
+							82,
+							670,
+							113,
+							642,
+							113
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 75,
+							"length": 2
+						}
+					},
+					{
+						"content": "fix",
+						"polygon": [
+							676,
+							82,
+							710,
+							82,
+							710,
+							113,
+							676,
+							113
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 78,
+							"length": 3
+						}
+					},
+					{
+						"content": "this.",
+						"polygon": [
+							716,
+							82,
+							776,
+							82,
+							776,
+							113,
+							716,
+							113
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 82,
+							"length": 5
+						}
+					},
+					{
+						"content": "I",
+						"polygon": [
+							782,
+							82,
+							792,
+							82,
+							792,
+							113,
+							782,
+							113
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 88,
+							"length": 1
+						}
+					},
+					{
+						"content": "believe",
+						"polygon": [
+							798,
+							82,
+							895,
+							82,
+							895,
+							113,
+							798,
+							113
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 90,
+							"length": 7
+						}
+					},
+					{
+						"content": "in",
+						"polygon": [
+							901,
+							82,
+							925,
+							82,
+							925,
+							113,
+							901,
+							113
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 98,
+							"length": 2
+						}
+					},
+					{
+						"content": "her",
+						"polygon": [
+							935,
+							82,
+							984,
+							82,
+							984,
+							113,
+							935,
+							113
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 101,
+							"length": 3
+						}
+					},
+					{
+						"content": "1,620",
+						"polygon": [
+							214,
+							150,
+							277,
+							149,
+							278,
+							176,
+							215,
+							177
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 105,
+							"length": 5
+						}
+					},
+					{
+						"content": "14.9K",
+						"polygon": [
+							418,
+							150,
+							479,
+							150,
+							479,
+							175,
+							418,
+							174
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 111,
+							"length": 5
+						}
+					},
+					{
+						"content": "93.2K",
+						"polygon": [
+							622,
+							150,
+							687,
+							150,
+							688,
+							175,
+							622,
+							175
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 117,
+							"length": 5
+						}
+					},
+					{
+						"content": "8.7M",
+						"polygon": [
+							831,
+							148,
+							878,
+							148,
+							878,
+							175,
+							832,
+							175
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 123,
+							"length": 4
+						}
+					}
+				],
+				"selectionMarks": [
+					{
+						"state": "unselected",
+						"polygon": [
+							151,
+							141,
+							191,
+							141,
+							191,
+							175,
+							151,
+							175
+						],
+						"confidence": 0.702,
+						"span": {
+							"offset": 128,
+							"length": 12
+						}
+					},
+					{
+						"state": "selected",
+						"polygon": [
+							559,
+							144,
+							600,
+							144,
+							600,
+							177,
+							559,
+							177
+						],
+						"confidence": 0.514,
+						"span": {
+							"offset": 141,
+							"length": 10
+						}
+					}
+				],
+				"lines": [
+					{
+						"content": "...",
+						"polygon": [
+							1129,
+							47,
+							1160,
+							47,
+							1160,
+							57,
+							1130,
+							58
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "Alexandria Ocasio-Cortez",
+						"polygon": [
+							149,
+							37,
+							528,
+							37,
+							528,
+							69,
+							149,
+							68
+						],
+						"spans": [
+							{
+								"offset": 4,
+								"length": 24
+							}
+						]
+					},
+					{
+						"content": "V",
+						"polygon": [
+							540,
+							41,
+							560,
+							41,
+							560,
+							64,
+							540,
+							65
+						],
+						"spans": [
+							{
+								"offset": 29,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "@AOC · 4h",
+						"polygon": [
+							574,
+							38,
+							725,
+							37,
+							725,
+							66,
+							574,
+							67
+						],
+						"spans": [
+							{
+								"offset": 31,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "Someone call Lucia the seamstress to fix this. I believe in her",
+						"polygon": [
+							151,
+							81,
+							983,
+							81,
+							983,
+							112,
+							151,
+							112
+						],
+						"spans": [
+							{
+								"offset": 41,
+								"length": 63
+							}
+						]
+					},
+					{
+						"content": "1,620",
+						"polygon": [
+							211,
+							150,
+							278,
+							149,
+							279,
+							175,
+							210,
+							177
+						],
+						"spans": [
+							{
+								"offset": 105,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "14.9K",
+						"polygon": [
+							411,
+							149,
+							486,
+							149,
+							485,
+							174,
+							411,
+							174
+						],
+						"spans": [
+							{
+								"offset": 111,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "93.2K",
+						"polygon": [
+							620,
+							150,
+							694,
+							150,
+							694,
+							174,
+							620,
+							174
+						],
+						"spans": [
+							{
+								"offset": 117,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "8.7M",
+						"polygon": [
+							824,
+							148,
+							890,
+							148,
+							890,
+							174,
+							823,
+							175
+						],
+						"spans": [
+							{
+								"offset": 123,
+								"length": 4
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 151
+					}
+				],
+				"kind": "document"
+			}
+		],
+		"tables": [],
+		"paragraphs": [
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 3
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1129,
+							47,
+							1160,
+							47,
+							1160,
+							58,
+							1129,
+							58
+						]
+					}
+				],
+				"role": "pageNumber",
+				"content": "..."
+			},
+			{
+				"spans": [
+					{
+						"offset": 4,
+						"length": 100
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							149,
+							37,
+							983,
+							37,
+							983,
+							112,
+							149,
+							112
+						]
+					}
+				],
+				"content": "Alexandria Ocasio-Cortez V @AOC · 4h Someone call Lucia the seamstress to fix this. I believe in her"
+			},
+			{
+				"spans": [
+					{
+						"offset": 105,
+						"length": 5
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							209,
+							150,
+							278,
+							148,
+							279,
+							175,
+							210,
+							177
+						]
+					}
+				],
+				"role": "pageFooter",
+				"content": "1,620"
+			},
+			{
+				"spans": [
+					{
+						"offset": 111,
+						"length": 5
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							411,
+							149,
+							486,
+							149,
+							486,
+							174,
+							411,
+							174
+						]
+					}
+				],
+				"role": "pageFooter",
+				"content": "14.9K"
+			},
+			{
+				"spans": [
+					{
+						"offset": 117,
+						"length": 5
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							620,
+							150,
+							694,
+							150,
+							694,
+							174,
+							620,
+							174
+						]
+					}
+				],
+				"role": "pageFooter",
+				"content": "93.2K"
+			},
+			{
+				"spans": [
+					{
+						"offset": 123,
+						"length": 4
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							823,
+							148,
+							890,
+							148,
+							890,
+							175,
+							823,
+							175
+						]
+					}
+				],
+				"role": "pageFooter",
+				"content": "8.7M"
+			}
+		],
+		"styles": [
+			{
+				"confidence": 0.7,
+				"spans": [
+					{
+						"offset": 29,
+						"length": 1
+					}
+				],
+				"isHandwritten": true
+			}
+		]
+	}
+}
