@@ -33,12 +33,13 @@ def callAPI(imgPath):
 
     return json_string
 
-for i in range(16, 40):
-    print("doing number ", i)
-    imgPath = "data/screenshots/" + str(i) + ".png"
-    json_string = callAPI(imgPath)
+if __name__ == "__main__":
+    for i in range(16, 40):
+        print("doing number ", i)
+        imgPath = "data/screenshots/" + str(i) + ".png"
+        json_string = callAPI(imgPath)
 
-    with open("data/rawLabels/" + str(i) + ".json", "w") as file:
-        file.write(json_string)
+        with open("data/rawLabels/" + str(i) + ".json", "w") as file:
+            file.write(json_string)
 
 

@@ -8,8 +8,8 @@ def getCompletion(screen_content, user_prompt):
     openai.api_key = os.getenv("OPENAI_API_KEY")
 
     response = openai.ChatCompletion.create(
-    #   model="gpt-3.5-turbo",
-      model="gpt-4",
+        model="gpt-3.5-turbo",
+    #   model="gpt-4",
       messages=[
             {"role": "system", "content": start_prompt},
             {"role": "user", "content": screen_content + "\n\n" + user_prompt + "\n\n" + suffix}
@@ -32,19 +32,20 @@ with open('data/labels/qa_labels.json', 'r') as f:
 with open('data/labels/predictions.json') as f:
     predictions = json.load(f)
 
-for i in range(3, 16):
-    print("Doing: ", i)
-    with open("data/labelsformatted/"+str(i)+".txt", "r") as f:
-        screen_data = f.read()
-    questions = [d["Question"] for d in qa_labels[str(i)]]
-    user_prompts = "\n".join(["- " + item for item in questions])
-    response = getCompletion(screen_data, user_prompts)
-    print("RESPONSE: ", response)
-    responses = my_array = response.split("###")
-    print("responses", responses)
-    predictions[str(i)].append(responses)
+if __name__ == "__main__":
+    for i in range(0, 26):
+        print("Doing: ", i)
+        with open("data/labelsformatted/"+str(i)+".txt", "r") as f:
+            screen_data = f.read()
+        questions = [d["Question"] for d in qa_labels[str(i)]]
+        user_prompts = "\n".join(["- " + item for item in questions])
+        response = getCompletion(screen_data, user_prompts)
+        print("RESPONSE: ", response)
+        responses = my_array = response.split("###")
+        print("responses", responses)
+        predictions[str(i)].append(responses)
 
 
-# Write the updated data back to the JSON file 
-with open("data/labels/predictions.json", "w") as f:
-    json.dump(predictions, f)
+    # Write the updated data back to the JSON file 
+    with open("data/labels/predictions-3.5.json", "w") as f:
+        json.dump(predictions, f)

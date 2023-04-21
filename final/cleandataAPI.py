@@ -25,6 +25,7 @@ def cleanData(filename):
         for element in formatted_paragraph:
             file.write(str(element) + "\n")
 
-for i in range(16, 40):
-    print("doing num: ", i)
-    cleanData(str(i) + ".json")
+if __name__ == "__main__":
+    for i in range(0, 40):
+        print("doing num: ", i)
+        cleanData(str(i) + ".json")
