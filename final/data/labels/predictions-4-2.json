@@ -1,0 +1,254 @@
+{
+  "0": [
+    [
+      "'write(), press(), keyDown(), keyUp()' ",
+      " 'Installation Cheat Sheet, Mouse Control Functions, Keyboard Control Functions, Message Box Functions, Screenshot Functions, Testing Roadmap, pyautogui' ",
+      " 'This page is describing the PyAutoGUI keyboard control functions, including write(), press(), keyDown(), and keyUp() functions.'"
+    ]
+  ],
+  "1": [
+    [
+      "'this chat is mainly discussing Python code, specifically converting an integer to a string, and some other topics like document analysis and EM algorithms' ",
+      " 'There is no additional information provided for the menu items under \"Clear Conversations\"' ",
+      " 'You would click at the position [110,130,230,170] on the screen to make a new chat' ",
+      " 'The chat suggests using the str() function to change an integer into a string, like this: s = str(x)'"
+    ]
+  ],
+  "2": [
+    [
+      "'Amazon released \"Bedrock\", a generative Al toolkit for chat, text and image.' ",
+      " '17h' ",
+      " '@elonmusk . 3h' ",
+      " 'jamessinka.eth @jamessinka, Elijah Kofke @ProteinMasseuse, Jane Chuprin @janechuprin' ",
+      " 'GPT-5, Boeing, Boston Marathon'"
+    ]
+  ],
+  "3": [
+    [
+      "'OpenAI' ",
+      " 'Arc File, Edit, View, Spaces, Tabs, Archive, Extensions, Window, Help' ",
+      " 'Edit, View, Spaces, Tabs, Archive, Extensions, Window, Help, Company' ",
+      " 'Yes'"
+    ]
+  ],
+  "4": [
+    [
+      "'Q sublimation printing' ",
+      " 'About 1,460,000 results' ",
+      " 'Sublimation is the transition of a substance directly from the solid to the gas state, without passing through the liquid state. Sublimation is an endothermic process that occurs at temperatures and p...' ",
+      " 'What is sublimation printing? Explained in 4 minutes!'"
+    ]
+  ],
+  "5": [
+    [
+      "'How Does Sublimation Printing Work? The Complete Guide' ",
+      " '3. Dye sublimation supplies' ",
+      " '5. Sublimation heat presses' ",
+      " 'Yes' ",
+      " 'spreadshop' ",
+      " 'MAKE & SELL YOUR OWN MERCH, FREE!'"
+    ]
+  ],
+  "6": [
+    [
+      "'YouTube' ",
+      " 'Sublimation for Beginners: What is Sublimation Printing?' ",
+      " 'Southpaw's Studio' ",
+      " '0:01 / 6:06' ",
+      " 'Sublimation for Beginners: Printers, Ink, Paper, and ... Jennifer Maker' ",
+      " 'Intro to Machine Learning & Neural Networks. How Do The ... Math and Science'"
+    ]
+  ],
+  "7": [
+    [
+      "'Gmail' ",
+      " 'Ask a Sexpert! What Media Doesn't Teach about Sex; 9:58 AM' ",
+      " 'Gabrielle Landry; FREE OUTDOOR PARKOUR CLASS TODAY' ",
+      " 'Your Thursday afternoon trip with Uber Total $21.21; 6 emails'"
+    ]
+  ],
+  "8": [
+    [
+      "'Enter your email address' ",
+      " 'Solutions Pricing' ",
+      " 'Shopify home page' ",
+      " 'Start a free trial and enjoy 3 months of Shopify for $1/month on select plans. Sign up now' ",
+      " 'located at (760,140,2220,180)'"
+    ]
+  ],
+  "9": [["'Signing in to HarvardKey' ", " 'Arc File'"]],
+  "10": [
+    [
+      "'COMPSCI 181' ",
+      " 'Course Schedule, Weekly Section and OH Schedule, Course Textbook (.pdf)' ",
+      " 'BB Groups, Calendar, .36, Inbox, History, Help' ",
+      " '6'"
+    ]
+  ],
+  "11": [
+    [
+      "\"Synchronous & Interactive Course Components\" ",
+      " 6 ",
+      " \"What is it?\" and \"Why attend class meetings?\""
+    ]
+  ],
+  "12": [
+    [
+      "'COMPSCI 181' ",
+      " 'V Midterm Report' ",
+      " 'Mar 31 at 10am' ",
+      " 'ES94 jackets (!) and idea'"
+    ]
+  ],
+  "13": [
+    [
+      "36 ",
+      " ENG-SCI 94 > Assignments > Class 12: Term Sheet Math ",
+      " Due Mar 6 by 11:59pm ",
+      " 3"
+    ]
+  ],
+  "14": [
+    [
+      "'ENG-SCI 94 > Assignments > Class 25: Student presentations of projects' ",
+      " '4 AM ON THE DAY OF CLASS' ",
+      " 'Fri Apr 14 10:36 AM'"
+    ]
+  ],
+  "15": [["\"Home > ENG-SCI 94 > People\" ", " \"Syllabus\""]],
+  "16": [
+    [
+      "'You are on a page describing Caroline Abel's Access Report for the course ENG-SCI 94' ",
+      " 'No contact info is provided' ",
+      " 'Caroline Abel hasn't added a bio' ",
+      " 'ENG-SCI 94 is a course on Entrepreneurship and Innovation: Practical and Academic Insights'"
+    ]
+  ],
+  "17": [["\"Cases\" ", " \"Jan 26, 2023\""]],
+  "18": [
+    [
+      "'Gusto mail.google.com Important: Avoid logging into impostor sites' ",
+      " '1 of 16'"
+    ]
+  ],
+  "19": [
+    [
+      "'Calendar' tab is not visible on the screen ",
+      " There is no content in the middle of the screen"
+    ]
+  ],
+  "20": [
+    [
+      "You are looking at a calendar or planner page, describing events, deadlines, and course schedules. ",
+      " On Wednesday, April 19th, there are two things: \"10:00am Instructor OH\" and \"Due 11:59pm Class 23: In-Q-Tel\" ",
+      " There are 3 dates with deadlines shown on this page."
+    ]
+  ],
+  "21": [
+    [
+      "This page is showing a calendar with daily events and tasks in the main area of the screen. ",
+      " On Friday the 14th, there is a 10:00 - 11:00 Instructor OH event. ",
+      " The Friday Instructor OH event is from 10:00 AM to 11:00 AM. ",
+      " This calendar spans from April 9th to April 15th."
+    ]
+  ],
+  "22": [
+    [
+      "This page is about \"Panoptic Segmentation-Based Attention for Image Captioning\" ",
+      " Wenjie Cai, Zheng Xiong, and Xianfang Sun ",
+      " Published: 4 January 2020 ",
+      " The paper is about a new image captioning model that uses panoptic segmentation-based attention for better image representation and more accurate captions ",
+      " 3527 article views ",
+      " 2 citations ",
+      " Browse Figures, Review Reports, and Versions Notes ",
+      " Applied Sciences ",
+      " Endorse and Discuss in SciProfiles"
+    ]
+  ],
+  "23": [
+    [
+      "Stack Overflow ",
+      " Importing and setting up a model for a certain task using transformers and a dataset from svjack/pokemon-blip-captions-en-zh ",
+      " \"Are meetings making you less productive?\" and \"The philosopher who believes in Web Assembly\" ",
+      " Yes, it is at the top ",
+      " There are no upvotes visible for the question ",
+      " \"Do I need 88 keys to produce film soundtracks?\" ",
+      " US and Q ",
+      " Yes, it says \"Create a free Team\" ",
+      " There are 4 related posts recommended"
+    ]
+  ],
+  "24": [["'Yes' ", ""]],
+  "25": [
+    [
+      "'Microsoft Bing' ",
+      " 'Q AL, CHAT, IMAGES, VIDEOS MAPS, NEWS, : MORE' ",
+      " 'Web Pitch, Open Website, Product, Presentations, Templates, Company, Jobs, Other content from pitch.com, Free Online Presentation Maker - 100+ Templates | Pitch, Create A Winning Pitch Deck | Pitch, from Counter-Strike to Keyboard Shortcuts | Pitch'"
+    ]
+  ],
+  "26": [],
+  "27": [],
+  "28": [],
+  "29": [],
+  "30": [],
+  "31": [],
+  "32": [],
+  "33": [],
+  "34": [],
+  "35": [],
+  "36": [],
+  "37": [],
+  "38": [],
+  "39": [],
+  "40": [],
+  "41": [],
+  "42": [],
+  "43": [],
+  "44": [],
+  "45": [],
+  "46": [],
+  "47": [],
+  "48": [],
+  "49": [],
+  "50": [],
+  "51": [],
+  "52": [],
+  "53": [],
+  "54": [],
+  "55": [],
+  "56": [],
+  "57": [],
+  "58": [],
+  "59": [],
+  "60": [],
+  "61": [],
+  "62": [],
+  "63": [],
+  "64": [],
+  "65": [],
+  "66": [],
+  "67": [],
+  "68": [],
+  "69": [],
+  "70": [],
+  "71": [],
+  "72": [],
+  "73": [],
+  "74": [],
+  "75": [],
+  "76": [],
+  "77": [],
+  "78": [],
+  "79": [],
+  "80": [],
+  "81": [],
+  "82": [],
+  "83": [],
+  "84": [],
+  "85": [],
+  "86": [],
+  "87": [],
+  "88": [],
+  "89": [],
+  "90": []
+}
