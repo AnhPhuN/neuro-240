@@ -94,55 +94,104 @@
   ],
   "12": [
     [
-      "Dashboard ",
-      " Account ",
-      " Courses: COMPSCI 181: Machine Learning COMPSCI 181 2022-2023 Spring, ENG-SCI 94: Entrepreneurship an ... ENG-SCI 94 2022-2023 Spring, NEURO 140: Biological and Artific ... NEURO 140 2022-2023 Spring, GENED 1064: Brains, Identity, and ... GENED 1064 2022-2023 Spring ",
-      " Groups ",
-      " Calendar ",
-      " Inbox ",
-      " History ",
-      " Help ",
-      " To Do: Instructor OH, ES94 jackets (!) and idea, marketplace sheet ENG-SCI 94:, Office Hour On Wednesday 3-4, Cancelled Prof. Kreiman's office hour for tomorrow, Cancelling Binxu's Office Hour Tomorrow, Class 18: Drift, Instructor OH ",
-      " Recent Feedback: V Midterm Report"
+      "COMPSCI 181 ",
+      " V Midterm Report ",
+      " Mar 31 at 10am ",
+      " ES94 jackets (!) and idea"
     ]
   ],
   "13": [
     [
-      "1. The screen displays a navigation menu with options such as Arc, File, Edit, View, Spaces, Tabs, Archive, Extensions Window, and Help. The top right corner shows US \u00b7 a, and the date and time as Fri Apr 14 10:36 AM. The course information for ENG-SCI 94 is displayed, including assignments Class 12: Term Sheet Math, Class 13: Term Sheet Math, and academic resources such as Academic Integrity Policy, Support Resources, Name Pronunciations, and a Help section. The main content area contains three numbered questions related to company scenarios involving angels and venture capitalists, and additional resources, such as a spreadsheet link and attached slides. ",
-      "\n2. The current course section being viewed is 2022-2023 Spring in ENG-SCI 94, and the selected submenu item is Assignments."
+      ": 36 ",
+      " ENG-SCI 94, Class 12: Term Sheet Math ",
+      " Due Mar 6 by 11:59pm ",
+      " 3"
     ]
   ],
   "14": [
     [
-      "Top navbar options: Arc File, Edit, View, Spaces, Tabs, Archive Extensions, Window, and Help ",
-      " Language and timezone: US, a ",
-      " Date and time: Fri Apr 14 10:36 AM ",
-      " Course title: ENG-SCI 94 > Assignments > Class 25: Student presentations of projects ",
-      " Left sidebar options: Account, Dashboard, Courses, Groups, Calendar, . 36, Inbox, History, and Help ",
-      " Main course sections: 2022-2023 Spring Home, Class 25: Student presentations of projects, Announcements, Due Apr 26 by 11:59pm Points 0, Syllabus, Assignments, Class 26: Student presentations of projects, Grades 2, Wednesday 4/26, Pages, FINAL REFLECTION DUE BY 4 AM ON THE DAY OF CLASS, People, Files, Six presentations of projects-in-progress with some final words by Josh, Library Reserves, Academic Integrity Policy, Support Resources, Name Pronunciations ",
-      " Lower left content: K"
+      "'ENG-SCI 94 > Assignments > Class 25: Student presentations of projects' ",
+      " '4 AM ON THE DAY OF CLASS' ",
+      " 'Fri Apr 14 10:36 AM'"
     ]
   ],
   "15": [
+    ["'ENG-SCI 94 > People' ", " 'Syllabus'"]
+  ],
+  "16": [
     [
-      "Main menu items: Arc File, Edit, View, Spaces, Tabs, Archive, Extensions, Window, Help ",
-      " Date and location: US, Fri Apr 14 10:36 AM ",
-      " Course information: ENG-SCI 94, 2022-2023 Spring ",
-      " Course sections: Account, Dashboard, Home, Announcements, Syllabus, Everyone Groups, Assignments, Grades, Pages, People, Calendar, Files, Inbox, History, Help ",
-      " People section count: 12 ",
-      " Other course resources: Library Reserves, Academic Integrity Policy, Support Resources, Name Pronunciations"
+      "You are on Caroline Abel's access report page for course ENG-SCI 94 ",
+      " No visible contact info provided ",
+      " Caroline Abel hasn't added a bio ",
+      " ENG-SCI 94 is a course titled \"Entrepreneurship and Innovation: Practical and Academic Insights\""
     ]
   ],
-  "16": [],
-  "17": [],
-  "18": [],
-  "19": [],
-  "20": [],
-  "21": [],
-  "22": [],
-  "23": [],
-  "24": [],
-  "25": [],
+  "17": [["Cases ", " Jan 26, 2023"]],
+  "18": [
+    [
+      "You got a notification from \"Gusto mail.google.com\" near the top right, which says \"Important: Avoid logging into impostor sites\" ",
+      " You are on page 1 of 16 pages"
+    ]
+  ],
+  "19": [
+    [
+      "There is no specific content listed under the 'Calendar' tab on the screen ",
+      " There is no content displayed in the middle of the screen."
+    ]
+  ],
+  "20": [
+    [
+      "You are looking at a calendar and agenda page that describes upcoming events, deadlines, and schedules ",
+      " On Wednesday, April 19th, there are two events: \"10:00am Instructor OH\" and \"Due 11:59pm Class 23: In-Q-Tel\" ",
+      " There are 3 dates with deadlines shown on this page."
+    ]
+  ],
+  "21": [
+    [
+      "This page is showing a weekly calendar in the main area of the screen. ",
+      " On Friday the 14th, there are Instructor OH events happening. ",
+      " The Friday Instructor OH events are happening at 10:00 AM - 11:00 AM. ",
+      " This calendar spans from Sunday the 9th to Saturday the 15th of April."
+    ]
+  ],
+  "22": [
+    [
+      "This page is about a research article titled \"Panoptic Segmentation-Based Attention for Image Captioning\" ",
+      " Wenjie Cai, Zheng Xiong, and Xianfang Sun are the first three authors ",
+      " The paper was published on 4 January 2020 ",
+      " The paper is about obtaining a better image representation with attention mechanisms in image captioning, proposing panoptic segmentation-based attention and a dual-attention module ",
+      " There are 3527 article views ",
+      " There are 2 citations ",
+      " The buttons next to the Download button are \"Browse Figures\" and \"Review Reports\" ",
+      " The journal is Applied Sciences ",
+      " The buttons on top of the 'Comment' button on the right are \"Endorse\" and \"...\""
+    ]
+  ],
+  "23": [
+    [
+      "I am on Stack Overflow ",
+      " The problem trying to be fixed is not explicitly mentioned, but the code is related to creating a model with VisionEncoderDecoderModel using transformers and preparing a dataset ",
+      " The articles recommended on 'The Overflow Blog' are \"Are meetings making you less productive?\" and \"The philosopher who believes in Web Assembly\" ",
+      " Yes, there is a search bar and it is on the top ",
+      " There are no upvotes mentioned for the question ",
+      " The first 'hot network question' is \"Do I need 88 keys to produce film soundtracks?\" ",
+      " The two buttons on the right of the search bar are \"Log in\" and \"Sign up\" ",
+      " Yes, making a team seems to be free on Stack Overflow based on the mention of \"Create a free Team\" ",
+      " The page recommends 4 'Related' posts"
+    ]
+  ],
+  "24": [
+    [
+      "Yes, there is a file titled \"2302.14045.pdf\" on the main part of the screen."
+    ]
+  ],
+  "25": [
+    [
+      "Microsoft Bing ",
+      " CHAT, IMAGES, VIDEOS MAPS, NEWS, MORE ",
+      " Product, Presentations, Templates, Company, Jobs, Other content from pitch.com, Blog, Download, Creative Brief, Status Pitch"
+    ]
+  ],
   "26": [],
   "27": [],
   "28": [],

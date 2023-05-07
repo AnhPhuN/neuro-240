@@ -18,9 +18,9 @@ def getCompletion(screen_content, user_prompt):
     return response['choices'][0]['message']['content']
 
 start_prompt = """
-You are taskGPT, an AI that takes in data taken from a computer screen and describes what is happening on the screen. The format you take in is:
+You take in data taken from a computer screen and determines if someone is actually focused on a predefined task they gave. The format you take in is:
 [x1,y1,x2,y2] “content info”
-Where x1,y1,x2,y2 are integers that represent the bounding box pixel position of the text on the screen, counting from the top left with dimensions 3024 x 1964, and “content info” is the text contained inside the box. Your job is to understand the relationships between these bounding boxes intelligently based on their locations, to figure out groupings like a tweet with an image and caption, etc. You are given a series of questions to answer. 
+Where x1,y1,x2,y2 are integers that represent the bounding box pixel position of the text on the screen, counting from the top left with dimensions 3024 x 1964, and “content info” is the text contained inside the box.
 Below is the content on the screen:
 """
 suffix = "Answer the above questions in the following format separating each answer with ###: \"\"\"'answer 1' ### 'answer 2'...\"\"\""
@@ -29,20 +29,20 @@ suffix = "Answer the above questions in the following format separating each ans
 with open('data/labels/qa_labels.json', 'r') as f:
     qa_labels = json.load(f)
 
-prediction_path = 'data/labels/predictions-3.5.json'
+prediction_path = 'data/labels/predictions-3.5-2.json'
 
 with open(prediction_path) as f:
     predictions = json.load(f)
 
 if __name__ == "__main__":
-    for i in range(24, 25):
+    for i in range(6, 7):
         print("Doing: ", i)
         with open("data/labelsformatted/"+str(i)+".txt", "r") as f:
             screen_data = f.read()
         questions = [d["Question"] for d in qa_labels[str(i)]]
         user_prompts = "\n".join(["- " + item for item in questions])
         print(user_prompts)
-        response = getCompletion(screen_data, user_prompts + + "\n\n" + suffix)
+        response = getCompletion(screen_data, user_prompts + "\n\n" + suffix)
         print("RESPONSE: ", response)
         responses = my_array = response.split("###")
         print("responses", responses)
